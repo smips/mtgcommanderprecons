@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Aberrant"/>
+        <card number="1" name="Abundance"/>
+        <card number="1" name="Acolyte Hybrid"/>
+        <card number="1" name="Aetherize"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Ash Barrens"/>
+        <card number="1" name="Atalan Jackal"/>
+        <card number="1" name="Biophagus"/>
+        <card number="1" name="Bone Sabres"/>
+        <card number="1" name="Bred for the Hunt"/>
+        <card number="1" name="Broodlord"/>
+        <card number="1" name="Cave of Temptation"/>
+        <card number="1" name="Cinder Glade"/>
+        <card number="1" name="Clamavus"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Cultivate"/>
+        <card number="1" name="Death's Presence"/>
+        <card number="1" name="Deathleaper, Terror Weapon"/>
+        <card number="1" name="Evolving Wilds"/>
+        <card number="1" name="Exocrine"/>
+        <card number="1" name="Exotic Orchard"/>
+        <card number="1" name="Explore"/>
+        <card number="1" name="Farseek"/>
+        <card number="8" name="Forest"/>
+        <card number="1" name="Frontier Bivouac"/>
+        <card number="1" name="Game Trail"/>
+        <card number="1" name="Gargoyle Flock"/>
+        <card number="1" name="Genestealer Locus"/>
+        <card number="1" name="Genestealer Patriarch"/>
+        <card number="1" name="Ghyrson Starn, Kelermorph"/>
+        <card number="1" name="Goliath Truck"/>
+        <card number="1" name="Hardened Scales"/>
+        <card number="1" name="Harrow"/>
+        <card number="1" name="Haruspex"/>
+        <card number="1" name="Herald's Horn"/>
+        <card number="1" name="Hierophant Bio-Titan"/>
+        <card number="1" name="Hormagaunt Horde"/>
+        <card number="1" name="Hull Breach"/>
+        <card number="1" name="Icon of Ancestry"/>
+        <card number="1" name="Inspiring Call"/>
+        <card number="7" name="Island"/>
+        <card number="1" name="Lictor"/>
+        <card number="1" name="Magus Lucea Kane"/>
+        <card number="1" name="Malanthrope"/>
+        <card number="1" name="Mawloc"/>
+        <card number="7" name="Mountain"/>
+        <card number="1" name="New Horizons"/>
+        <card number="1" name="Nexos"/>
+        <card number="1" name="Old One Eye"/>
+        <card number="1" name="Opal Palace"/>
+        <card number="1" name="Overgrowth"/>
+        <card number="1" name="Path of Ancestry"/>
+        <card number="1" name="Purestrain Genestealer"/>
+        <card number="1" name="Rampant Growth"/>
+        <card number="1" name="Ravener"/>
+        <card number="1" name="Rugged Highlands"/>
+        <card number="1" name="Screamer-Killer"/>
+        <card number="1" name="Shadow in the Warp"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Sporocyst"/>
+        <card number="1" name="Starstorm"/>
+        <card number="1" name="Temple of Abandon"/>
+        <card number="1" name="Temple of Epiphany"/>
+        <card number="1" name="Temple of Mystery"/>
+        <card number="1" name="Termagant Swarm"/>
+        <card number="1" name="Terramorphic Expanse"/>
+        <card number="1" name="Tervigon"/>
+        <card number="1" name="The First Tyrannic War"/>
+        <card number="1" name="The Red Terror"/>
+        <card number="1" name="Thornwood Falls"/>
+        <card number="1" name="Toxicrene"/>
+        <card number="1" name="Trygon Prime"/>
+        <card number="1" name="Tyranid Harridan"/>
+        <card number="1" name="Tyranid Invasion"/>
+        <card number="1" name="Tyranid Prime"/>
+        <card number="1" name="Tyrant Guard"/>
+        <card number="1" name="Unclaimed Territory"/>
+        <card number="1" name="Venomthrope"/>
+        <card number="1" name="Winged Hive Tyrant"/>
+        <card number="1" name="Zoanthrope"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="The Swarmlord"/>
+    </zone>
+</cockatrice_deck>

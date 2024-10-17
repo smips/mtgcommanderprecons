@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Alms Collector"/>
+        <card number="1" name="Animal Sanctuary"/>
+        <card number="1" name="Anointed Procession"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Basilisk Collar"/>
+        <card number="1" name="Beastmaster Ascension"/>
+        <card number="1" name="Bloodline Pretender"/>
+        <card number="1" name="Brimaz, King of Oreskos"/>
+        <card number="1" name="Canopy Vista"/>
+        <card number="1" name="Cast Out"/>
+        <card number="1" name="Cinder Glade"/>
+        <card number="1" name="Clifftop Retreat"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Crib Swap"/>
+        <card number="1" name="Cultivate"/>
+        <card number="1" name="Cursed Mirror"/>
+        <card number="1" name="Dusk // Dawn"/>
+        <card number="1" name="Exotic Orchard"/>
+        <card number="1" name="Farseek"/>
+        <card number="1" name="Felidar Retreat"/>
+        <card number="1" name="Feline Sovereign"/>
+        <card number="1" name="Fleetfoot Panther"/>
+        <card number="7" name="Forest"/>
+        <card number="1" name="Fortified Village"/>
+        <card number="1" name="Game Trail"/>
+        <card number="1" name="Greater Tanuki"/>
+        <card number="1" name="Herald's Horn"/>
+        <card number="1" name="Highcliff Felidar"/>
+        <card number="1" name="Hungry Lynx"/>
+        <card number="1" name="Impact Tremors"/>
+        <card number="1" name="Jazal Goldmane"/>
+        <card number="1" name="Jetmir, Nexus of Revels"/>
+        <card number="1" name="Jetmir's Garden"/>
+        <card number="1" name="Jinnie Fay, Jetmir's Second"/>
+        <card number="1" name="Jungle Shrine"/>
+        <card number="1" name="Keeper of Fables"/>
+        <card number="1" name="King of the Pride"/>
+        <card number="1" name="Kitt Kanto, Mayhem Diva"/>
+        <card number="1" name="Komainu Battle Armor"/>
+        <card number="1" name="Krosan Verge"/>
+        <card number="1" name="Lion Sash"/>
+        <card number="1" name="Loyal Warhound"/>
+        <card number="1" name="Lurking Predators"/>
+        <card number="1" name="Marisi, Breaker of the Coil"/>
+        <card number="1" name="Masked Vandal"/>
+        <card number="1" name="Maskwood Nexus"/>
+        <card number="1" name="Mirror Entity"/>
+        <card number="5" name="Mountain"/>
+        <card number="1" name="Nacatl War-Pride"/>
+        <card number="1" name="Nature's Lore"/>
+        <card number="1" name="Oketra's Monument"/>
+        <card number="1" name="Oreskos Explorer"/>
+        <card number="1" name="Pack Leader"/>
+        <card number="1" name="Path of Ancestry"/>
+        <card number="1" name="Path to Exile"/>
+        <card number="1" name="Phabine, Boss's Confidant"/>
+        <card number="10" name="Plains"/>
+        <card number="1" name="Qasali Slingers"/>
+        <card number="1" name="Realmwalker"/>
+        <card number="1" name="Regal Caracal"/>
+        <card number="1" name="Return of the Wildspeaker"/>
+        <card number="1" name="Rootbound Crag"/>
+        <card number="1" name="Scattered Groves"/>
+        <card number="1" name="Seht's Tiger"/>
+        <card number="1" name="Sheltered Thicket"/>
+        <card number="1" name="Showdown of the Skalds"/>
+        <card number="1" name="Skullclamp"/>
+        <card number="1" name="Skyhunter Strike Force"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Spirited Companion"/>
+        <card number="1" name="Stalking Leonin"/>
+        <card number="1" name="Sunpetal Grove"/>
+        <card number="1" name="Taurean Mauler"/>
+        <card number="1" name="Temur Sabertooth"/>
+        <card number="1" name="Three Visits"/>
+        <card number="1" name="Tocasia's Welcome"/>
+        <card number="1" name="Vanquisher's Banner"/>
+        <card number="1" name="Warp World"/>
+        <card number="1" name="White Sun's Zenith"/>
+        <card number="1" name="Whitemane Lion"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Nine Lives"/>
+        <card number="1" name="Yoshimaru, Ever Faithful"/>
+        <card number="1" name="Rin and Seri, Inseparable"/>
+    </zone>
+</cockatrice_deck>

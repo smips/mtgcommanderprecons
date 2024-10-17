@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Abrade"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Ash Barrens"/>
+        <card number="1" name="Ashnod the Uncaring"/>
+        <card number="1" name="Audacious Reshapers"/>
+        <card number="1" name="Bedevil"/>
+        <card number="1" name="Blasphemous Act"/>
+        <card number="1" name="Blast-Furnace Hellkite"/>
+        <card number="1" name="Brudiclad, Telchor Engineer"/>
+        <card number="1" name="Buried Ruin"/>
+        <card number="1" name="Chaos Warp"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Commander's Sphere"/>
+        <card number="1" name="Crumbling Necropolis"/>
+        <card number="1" name="Cursed Mirror"/>
+        <card number="1" name="Darkwater Catacombs"/>
+        <card number="1" name="Dimir Aqueduct"/>
+        <card number="1" name="Dimir Signet"/>
+        <card number="1" name="Dreamstone Hedron"/>
+        <card number="1" name="Drossforge Bridge"/>
+        <card number="1" name="Emry, Lurker of the Loch"/>
+        <card number="1" name="Executioner's Capsule"/>
+        <card number="1" name="Exotic Orchard"/>
+        <card number="1" name="Expressive Iteration"/>
+        <card number="1" name="Fact or Fiction"/>
+        <card number="1" name="Fain, the Broker"/>
+        <card number="1" name="Faithless Looting"/>
+        <card number="1" name="Farid, Enterprising Salvager"/>
+        <card number="1" name="Feed the Swarm"/>
+        <card number="1" name="Fellwar Stone"/>
+        <card number="1" name="Geth, Lord of the Vault"/>
+        <card number="1" name="Glint Raker"/>
+        <card number="1" name="Great Furnace"/>
+        <card number="1" name="Hedron Archive"/>
+        <card number="1" name="Hellkite Igniter"/>
+        <card number="1" name="Herald of Anguish"/>
+        <card number="1" name="Ichor Wellspring"/>
+        <card number="1" name="Idol of Oblivion"/>
+        <card number="2" name="Island"/>
+        <card number="3" name="Island"/>
+        <card number="1" name="Izzet Boilerworks"/>
+        <card number="1" name="Jhoira, Weatherlight Captain"/>
+        <card number="1" name="Lithoform Engine"/>
+        <card number="1" name="Machine God's Effigy"/>
+        <card number="1" name="Master Transmuter"/>
+        <card number="1" name="Metalwork Colossus"/>
+        <card number="1" name="Mind Stone"/>
+        <card number="1" name="Mirrorworks"/>
+        <card number="1" name="Mistvault Bridge"/>
+        <card number="1" name="Mnemonic Sphere"/>
+        <card number="4" name="Mountain"/>
+        <card number="1" name="Muzzio, Visionary Architect"/>
+        <card number="1" name="Mycosynth Wellspring"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="1" name="Nihil Spellbomb"/>
+        <card number="1" name="Oblivion Stone"/>
+        <card number="1" name="Oni-Cult Anvil"/>
+        <card number="1" name="Padeem, Consul of Innovation"/>
+        <card number="1" name="Path of Ancestry"/>
+        <card number="1" name="Prophetic Prism"/>
+        <card number="1" name="Rakdos Carnarium"/>
+        <card number="1" name="Rakdos Signet"/>
+        <card number="1" name="Reliquary Tower"/>
+        <card number="1" name="Scavenged Brawler"/>
+        <card number="1" name="Seat of the Synod"/>
+        <card number="1" name="Servo Schematic"/>
+        <card number="1" name="Shadowblood Ridge"/>
+        <card number="1" name="Silas Renn, Seeker Adept"/>
+        <card number="1" name="Silverbluff Bridge"/>
+        <card number="1" name="Slobad, Goblin Tinkerer"/>
+        <card number="1" name="Smelting Vat"/>
+        <card number="1" name="Smoldering Marsh"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Spine of Ish Sah"/>
+        <card number="1" name="Strionic Resonator"/>
+        <card number="2" name="Swamp"/>
+        <card number="2" name="Swamp"/>
+        <card number="1" name="Temple of Deceit"/>
+        <card number="1" name="Temple of Epiphany"/>
+        <card number="1" name="Temple of Malice"/>
+        <card number="1" name="Terisiare's Devastation"/>
+        <card number="1" name="Terramorphic Expanse"/>
+        <card number="1" name="Thirst for Knowledge"/>
+        <card number="1" name="Thoughtcast"/>
+        <card number="1" name="Thran Dynamo"/>
+        <card number="1" name="Trading Post"/>
+        <card number="1" name="Traxos, Scourge of Kroog"/>
+        <card number="1" name="Vault of Whispers"/>
+        <card number="1" name="Wayfarer's Bauble"/>
+        <card number="1" name="Wondrous Crucible"/>
+        <card number="1" name="Workshop Elders"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Mishra, Eminent One"/>
+    </zone>
+</cockatrice_deck>

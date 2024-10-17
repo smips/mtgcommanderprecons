@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Ashad, the Lone Cyberman"/>
+        <card number="1" name="Auton Soldier"/>
+        <card number="1" name="Blasphemous Act"/>
+        <card number="1" name="Blink"/>
+        <card number="1" name="Canyon Slough"/>
+        <card number="1" name="Choked Estuary"/>
+        <card number="1" name="Clockwork Droid"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Commander's Sphere"/>
+        <card number="1" name="Creeping Tar Pit"/>
+        <card number="1" name="Crumbling Necropolis"/>
+        <card number="1" name="Cult of Skaro"/>
+        <card number="1" name="Cyber Conversion"/>
+        <card number="1" name="Cyberman Patrol"/>
+        <card number="1" name="Cybermat"/>
+        <card number="1" name="Cybermen Squadron"/>
+        <card number="1" name="Cybership"/>
+        <card number="1" name="Dalek Drone"/>
+        <card number="1" name="Dalek Squadron"/>
+        <card number="1" name="Darkwater Catacombs"/>
+        <card number="1" name="Day of the Moon"/>
+        <card number="1" name="Death in Heaven"/>
+        <card number="1" name="Delete"/>
+        <card number="1" name="Don't Blink"/>
+        <card number="1" name="Doomsday Confluence"/>
+        <card number="1" name="Dragonskull Summit"/>
+        <card number="1" name="Drowned Catacomb"/>
+        <card number="1" name="Ensnared by the Mara"/>
+        <card number="1" name="Exotic Orchard"/>
+        <card number="1" name="Exterminate!"/>
+        <card number="1" name="Feed the Swarm"/>
+        <card number="1" name="Fetid Pools"/>
+        <card number="1" name="Fiery Islet"/>
+        <card number="1" name="Foreboding Ruins"/>
+        <card number="1" name="Frostboil Snarl"/>
+        <card number="1" name="Gallifrey Council Chamber"/>
+        <card number="1" name="Genesis of the Daleks"/>
+        <card number="1" name="Great Intelligence's Plan"/>
+        <card number="1" name="Haunted Ridge"/>
+        <card number="1" name="Hunted by The Family"/>
+        <card number="1" name="Island"/>
+        <card number="1" name="Island"/>
+        <card number="1" name="Laser Screwdriver"/>
+        <card number="1" name="Lavaclaw Reaches"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Midnight Crusader Shuttle"/>
+        <card number="1" name="Mind Stone"/>
+        <card number="1" name="Missy"/>
+        <card number="1" name="Mountain"/>
+        <card number="1" name="Mountain"/>
+        <card number="1" name="Ominous Cemetery"/>
+        <card number="1" name="Path of Ancestry"/>
+        <card number="1" name="Propaganda"/>
+        <card number="1" name="Rassilon, the War President"/>
+        <card number="1" name="Reliquary Tower"/>
+        <card number="1" name="Renegade Silent"/>
+        <card number="1" name="River of Tears"/>
+        <card number="1" name="Shadowblood Ridge"/>
+        <card number="1" name="Shipwreck Marsh"/>
+        <card number="1" name="Smoldering Marsh"/>
+        <card number="1" name="Snuff Out"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Solemn Simulacrum"/>
+        <card number="1" name="Sontaran General"/>
+        <card number="1" name="Stormcarved Coast"/>
+        <card number="1" name="Sunken Hollow"/>
+        <card number="1" name="Swamp"/>
+        <card number="1" name="Swamp"/>
+        <card number="1" name="Sycorax Commander"/>
+        <card number="1" name="Talisman of Dominance"/>
+        <card number="1" name="Talisman of Indulgence"/>
+        <card number="1" name="Temple of Deceit"/>
+        <card number="1" name="Temple of Epiphany"/>
+        <card number="1" name="Temple of Malice"/>
+        <card number="1" name="Temple of the False God"/>
+        <card number="1" name="Terramorphic Expanse"/>
+        <card number="1" name="The Beast, Deathless Prince"/>
+        <card number="1" name="The Cyber-Controller"/>
+        <card number="1" name="The Dalek Emperor"/>
+        <card number="1" name="The Flood of Mars"/>
+        <card number="1" name="The Master, Formed Anew"/>
+        <card number="1" name="The Master, Gallifrey's End"/>
+        <card number="1" name="The Master, Mesmerist"/>
+        <card number="1" name="The Master, Multiplied"/>
+        <card number="1" name="The Rani"/>
+        <card number="1" name="The Sound of Drums"/>
+        <card number="1" name="The Toymaker's Trap"/>
+        <card number="1" name="The Valeyard"/>
+        <card number="1" name="This Is How It Ends"/>
+        <card number="1" name="Thought Vessel"/>
+        <card number="1" name="Thriving Moor"/>
+        <card number="1" name="Time Reaper"/>
+        <card number="1" name="Vashta Nerada"/>
+        <card number="1" name="Vislor Turlough"/>
+        <card number="1" name="Wayfarer's Bauble"/>
+        <card number="1" name="Weeping Angel"/>
+        <card number="1" name="Wound Reflection"/>
+        <card number="1" name="Zygon Infiltrator"/>
+        <card number="1" name="PLANES:"/>
+        <card number="1" name="Aplan Mortarium"/>
+        <card number="1" name="Bowie Base One"/>
+        <card number="1" name="City of the Daleks"/>
+        <card number="1" name="Dalek Intensive Care"/>
+        <card number="1" name="Hotel of Fears"/>
+        <card number="1" name="Mondassian Colony Ship"/>
+        <card number="1" name="The Doctor's Tomb"/>
+        <card number="1" name="The Matrix of Time"/>
+        <card number="1" name="The Moonbase"/>
+        <card number="1" name="Unleash the Flux"/>
+        <card number="1" name="Davros, Dalek Creator"/>
+    </zone>
+</cockatrice_deck>

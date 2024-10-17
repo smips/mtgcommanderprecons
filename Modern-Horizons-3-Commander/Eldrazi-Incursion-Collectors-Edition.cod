@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Adarkar Wastes"/>
+        <card number="1" name="All Is Dust"/>
+        <card number="1" name="Ancient Stirrings"/>
+        <card number="1" name="Angelic Aberration"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Artisan of Kozilek"/>
+        <card number="1" name="Ash Barrens"/>
+        <card number="1" name="Awakening Zone"/>
+        <card number="1" name="Azlask, the Swelling Scourge"/>
+        <card number="1" name="Battlefield Forge"/>
+        <card number="1" name="Benthic Anomaly"/>
+        <card number="1" name="Bismuth Mindrender"/>
+        <card number="1" name="Bonders' Enclave"/>
+        <card number="1" name="Brushland"/>
+        <card number="1" name="Cascading Cataracts"/>
+        <card number="1" name="Caves of Koilos"/>
+        <card number="1" name="Chittering Dispatcher"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Corrupted Crossroads"/>
+        <card number="1" name="Crib Swap"/>
+        <card number="1" name="Deepfathom Skulker"/>
+        <card number="1" name="Dreamstone Hedron"/>
+        <card number="1" name="Drowner of Hope"/>
+        <card number="1" name="Elder Deep-Fiend"/>
+        <card number="1" name="Eldrazi Confluence"/>
+        <card number="1" name="Eldrazi Conscription"/>
+        <card number="1" name="Eldrazi Displacer"/>
+        <card number="1" name="Eldrazi Monument"/>
+        <card number="1" name="Eldrazi Temple"/>
+        <card number="1" name="Eldritch Immunity"/>
+        <card number="1" name="Endbringer"/>
+        <card number="1" name="Everflowing Chalice"/>
+        <card number="1" name="Exotic Orchard"/>
+        <card number="1" name="Forest"/>
+        <card number="1" name="Forsaken Monument"/>
+        <card number="1" name="Garruk's Uprising"/>
+        <card number="1" name="Glaring Fleshraker"/>
+        <card number="1" name="Hedron Archive"/>
+        <card number="1" name="Herald's Horn"/>
+        <card number="1" name="Hideous Taskmaster"/>
+        <card number="1" name="Idol of Oblivion"/>
+        <card number="1" name="Imprisoned in the Moon"/>
+        <card number="1" name="Inversion Behemoth"/>
+        <card number="1" name="Island"/>
+        <card number="1" name="Karplusan Forest"/>
+        <card number="1" name="Kozilek's Return"/>
+        <card number="1" name="Llanowar Wastes"/>
+        <card number="1" name="Morophon, the Boundless"/>
+        <card number="1" name="Mountain"/>
+        <card number="1" name="Mutated Cultist"/>
+        <card number="1" name="Mystic Forge"/>
+        <card number="1" name="Oblivion Sower"/>
+        <card number="1" name="Opal Palace"/>
+        <card number="1" name="Path of Ancestry"/>
+        <card number="1" name="Plains"/>
+        <card number="1" name="Reliquary Tower"/>
+        <card number="1" name="Return of the Wildspeaker"/>
+        <card number="1" name="Rishkar's Expertise"/>
+        <card number="1" name="Ruins of Oran-Rief"/>
+        <card number="1" name="Secluded Courtyard"/>
+        <card number="1" name="Selective Obliteration"/>
+        <card number="1" name="Shivan Reef"/>
+        <card number="1" name="Shrine of the Forsaken Gods"/>
+        <card number="1" name="Sifter of Skulls"/>
+        <card number="1" name="Sire of Stagnation"/>
+        <card number="1" name="Skittering Invasion"/>
+        <card number="1" name="Snapping Voidcraw"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Spawnbed Protector"/>
+        <card number="1" name="Spawning Bed"/>
+        <card number="1" name="Suffer the Past"/>
+        <card number="1" name="Sulfurous Springs"/>
+        <card number="1" name="Swamp"/>
+        <card number="1" name="Talisman of Curiosity"/>
+        <card number="1" name="Talisman of Dominance"/>
+        <card number="1" name="Talisman of Impulse"/>
+        <card number="1" name="Talisman of Resilience"/>
+        <card number="1" name="Tectonic Edge"/>
+        <card number="1" name="Temple of Malady"/>
+        <card number="1" name="Temple of Silence"/>
+        <card number="1" name="Tendo Ice Bridge"/>
+        <card number="1" name="Titans' Vanguard"/>
+        <card number="1" name="Tomb of the Spirit Dragon"/>
+        <card number="1" name="Tranquil Landscape"/>
+        <card number="1" name="Twins of Discord"/>
+        <card number="1" name="Twisted Landscape"/>
+        <card number="1" name="Ugin, the Ineffable"/>
+        <card number="1" name="Ugin's Insight"/>
+        <card number="1" name="Ulamog's Crusher"/>
+        <card number="1" name="Ulamog's Dreadsire"/>
+        <card number="1" name="Ulamog's Nullifier"/>
+        <card number="1" name="Unclaimed Territory"/>
+        <card number="1" name="Underground River"/>
+        <card number="1" name="Vile Redeemer"/>
+        <card number="1" name="Warping Wail"/>
+        <card number="1" name="Wastes"/>
+        <card number="1" name="Wastescape Battlemage"/>
+        <card number="1" name="World Breaker"/>
+        <card number="1" name="Yavimaya Coast"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Ulalek, Fused Atrocity"/>
+    </zone>
+</cockatrice_deck>

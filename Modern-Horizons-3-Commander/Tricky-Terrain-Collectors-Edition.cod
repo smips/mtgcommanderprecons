@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Acidic Slime"/>
+        <card number="1" name="Aggressive Biomancy"/>
+        <card number="1" name="Apex Devastator"/>
+        <card number="1" name="Arcane Denial"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Avenger of Zendikar"/>
+        <card number="1" name="Basilisk Gate"/>
+        <card number="1" name="Beast Within"/>
+        <card number="1" name="Blast Zone"/>
+        <card number="1" name="Chromatic Lantern"/>
+        <card number="1" name="Cloudpost"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Copy Land"/>
+        <card number="1" name="Curse of the Swine"/>
+        <card number="1" name="Dark Depths"/>
+        <card number="1" name="Desert of the Indomitable"/>
+        <card number="1" name="Desert of the Mindful"/>
+        <card number="1" name="Desert Warfare"/>
+        <card number="1" name="Dreamroot Cascade"/>
+        <card number="1" name="Drown in Dreams"/>
+        <card number="1" name="Dryad of the Ilysian Grove"/>
+        <card number="1" name="Elvish Rejuvenator"/>
+        <card number="1" name="Eureka Moment"/>
+        <card number="1" name="Evacuation"/>
+        <card number="1" name="Expedition Map"/>
+        <card number="1" name="Finale of Revelation"/>
+        <card number="1" name="Flooded Grove"/>
+        <card number="1" name="Floriferous Vinewall"/>
+        <card number="1" name="Fog Bank"/>
+        <card number="4" name="Forest"/>
+        <card number="1" name="Glimmerpost"/>
+        <card number="1" name="Growth Spiral"/>
+        <card number="1" name="Harmonize"/>
+        <card number="1" name="Hashep Oasis"/>
+        <card number="1" name="Hidden Cataract"/>
+        <card number="1" name="Hidden Nursery"/>
+        <card number="1" name="Horizon of Progress"/>
+        <card number="1" name="Hour of Promise"/>
+        <card number="1" name="Hydra Broodmaster"/>
+        <card number="1" name="Hydroid Krasis"/>
+        <card number="3" name="Island"/>
+        <card number="1" name="Jyoti, Moag Ancient"/>
+        <card number="1" name="Lair of the Hydra"/>
+        <card number="1" name="Lazotep Quarry"/>
+        <card number="1" name="Lumbering Falls"/>
+        <card number="1" name="Lush Oasis"/>
+        <card number="1" name="Magus of the Candelabra"/>
+        <card number="1" name="Mana Reflection"/>
+        <card number="1" name="March from Velis Vel"/>
+        <card number="1" name="Mirage Mirror"/>
+        <card number="1" name="Nissa, Steward of Elements"/>
+        <card number="1" name="Oblivion Stone"/>
+        <card number="1" name="Overflowing Basin"/>
+        <card number="1" name="Planar Nexus"/>
+        <card number="1" name="Poison Dart Frog"/>
+        <card number="1" name="Pongify"/>
+        <card number="1" name="Propaganda"/>
+        <card number="1" name="Quandrix Campus"/>
+        <card number="1" name="Rampaging Baloths"/>
+        <card number="1" name="Rampant Frogantua"/>
+        <card number="1" name="Ramunap Excavator"/>
+        <card number="1" name="Replication Technique"/>
+        <card number="1" name="Sage of the Maze"/>
+        <card number="1" name="Satyr Wayfinder"/>
+        <card number="1" name="Scute Swarm"/>
+        <card number="1" name="Seer's Sundial"/>
+        <card number="1" name="Simic Growth Chamber"/>
+        <card number="1" name="Simic Guildgate"/>
+        <card number="1" name="Skullwinder"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Summary Dismissal"/>
+        <card number="1" name="Sunken Palace"/>
+        <card number="1" name="Sylvan Scrying"/>
+        <card number="1" name="Talon Gates of Madara"/>
+        <card number="1" name="Tatyova, Benthic Druid"/>
+        <card number="1" name="Temple of Mystery"/>
+        <card number="1" name="Terastodon"/>
+        <card number="1" name="Thespian's Stage"/>
+        <card number="1" name="Thornwood Falls"/>
+        <card number="1" name="Treasure Cruise"/>
+        <card number="1" name="Trenchpost"/>
+        <card number="1" name="Ulvenwald Hydra"/>
+        <card number="1" name="Urban Evolution"/>
+        <card number="1" name="Uro, Titan of Nature's Wrath"/>
+        <card number="1" name="Urza's Mine"/>
+        <card number="1" name="Urza's Power Plant"/>
+        <card number="1" name="Urza's Tower"/>
+        <card number="1" name="Vesuva"/>
+        <card number="1" name="Vineglimmer Snarl"/>
+        <card number="1" name="Vivien Reid"/>
+        <card number="1" name="Volatile Fault"/>
+        <card number="1" name="Wonderscape Sage"/>
+        <card number="1" name="Yavimaya Coast"/>
+        <card number="1" name="Yavimaya, Cradle of Growth"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Omo, Queen of Vesuva"/>
+    </zone>
+</cockatrice_deck>

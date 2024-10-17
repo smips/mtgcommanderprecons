@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Abrade"/>
+        <card number="1" name="Akoum Refuge"/>
+        <card number="1" name="Ambition's Cost"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Archfiend of Depravity"/>
+        <card number="1" name="Blasphemous Act"/>
+        <card number="1" name="Bloodfell Caves"/>
+        <card number="1" name="Bloodgift Demon"/>
+        <card number="1" name="Brash Taunter"/>
+        <card number="1" name="Breath of Malfegor"/>
+        <card number="1" name="Burnished Hart"/>
+        <card number="1" name="Chaos Warp"/>
+        <card number="1" name="Cinder Barrens"/>
+        <card number="1" name="Combustible Gearhulk"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Commander's Sphere"/>
+        <card number="1" name="Coveted Jewel"/>
+        <card number="1" name="Deadly Tempest"/>
+        <card number="1" name="Dictate of the Twin Gods"/>
+        <card number="1" name="Dredge the Mire"/>
+        <card number="1" name="Explosion of Riches"/>
+        <card number="1" name="Feed the Swarm"/>
+        <card number="1" name="Fiery Confluence"/>
+        <card number="1" name="Foreboding Ruins"/>
+        <card number="1" name="Geode Rager"/>
+        <card number="1" name="Guttersnipe"/>
+        <card number="1" name="Hate Mirage"/>
+        <card number="1" name="Indulgent Tormentor"/>
+        <card number="1" name="Kaervek the Merciless"/>
+        <card number="1" name="Kazuul, Tyrant of the Cliffs"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Magmatic Force"/>
+        <card number="1" name="Mana Geyser"/>
+        <card number="1" name="Molten Slagheap"/>
+        <card number="7" name="Mountain"/>
+        <card number="7" name="Mountain"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="1" name="Nihil Spellbomb"/>
+        <card number="1" name="Ob Nixilis Reignited"/>
+        <card number="1" name="Profane Command"/>
+        <card number="1" name="Rakdos Charm"/>
+        <card number="1" name="Rakdos Signet"/>
+        <card number="1" name="Rakshasa Debaser"/>
+        <card number="1" name="Read the Bones"/>
+        <card number="1" name="Reign of the Pit"/>
+        <card number="1" name="Sangromancer"/>
+        <card number="1" name="Scythe Specter"/>
+        <card number="1" name="Sepulchral Primordial"/>
+        <card number="1" name="Sign in Blood"/>
+        <card number="1" name="Smoldering Marsh"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Solemn Simulacrum"/>
+        <card number="1" name="Soul Shatter"/>
+        <card number="1" name="Spiteful Visions"/>
+        <card number="1" name="Stensia Bloodhall"/>
+        <card number="1" name="Stormfist Crusader"/>
+        <card number="1" name="Sunbird's Invocation"/>
+        <card number="8" name="Swamp"/>
+        <card number="7" name="Swamp"/>
+        <card number="1" name="Syphon Mind"/>
+        <card number="1" name="Talisman of Indulgence"/>
+        <card number="1" name="Tectonic Giant"/>
+        <card number="1" name="Temple of Malice"/>
+        <card number="1" name="Terminate"/>
+        <card number="1" name="Theater of Horrors"/>
+        <card number="1" name="Thermo-Alchemist"/>
+        <card number="1" name="Titan Hunter"/>
+        <card number="1" name="Unlicensed Disintegration"/>
+        <card number="1" name="Urborg Volcano"/>
+        <card number="1" name="Vampire Nighthawk"/>
+        <card number="1" name="Wayfarer's Bauble"/>
+        <card number="1" name="Wild Ricochet"/>
+        <card number="1" name="Wildfire Devils"/>
+        <card number="1" name="Worn Powerstone"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Kardur, Doomscourge"/>
+    </zone>
+</cockatrice_deck>

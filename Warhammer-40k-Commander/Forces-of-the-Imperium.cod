@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="And They Shall Know No Fear"/>
+        <card number="1" name="Arcane Sanctum"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Arco-Flagellant"/>
+        <card number="1" name="Ash Barrens"/>
+        <card number="1" name="Assault Intercessor"/>
+        <card number="1" name="Bastion Protector"/>
+        <card number="1" name="Belisarius Cawl"/>
+        <card number="1" name="Birth of the Imperium"/>
+        <card number="1" name="Callidus Assassin"/>
+        <card number="1" name="Celestine, the Living Saint"/>
+        <card number="1" name="Choked Estuary"/>
+        <card number="1" name="Collective Effort"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Commander's Sphere"/>
+        <card number="1" name="Commissar Severina Raine"/>
+        <card number="1" name="Company Commander"/>
+        <card number="1" name="Cybernetica Datasmith"/>
+        <card number="1" name="Darkwater Catacombs"/>
+        <card number="1" name="Defenders of Humanity"/>
+        <card number="1" name="Deny the Witch"/>
+        <card number="1" name="Deploy to the Front"/>
+        <card number="1" name="Dismal Backwater"/>
+        <card number="1" name="Entrapment Maneuver"/>
+        <card number="1" name="Epistolary Librarian"/>
+        <card number="1" name="Everflowing Chalice"/>
+        <card number="1" name="Evolving Wilds"/>
+        <card number="1" name="Exotic Orchard"/>
+        <card number="1" name="Exterminatus"/>
+        <card number="1" name="Fell the Mighty"/>
+        <card number="1" name="For the Emperor!"/>
+        <card number="1" name="Grey Knight Paragon"/>
+        <card number="1" name="Hour of Reckoning"/>
+        <card number="1" name="Inquisitor Eisenhorn"/>
+        <card number="1" name="Inquisitorial Rosette"/>
+        <card number="5" name="Island"/>
+        <card number="1" name="Knight Paladin"/>
+        <card number="1" name="Launch the Fleet"/>
+        <card number="1" name="Marneus Calgar"/>
+        <card number="1" name="Martial Coup"/>
+        <card number="1" name="Memorial to Glory"/>
+        <card number="1" name="Mind Stone"/>
+        <card number="1" name="Mortify"/>
+        <card number="1" name="Neyam Shai Murad"/>
+        <card number="1" name="Path of Ancestry"/>
+        <card number="8" name="Plains"/>
+        <card number="1" name="Port Town"/>
+        <card number="1" name="Prairie Stream"/>
+        <card number="1" name="Primaris Chaplain"/>
+        <card number="1" name="Primaris Eliminator"/>
+        <card number="1" name="Reaver Titan"/>
+        <card number="1" name="Reconnaissance Mission"/>
+        <card number="1" name="Redemptor Dreadnought"/>
+        <card number="1" name="Sanguinary Priest"/>
+        <card number="1" name="Scoured Barrens"/>
+        <card number="1" name="Sicarian Infiltrator"/>
+        <card number="1" name="Sister Hospitaller"/>
+        <card number="1" name="Sister of Silence"/>
+        <card number="1" name="Sister Repentia"/>
+        <card number="1" name="Skullclamp"/>
+        <card number="1" name="Skycloud Expanse"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Space Marine Devastator"/>
+        <card number="1" name="Space Marine Scout"/>
+        <card number="1" name="Sunken Hollow"/>
+        <card number="7" name="Swamp"/>
+        <card number="1" name="Swords to Plowshares"/>
+        <card number="1" name="Talisman of Dominance"/>
+        <card number="1" name="Talisman of Hierarchy"/>
+        <card number="1" name="Talisman of Progress"/>
+        <card number="1" name="Terramorphic Expanse"/>
+        <card number="1" name="The Flesh Is Weak"/>
+        <card number="1" name="The Golden Throne"/>
+        <card number="1" name="Thunderhawk Gunship"/>
+        <card number="1" name="Thunderwolf Cavalry"/>
+        <card number="1" name="Tranquil Cove"/>
+        <card number="1" name="Triumph of Saint Katherine"/>
+        <card number="1" name="Ultramarines Honour Guard"/>
+        <card number="1" name="Utter End"/>
+        <card number="1" name="Vanguard Suppressor"/>
+        <card number="1" name="Vexilus Praetor"/>
+        <card number="1" name="Zephyrim"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Inquisitor Greyfax"/>
+    </zone>
+</cockatrice_deck>

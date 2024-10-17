@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Academy Ruins"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Blasphemous Act"/>
+        <card number="1" name="Bloodsworn Steward"/>
+        <card number="1" name="Boompile"/>
+        <card number="1" name="Buried Ruin"/>
+        <card number="1" name="Cascade Bluffs"/>
+        <card number="1" name="Chance Encounter"/>
+        <card number="1" name="Chandra's Ignition"/>
+        <card number="1" name="Chaos Warp"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Commander's Plate"/>
+        <card number="1" name="Counterspell"/>
+        <card number="1" name="Crooked Scales"/>
+        <card number="1" name="Daretti, Scrap Savant"/>
+        <card number="1" name="Desolate Lighthouse"/>
+        <card number="1" name="Embercleave"/>
+        <card number="1" name="Exotic Orchard"/>
+        <card number="1" name="Fabricate"/>
+        <card number="1" name="Fiery Gambit"/>
+        <card number="1" name="Flamekin Village"/>
+        <card number="1" name="Footfall Crater"/>
+        <card number="1" name="Frenetic Sliver"/>
+        <card number="1" name="Gamble"/>
+        <card number="1" name="Goblin Archaeologist"/>
+        <card number="1" name="Goblin Engineer"/>
+        <card number="1" name="Goblin Kaboomist"/>
+        <card number="1" name="Great Furnace"/>
+        <card number="1" name="Impulsive Maneuvers"/>
+        <card number="1" name="Inventors' Fair"/>
+        <card number="7" name="Island"/>
+        <card number="1" name="Izzet Boilerworks"/>
+        <card number="1" name="Izzet Signet"/>
+        <card number="1" name="Karplusan Minotaur"/>
+        <card number="1" name="Krark, the Thumbless"/>
+        <card number="1" name="Krark's Thumb"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Long-Term Plans"/>
+        <card number="1" name="Mind Stone"/>
+        <card number="1" name="Mirror March"/>
+        <card number="1" name="Mogg Assassin"/>
+        <card number="8" name="Mountain"/>
+        <card number="1" name="Muddle the Mixture"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="1" name="Negate"/>
+        <card number="1" name="Niv-Mizzet, Parun"/>
+        <card number="1" name="Path of Ancestry"/>
+        <card number="1" name="Planar Chaos"/>
+        <card number="1" name="Ponder"/>
+        <card number="1" name="Preordain"/>
+        <card number="1" name="Propaganda"/>
+        <card number="1" name="Ral Zarek"/>
+        <card number="1" name="Reliquary Tower"/>
+        <card number="1" name="Reshape"/>
+        <card number="1" name="Risky Move"/>
+        <card number="1" name="Rogue's Passage"/>
+        <card number="1" name="Sakashima the Impostor"/>
+        <card number="1" name="Seize the Day"/>
+        <card number="1" name="Serum Visions"/>
+        <card number="1" name="Shadowspear"/>
+        <card number="1" name="Shivan Reef"/>
+        <card number="1" name="Slip Through Space"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Spark Double"/>
+        <card number="1" name="Spinerock Knoll"/>
+        <card number="1" name="Squee's Revenge"/>
+        <card number="1" name="Stitch in Time"/>
+        <card number="1" name="Sulfur Falls"/>
+        <card number="1" name="Swiftfoot Boots"/>
+        <card number="1" name="Sword of Vengeance"/>
+        <card number="1" name="Talisman of Creativity"/>
+        <card number="1" name="Tavern Scoundrel"/>
+        <card number="1" name="Temple of Epiphany"/>
+        <card number="1" name="Temple of the False God"/>
+        <card number="1" name="Temur Battle Rage"/>
+        <card number="1" name="The Locust God"/>
+        <card number="1" name="Thought Vessel"/>
+        <card number="1" name="Tolaria West"/>
+        <card number="1" name="Training Center"/>
+        <card number="1" name="Tribute Mage"/>
+        <card number="1" name="Vandalblast"/>
+        <card number="1" name="Wandering Fumarole"/>
+        <card number="1" name="Whir of Invention"/>
+        <card number="1" name="Whispersilk Cloak"/>
+        <card number="1" name="Yusri, Fortune's Flame"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Island"/>
+        <card number="1" name="Mountain"/>
+        <card number="1" name="Okaun, Eye of Chaos"/>
+        <card number="1" name="Zndrsplt, Eye of Wisdom"/>
+    </zone>
+</cockatrice_deck>

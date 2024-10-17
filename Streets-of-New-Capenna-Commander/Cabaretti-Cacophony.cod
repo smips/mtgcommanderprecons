@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Agitator Ant"/>
+        <card number="1" name="Arasta of the Endless Web"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Artifact Mutation"/>
+        <card number="1" name="Ash Barrens"/>
+        <card number="1" name="Assemble the Legion"/>
+        <card number="1" name="Aura Mutation"/>
+        <card number="1" name="Awakening Zone"/>
+        <card number="1" name="Beast Within"/>
+        <card number="1" name="Beastmaster Ascension"/>
+        <card number="1" name="Bess, Soul Nourisher"/>
+        <card number="1" name="Bloodthirsty Blade"/>
+        <card number="1" name="Boros Charm"/>
+        <card number="1" name="Boss's Chauffeur"/>
+        <card number="1" name="Cabaretti Charm"/>
+        <card number="1" name="Cabaretti Confluence"/>
+        <card number="1" name="Cabaretti Courtyard"/>
+        <card number="1" name="Call the Coppercoats"/>
+        <card number="1" name="Camaraderie"/>
+        <card number="1" name="Canopy Vista"/>
+        <card number="1" name="Castle Ardenvale"/>
+        <card number="1" name="Castle Embereth"/>
+        <card number="1" name="Champion of Lambholt"/>
+        <card number="1" name="Cinder Glade"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Commander's Sphere"/>
+        <card number="1" name="Crash the Party"/>
+        <card number="1" name="Cultivate"/>
+        <card number="1" name="Duelist's Heritage"/>
+        <card number="1" name="Exotic Orchard"/>
+        <card number="1" name="False Floor"/>
+        <card number="1" name="Felidar Retreat"/>
+        <card number="1" name="Fell the Mighty"/>
+        <card number="1" name="Fellwar Stone"/>
+        <card number="8" name="Forest"/>
+        <card number="1" name="Fortified Village"/>
+        <card number="1" name="Gahiji, Honored One"/>
+        <card number="1" name="Game Trail"/>
+        <card number="1" name="Grand Crescendo"/>
+        <card number="1" name="Harmonize"/>
+        <card number="1" name="Idol of Oblivion"/>
+        <card number="1" name="Indulge // Excess"/>
+        <card number="1" name="Intangible Virtue"/>
+        <card number="1" name="Jungle Shrine"/>
+        <card number="1" name="Kazuul, Tyrant of the Cliffs"/>
+        <card number="1" name="Killer Service"/>
+        <card number="1" name="Leafkin Druid"/>
+        <card number="1" name="Life of the Party"/>
+        <card number="1" name="Magus of the Wheel"/>
+        <card number="1" name="March of the Multitudes"/>
+        <card number="1" name="Martial Coup"/>
+        <card number="1" name="Master of Ceremonies"/>
+        <card number="1" name="Mossfire Valley"/>
+        <card number="4" name="Mountain"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="1" name="Naya Panorama"/>
+        <card number="1" name="Orzhov Advokist"/>
+        <card number="1" name="Outpost Siege"/>
+        <card number="1" name="Path of Ancestry"/>
+        <card number="1" name="Path to Exile"/>
+        <card number="1" name="Phabine, Boss's Confidant"/>
+        <card number="4" name="Plains"/>
+        <card number="1" name="Prosperous Partnership"/>
+        <card number="1" name="Rose Room Treasurer"/>
+        <card number="1" name="Rugged Prairie"/>
+        <card number="1" name="Rumor Gatherer"/>
+        <card number="1" name="Sakura-Tribe Elder"/>
+        <card number="1" name="Sandwurm Convergence"/>
+        <card number="1" name="Scepter of Celebration"/>
+        <card number="1" name="Scute Swarm"/>
+        <card number="1" name="Seize the Spotlight"/>
+        <card number="1" name="Selvala, Explorer Returned"/>
+        <card number="1" name="Shamanic Revelation"/>
+        <card number="1" name="Sizzling Soloist"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Sungrass Prairie"/>
+        <card number="1" name="Sylvan Offering"/>
+        <card number="1" name="Temple of Triumph"/>
+        <card number="1" name="Thriving Bluff"/>
+        <card number="1" name="Thriving Grove"/>
+        <card number="1" name="Thriving Heath"/>
+        <card number="1" name="Thunderfoot Baloth"/>
+        <card number="1" name="Vivien's Stampede"/>
+        <card number="1" name="Windbrisk Heights"/>
+        <card number="1" name="Wood Elves"/>
+        <card number="1" name="Zurzoth, Chaos Rider"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Kitt Kanto, Mayhem Diva"/>
+    </zone>
+</cockatrice_deck>

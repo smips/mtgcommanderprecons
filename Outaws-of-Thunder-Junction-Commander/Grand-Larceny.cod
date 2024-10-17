@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Access Tunnel"/>
+        <card number="1" name="Arcane Heist"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Baleful Mastery"/>
+        <card number="1" name="Baleful Strix"/>
+        <card number="1" name="Bladegriff Prototype"/>
+        <card number="1" name="Brainstealer Dragon"/>
+        <card number="1" name="Cazur, Ruthless Stalker"/>
+        <card number="1" name="Chaos Wand"/>
+        <card number="1" name="Cold-Eyed Selkie"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Culling Ritual"/>
+        <card number="1" name="Cunning Rhetoric"/>
+        <card number="1" name="Curse of the Swine"/>
+        <card number="1" name="Darkslick Shores"/>
+        <card number="1" name="Darksteel Ingot"/>
+        <card number="1" name="Darkwater Catacombs"/>
+        <card number="1" name="Dazzling Sphinx"/>
+        <card number="1" name="Diluvian Primordial"/>
+        <card number="1" name="Dimir Aqueduct"/>
+        <card number="1" name="Doc Aurlock, Grizzled Genius"/>
+        <card number="1" name="Dream-Thief's Bandana"/>
+        <card number="1" name="Drowned Catacomb"/>
+        <card number="1" name="Edric, Spymaster of Trest"/>
+        <card number="1" name="Exotic Orchard"/>
+        <card number="1" name="Extract Brain"/>
+        <card number="1" name="Fallen Shinobi"/>
+        <card number="1" name="Feed the Swarm"/>
+        <card number="1" name="Felix Five-Boots"/>
+        <card number="1" name="Fellwar Stone"/>
+        <card number="1" name="Fetid Pools"/>
+        <card number="1" name="Flooded Grove"/>
+        <card number="2" name="Forest"/>
+        <card number="2" name="Forest"/>
+        <card number="1" name="Ghostly Pilferer"/>
+        <card number="1" name="Gonti, Lord of Luxury"/>
+        <card number="1" name="Heartless Conscription"/>
+        <card number="1" name="Hinterland Harbor"/>
+        <card number="1" name="Hostage Taker"/>
+        <card number="3" name="Island"/>
+        <card number="2" name="Island"/>
+        <card number="1" name="Kodama's Reach"/>
+        <card number="1" name="Llanowar Wastes"/>
+        <card number="1" name="Mind's Dilation"/>
+        <card number="1" name="Nashi, Moon Sage's Scion"/>
+        <card number="1" name="Oblivion Sower"/>
+        <card number="1" name="Ohran Frostfang"/>
+        <card number="1" name="Opulent Palace"/>
+        <card number="1" name="Orochi Soul-Reaver"/>
+        <card number="1" name="Overflowing Basin"/>
+        <card number="1" name="Plasm Capture"/>
+        <card number="1" name="Predators' Hour"/>
+        <card number="1" name="Prismatic Lens"/>
+        <card number="1" name="Putrefy"/>
+        <card number="1" name="Rampant Growth"/>
+        <card number="1" name="Reliquary Tower"/>
+        <card number="1" name="Sage of the Beyond"/>
+        <card number="1" name="Savvy Trader"/>
+        <card number="1" name="Shadowmage Infiltrator"/>
+        <card number="1" name="Silent-Blade Oni"/>
+        <card number="1" name="Silhana Ledgewalker"/>
+        <card number="1" name="Siphon Insight"/>
+        <card number="1" name="Slither Blade"/>
+        <card number="1" name="Smirking Spelljacker"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Stolen Goods"/>
+        <card number="1" name="Sunken Hollow"/>
+        <card number="3" name="Swamp"/>
+        <card number="3" name="Swamp"/>
+        <card number="1" name="Temple of Deceit"/>
+        <card number="1" name="Temple of Malady"/>
+        <card number="1" name="Temple of Mystery"/>
+        <card number="1" name="The Mimeoplasm"/>
+        <card number="1" name="Thief of Sanity"/>
+        <card number="1" name="Thieving Amalgam"/>
+        <card number="1" name="Thieving Skydiver"/>
+        <card number="1" name="Thieving Varmint"/>
+        <card number="1" name="Three Visits"/>
+        <card number="1" name="Tower Winder"/>
+        <card number="1" name="Triton Shorestalker"/>
+        <card number="1" name="Trygon Predator"/>
+        <card number="1" name="Twilight Mire"/>
+        <card number="1" name="Ukkima, Stalking Shadow"/>
+        <card number="1" name="Underground River"/>
+        <card number="1" name="Villainous Wealth"/>
+        <card number="1" name="Viridescent Bog"/>
+        <card number="1" name="Void Attendant"/>
+        <card number="1" name="Whirler Rogue"/>
+        <card number="1" name="Woodland Cemetery"/>
+        <card number="1" name="Yavimaya Coast"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Gonti, Canny Acquisitor"/>
+    </zone>
+</cockatrice_deck>

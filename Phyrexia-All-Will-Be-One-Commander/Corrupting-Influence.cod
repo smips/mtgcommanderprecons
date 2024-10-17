@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Beast Within"/>
+        <card number="1" name="Bilious Skulldweller"/>
+        <card number="1" name="Blight Mamba"/>
+        <card number="1" name="Blightbelly Rat"/>
+        <card number="1" name="Bojuka Bog"/>
+        <card number="1" name="Cankerbloom"/>
+        <card number="1" name="Canopy Vista"/>
+        <card number="1" name="Caress of Phyrexia"/>
+        <card number="1" name="Carrion Call"/>
+        <card number="1" name="Chromatic Lantern"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Commander's Sphere"/>
+        <card number="1" name="Contagion Clasp"/>
+        <card number="1" name="Contaminant Grafter"/>
+        <card number="1" name="Culling Ritual"/>
+        <card number="1" name="Cultivate"/>
+        <card number="1" name="Evolution Sage"/>
+        <card number="1" name="Exotic Orchard"/>
+        <card number="1" name="Expand the Sphere"/>
+        <card number="1" name="Feed the Infection"/>
+        <card number="1" name="Fellwar Stone"/>
+        <card number="8" name="Forest"/>
+        <card number="1" name="Fortified Village"/>
+        <card number="1" name="Fumigate"/>
+        <card number="1" name="Geth's Summons"/>
+        <card number="1" name="Ghostly Prison"/>
+        <card number="1" name="Glissa's Retriever"/>
+        <card number="1" name="Glistening Sphere"/>
+        <card number="1" name="Golgari Signet"/>
+        <card number="1" name="Grafted Exoskeleton"/>
+        <card number="1" name="Grateful Apparition"/>
+        <card number="1" name="Ichor Rats"/>
+        <card number="1" name="Ichorclaw Myr"/>
+        <card number="1" name="Infectious Inquiry"/>
+        <card number="1" name="Karn's Bastion"/>
+        <card number="1" name="Krosan Verge"/>
+        <card number="1" name="Merciless Eviction"/>
+        <card number="1" name="Moldervine Reclamation"/>
+        <card number="1" name="Mortify"/>
+        <card number="1" name="Mycosynth Fiend"/>
+        <card number="1" name="Myr Convert"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="1" name="Necroblossom Snarl"/>
+        <card number="1" name="Night's Whisper"/>
+        <card number="1" name="Norn's Annex"/>
+        <card number="1" name="Norn's Choirmaster"/>
+        <card number="1" name="Norn's Decree"/>
+        <card number="1" name="Noxious Assault"/>
+        <card number="1" name="Noxious Revival"/>
+        <card number="1" name="Painful Truths"/>
+        <card number="1" name="Path of Ancestry"/>
+        <card number="1" name="Pestilent Syphoner"/>
+        <card number="1" name="Phyresis Outbreak"/>
+        <card number="1" name="Phyrexian Atlas"/>
+        <card number="1" name="Phyrexian Rebirth"/>
+        <card number="1" name="Phyrexian Swarmlord"/>
+        <card number="1" name="Plague Myr"/>
+        <card number="1" name="Plague Stinger"/>
+        <card number="6" name="Plains"/>
+        <card number="1" name="Putrefy"/>
+        <card number="1" name="Sandsteppe Citadel"/>
+        <card number="1" name="Scavenging Ooze"/>
+        <card number="1" name="Shineshadow Snarl"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Sungrass Prairie"/>
+        <card number="6" name="Swamp"/>
+        <card number="1" name="Swords to Plowshares"/>
+        <card number="1" name="Tainted Field"/>
+        <card number="1" name="Tainted Wood"/>
+        <card number="1" name="Temple of Malady"/>
+        <card number="1" name="Temple of Plenty"/>
+        <card number="1" name="Temple of Silence"/>
+        <card number="1" name="Trailblazer's Boots"/>
+        <card number="1" name="Unnatural Restoration"/>
+        <card number="1" name="Vat Emergence"/>
+        <card number="1" name="Venomous Brutalizer"/>
+        <card number="1" name="Viridian Corrupter"/>
+        <card number="1" name="Vishgraz, the Doomhive"/>
+        <card number="1" name="Vraska's Fall"/>
+        <card number="1" name="Windborn Muse"/>
+        <card number="1" name="Wurmquake"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Ixhel, Scion of Atraxa"/>
+    </zone>
+</cockatrice_deck>

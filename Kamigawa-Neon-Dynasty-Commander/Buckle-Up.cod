@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Access Denied"/>
+        <card number="1" name="Aerial Surveyor"/>
+        <card number="1" name="Aeronaut Admiral"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Arcanist's Owl"/>
+        <card number="1" name="Armed and Armored"/>
+        <card number="1" name="Azorius Signet"/>
+        <card number="1" name="Cataclysmic Gearhulk"/>
+        <card number="1" name="Colossal Plow"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Crush Contraband"/>
+        <card number="1" name="Cultivator's Caravan"/>
+        <card number="1" name="Cyberdrive Awakener"/>
+        <card number="1" name="Dance of the Manse"/>
+        <card number="1" name="Dispatch"/>
+        <card number="1" name="Drumbellower"/>
+        <card number="1" name="Emry, Lurker of the Loch"/>
+        <card number="1" name="Etherium Sculptor"/>
+        <card number="1" name="Exotic Orchard"/>
+        <card number="1" name="Fellwar Stone"/>
+        <card number="1" name="Foundry Inspector"/>
+        <card number="1" name="Generous Gift"/>
+        <card number="1" name="Gold Myr"/>
+        <card number="1" name="Hanna, Ship's Navigator"/>
+        <card number="1" name="Imperial Recovery Unit"/>
+        <card number="1" name="Imposter Mech"/>
+        <card number="1" name="Indomitable Archangel"/>
+        <card number="1" name="Ironsoul Enforcer"/>
+        <card number="15" name="Island"/>
+        <card number="1" name="Jace, Architect of Thought"/>
+        <card number="1" name="Kappa Cannoneer"/>
+        <card number="1" name="Katsumasa, the Animator"/>
+        <card number="1" name="Master of Etherium"/>
+        <card number="1" name="Mirage Mirror"/>
+        <card number="1" name="Mobilizer Mech"/>
+        <card number="1" name="Myrsmith"/>
+        <card number="1" name="Organic Extinction"/>
+        <card number="1" name="Parhelion II"/>
+        <card number="1" name="Peacewalker Colossus"/>
+        <card number="15" name="Plains"/>
+        <card number="1" name="Port Town"/>
+        <card number="1" name="Prairie Stream"/>
+        <card number="1" name="Prodigy's Prototype"/>
+        <card number="1" name="Raff Capashen, Ship's Mage"/>
+        <card number="1" name="Raiders' Karve"/>
+        <card number="1" name="Reality Shift"/>
+        <card number="1" name="Release to Memory"/>
+        <card number="1" name="Research Thief"/>
+        <card number="1" name="Riddlesmith"/>
+        <card number="1" name="Sai, Master Thopterist"/>
+        <card number="1" name="Shimmer Myr"/>
+        <card number="1" name="Shorikai, Genesis Engine"/>
+        <card number="1" name="Silver Myr"/>
+        <card number="1" name="Skycloud Expanse"/>
+        <card number="1" name="Skysovereign, Consul Flagship"/>
+        <card number="1" name="Smuggler's Copter"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Solemn Simulacrum"/>
+        <card number="1" name="Spire of Industry"/>
+        <card number="1" name="Sram, Senior Edificer"/>
+        <card number="1" name="Surgehacker Mech"/>
+        <card number="1" name="Swift Reconfiguration"/>
+        <card number="1" name="Swords to Plowshares"/>
+        <card number="1" name="Temple of Enlightenment"/>
+        <card number="1" name="Teshar, Ancestor's Apostle"/>
+        <card number="1" name="Thopter Spy Network"/>
+        <card number="1" name="Thoughtcast"/>
+        <card number="1" name="Universal Surveillance"/>
+        <card number="1" name="Vedalken Engineer"/>
+        <card number="1" name="Weatherlight"/>
+        <card number="1" name="Whirler Rogue"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Kotori, Pilot Prodigy"/>
+    </zone>
+</cockatrice_deck>

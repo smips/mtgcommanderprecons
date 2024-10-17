@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Angel of Finality"/>
+        <card number="1" name="Angel of Salvation"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Artistic Refusal"/>
+        <card number="1" name="Austere Command"/>
+        <card number="1" name="Banisher Priest"/>
+        <card number="1" name="Battle Screech"/>
+        <card number="1" name="Chant of Vitu-Ghazi"/>
+        <card number="1" name="Chasm Skulker"/>
+        <card number="1" name="Cloud of Faeries"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Commander's Sphere"/>
+        <card number="1" name="Conclave Tribunal"/>
+        <card number="1" name="Cultivator's Caravan"/>
+        <card number="1" name="Cut Short"/>
+        <card number="1" name="Deluxe Dragster"/>
+        <card number="1" name="Devouring Light"/>
+        <card number="1" name="Duergar Hedge-Mage"/>
+        <card number="1" name="Elspeth, Sun's Champion"/>
+        <card number="1" name="Emeria Angel"/>
+        <card number="1" name="Ephemeral Shields"/>
+        <card number="1" name="Evolving Wilds"/>
+        <card number="1" name="Exotic Orchard"/>
+        <card number="1" name="Fallowsage"/>
+        <card number="1" name="Flight of Equenauts"/>
+        <card number="1" name="Flockchaser Phantom"/>
+        <card number="1" name="Fractured Powerstone"/>
+        <card number="1" name="Frostboil Snarl"/>
+        <card number="1" name="Furycalm Snarl"/>
+        <card number="1" name="Goblin Instigator"/>
+        <card number="1" name="Goblin Medics"/>
+        <card number="1" name="Hour of Reckoning"/>
+        <card number="1" name="Ichor Elixir"/>
+        <card number="1" name="Impact Tremors"/>
+        <card number="1" name="Improbable Alliance"/>
+        <card number="8" name="Island"/>
+        <card number="1" name="Joyful Stormsculptor"/>
+        <card number="1" name="Keeper of the Accord"/>
+        <card number="1" name="Kher Keep"/>
+        <card number="1" name="Kykar, Wind's Fury"/>
+        <card number="1" name="Meeting of Minds"/>
+        <card number="1" name="Mentor of the Meek"/>
+        <card number="1" name="Migratory Route"/>
+        <card number="1" name="Mistmeadow Vanisher"/>
+        <card number="8" name="Mountain"/>
+        <card number="1" name="Mystic Monastery"/>
+        <card number="1" name="Nadir Kraken"/>
+        <card number="1" name="Nesting Dovehawk"/>
+        <card number="1" name="Path of the Ghosthunter"/>
+        <card number="8" name="Plains"/>
+        <card number="1" name="Port Town"/>
+        <card number="1" name="Prairie Stream"/>
+        <card number="1" name="Rogue's Passage"/>
+        <card number="1" name="Saint Traft and Rem Karolus"/>
+        <card number="1" name="Secure the Wastes"/>
+        <card number="1" name="Seraph of the Masses"/>
+        <card number="1" name="Shatter the Source"/>
+        <card number="1" name="Skullclamp"/>
+        <card number="1" name="Skycloud Expanse"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Spirited Companion"/>
+        <card number="1" name="Stoke the Flames"/>
+        <card number="1" name="Suture Priest"/>
+        <card number="1" name="Swords to Plowshares"/>
+        <card number="1" name="Temple of Enlightenment"/>
+        <card number="1" name="Temple of Epiphany"/>
+        <card number="1" name="Temple of Triumph"/>
+        <card number="1" name="Temporal Cleansing"/>
+        <card number="1" name="Terramorphic Expanse"/>
+        <card number="1" name="Tetsuko Umezawa, Fugitive"/>
+        <card number="1" name="The Locust God"/>
+        <card number="1" name="Venerated Loxodon"/>
+        <card number="1" name="Village Bell-Ringer"/>
+        <card number="1" name="Wand of the Worldsoul"/>
+        <card number="1" name="Wear // Tear"/>
+        <card number="1" name="Whirlwind of Thought"/>
+        <card number="1" name="Wildfire Awakener"/>
+        <card number="1" name="Wrenn's Resolve"/>
+        <card number="1" name="PLANES:"/>
+        <card number="1" name="Enigma Ridges"/>
+        <card number="1" name="Gavony"/>
+        <card number="1" name="Hedron Fields of Agadeem"/>
+        <card number="1" name="Krosa"/>
+        <card number="1" name="Norn's Seedcore"/>
+        <card number="1" name="Reality Shaping"/>
+        <card number="1" name="Stensia"/>
+        <card number="1" name="Strixhaven"/>
+        <card number="1" name="The Fertile Lands of Saulvinia"/>
+        <card number="1" name="Valor's Reach"/>
+        <card number="1" name="Kasla, the Broken Halo"/>
+    </zone>
+</cockatrice_deck>

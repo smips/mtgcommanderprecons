@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Altar of the Pantheon"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Archangel Avacyn"/>
+        <card number="1" name="Arlinn Kord"/>
+        <card number="1" name="Arlinn, the Pack's Hope"/>
+        <card number="1" name="Azor's Gateway"/>
+        <card number="1" name="Bala Ged Recovery"/>
+        <card number="1" name="Barkchannel Pathway"/>
+        <card number="1" name="Beast Whisperer"/>
+        <card number="1" name="Beast Within"/>
+        <card number="1" name="Blightstep Pathway"/>
+        <card number="1" name="Bloodline Keeper"/>
+        <card number="1" name="Branchloft Pathway"/>
+        <card number="1" name="Brightclimb Pathway"/>
+        <card number="1" name="Butcher of Malakir"/>
+        <card number="1" name="Chandra, Fire of Kaladesh"/>
+        <card number="1" name="Chromatic Lantern"/>
+        <card number="1" name="Clearwater Pathway"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Commander's Sphere"/>
+        <card number="1" name="Cosima, God of the Voyage"/>
+        <card number="1" name="Cragcrown Pathway"/>
+        <card number="1" name="Darkbore Pathway"/>
+        <card number="1" name="Dennick, Pious Apprentice"/>
+        <card number="1" name="Diluvian Primordial"/>
+        <card number="1" name="Dowsing Dagger"/>
+        <card number="1" name="Elbrus, the Binding Blade"/>
+        <card number="1" name="Emmara, Soul of the Accord"/>
+        <card number="1" name="Evolving Wilds"/>
+        <card number="1" name="Exotic Orchard"/>
+        <card number="1" name="Farseek"/>
+        <card number="1" name="Fellwar Stone"/>
+        <card number="1" name="Forest"/>
+        <card number="1" name="Forest"/>
+        <card number="1" name="Forest"/>
+        <card number="1" name="Frontier Bivouac"/>
+        <card number="1" name="Garruk Relentless"/>
+        <card number="1" name="Guardian Project"/>
+        <card number="1" name="Hadana's Climb"/>
+        <card number="1" name="Hagra Mauling"/>
+        <card number="1" name="Harmonize"/>
+        <card number="1" name="Hengegate Pathway"/>
+        <card number="1" name="Island"/>
+        <card number="1" name="Jace, Vryn's Prodigy"/>
+        <card number="1" name="Jolrael, Mwonvuli Recluse"/>
+        <card number="1" name="Journey to Eternity"/>
+        <card number="1" name="Jungle Shrine"/>
+        <card number="1" name="Kinnan, Bonder Prodigy"/>
+        <card number="1" name="Kolvori, God of Kinship"/>
+        <card number="1" name="Kytheon, Hero of Akros"/>
+        <card number="1" name="Legion's Landing"/>
+        <card number="1" name="Liliana, Heretical Healer"/>
+        <card number="1" name="Ludevic, Necrogenius"/>
+        <card number="1" name="Meteor Golem"/>
+        <card number="1" name="Mila, Crafty Companion"/>
+        <card number="1" name="Mountain"/>
+        <card number="1" name="Needleverge Pathway"/>
+        <card number="1" name="Nicol Bolas, the Ravager"/>
+        <card number="1" name="Nissa, Vastwood Seer"/>
+        <card number="1" name="Ondu Inversion"/>
+        <card number="1" name="Opulent Palace"/>
+        <card number="1" name="Path of Ancestry"/>
+        <card number="1" name="Plains"/>
+        <card number="1" name="Plargg, Dean of Chaos"/>
+        <card number="1" name="Pongify"/>
+        <card number="1" name="Putrefy"/>
+        <card number="1" name="Rhys the Redeemed"/>
+        <card number="1" name="Rimewood Falls"/>
+        <card number="1" name="Riverglide Pathway"/>
+        <card number="1" name="Sandsteppe Citadel"/>
+        <card number="1" name="Sandstone Oracle"/>
+        <card number="1" name="Savage Lands"/>
+        <card number="1" name="Scattered Groves"/>
+        <card number="1" name="Search for Azcanta"/>
+        <card number="1" name="Seaside Citadel"/>
+        <card number="1" name="Shaile, Dean of Radiance"/>
+        <card number="1" name="Sheltered Thicket"/>
+        <card number="1" name="Sisay, Weatherlight Captain"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Sphinx of the Second Sun"/>
+        <card number="1" name="Swamp"/>
+        <card number="1" name="Terramorphic Expanse"/>
+        <card number="1" name="Thaumatic Compass"/>
+        <card number="1" name="The World Tree"/>
+        <card number="1" name="Time Wipe"/>
+        <card number="1" name="Tireless Provisioner"/>
+        <card number="1" name="Tovolar's Huntmaster"/>
+        <card number="1" name="Treasure Map"/>
+        <card number="1" name="Triplicate Titan"/>
+        <card number="1" name="Urza's Ruinous Blast"/>
+        <card number="1" name="Utter End"/>
+        <card number="1" name="Valakut Awakening"/>
+        <card number="1" name="Valentin, Dean of the Vein"/>
+        <card number="1" name="Valki, God of Lies"/>
+        <card number="1" name="Vivid Grove"/>
+        <card number="1" name="Voldaren Pariah"/>
+        <card number="1" name="Westvale Abbey"/>
+        <card number="1" name="Woodland Chasm"/>
+        <card number="1" name="Zetalpa, Primal Dawn"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Delver of Secrets"/>
+        <card number="1" name="Esika, God of the Tree"/>
+    </zone>
+</cockatrice_deck>

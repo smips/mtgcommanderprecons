@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Aesi, Tyrant of Gyre Strait"/>
+        <card number="1" name="Aether Gale"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Arixmethes, Slumbering Isle"/>
+        <card number="1" name="Ash Barrens"/>
+        <card number="1" name="Ashaya, Soul of the Wild"/>
+        <card number="1" name="Augur of Autumn"/>
+        <card number="1" name="Beanstalk Giant // Fertile Footsteps"/>
+        <card number="1" name="Beast Within"/>
+        <card number="1" name="Biomass Mutation"/>
+        <card number="1" name="Body of Knowledge"/>
+        <card number="1" name="Cackling Counterpart"/>
+        <card number="1" name="Castle Vantress"/>
+        <card number="1" name="Citanul Hierophants"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Counterspell"/>
+        <card number="1" name="Cultivate"/>
+        <card number="1" name="Curator Beastie"/>
+        <card number="1" name="Deathmist Raptor"/>
+        <card number="1" name="Dig Through Time"/>
+        <card number="1" name="Disorienting Choice"/>
+        <card number="1" name="Drownyard Temple"/>
+        <card number="1" name="Eureka Moment"/>
+        <card number="1" name="Evolving Wilds"/>
+        <card number="1" name="Experimental Lab // Staff Room"/>
+        <card number="1" name="Explosive Vegetation"/>
+        <card number="1" name="Ezuri's Predation"/>
+        <card number="1" name="Flooded Grove"/>
+        <card number="5" name="Forest"/>
+        <card number="4" name="Forest"/>
+        <card number="1" name="Giggling Skitterspike"/>
+        <card number="1" name="Glitch Interpreter"/>
+        <card number="1" name="Greater Tanuki"/>
+        <card number="1" name="Growing Dread"/>
+        <card number="1" name="Growth Spiral"/>
+        <card number="1" name="Hinterland Harbor"/>
+        <card number="1" name="Hydra Omnivore"/>
+        <card number="5" name="Island"/>
+        <card number="4" name="Island"/>
+        <card number="1" name="Kefnet the Mindful"/>
+        <card number="1" name="Kheru Spellsnatcher"/>
+        <card number="1" name="Kianne, Corrupted Memory"/>
+        <card number="1" name="Mosswort Bridge"/>
+        <card number="1" name="Multani, Yavimaya's Avatar"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="1" name="Overflowing Basin"/>
+        <card number="1" name="Overgrown Zealot"/>
+        <card number="1" name="Oversimplify"/>
+        <card number="1" name="Overwhelming Stampede"/>
+        <card number="1" name="Primordial Mist"/>
+        <card number="1" name="Quandrix Campus"/>
+        <card number="1" name="Rampant Growth"/>
+        <card number="1" name="Rashmi, Eternities Crafter"/>
+        <card number="1" name="Reality Shift"/>
+        <card number="1" name="Reliquary Tower"/>
+        <card number="1" name="Retreat to Coralhelm"/>
+        <card number="1" name="Sakura-Tribe Elder"/>
+        <card number="1" name="Sandwurm Convergence"/>
+        <card number="1" name="Scroll of Fate"/>
+        <card number="1" name="Scute Swarm"/>
+        <card number="1" name="Shigeki, Jukai Visionary"/>
+        <card number="1" name="Shriekwood Devourer"/>
+        <card number="1" name="Simic Growth Chamber"/>
+        <card number="1" name="Simic Signet"/>
+        <card number="1" name="Skaab Ruinator"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Tangled Islet"/>
+        <card number="1" name="Tatyova, Benthic Druid"/>
+        <card number="1" name="Temple of Mystery"/>
+        <card number="1" name="Temple of the False God"/>
+        <card number="1" name="Temur War Shaman"/>
+        <card number="1" name="Terramorphic Expanse"/>
+        <card number="1" name="They Came from the Pipes"/>
+        <card number="1" name="Thornwood Falls"/>
+        <card number="1" name="Thunderfoot Baloth"/>
+        <card number="1" name="Trail of Mystery"/>
+        <card number="1" name="Trygon Predator"/>
+        <card number="1" name="Vineglimmer Snarl"/>
+        <card number="1" name="Whisperwood Elemental"/>
+        <card number="1" name="Wilderness Reclamation"/>
+        <card number="1" name="Worldspine Wurm"/>
+        <card number="1" name="Yavimaya Coast"/>
+        <card number="1" name="Yavimaya Elder"/>
+        <card number="1" name="Yedora, Grave Gardener"/>
+        <card number="1" name="Zimone's Hypothesis"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Zimone, Mystery Unraveler"/>
+    </zone>
+</cockatrice_deck>

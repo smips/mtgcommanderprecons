@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Abstruse Archaic"/>
+        <card number="1" name="All Is Dust"/>
+        <card number="1" name="Ancient Stone Idol"/>
+        <card number="1" name="Arcane Lighthouse"/>
+        <card number="1" name="Arch of Orazca"/>
+        <card number="1" name="Artisan of Kozilek"/>
+        <card number="1" name="Bane of Bala Ged"/>
+        <card number="1" name="Blast Zone"/>
+        <card number="1" name="Bonders' Enclave"/>
+        <card number="1" name="Burnished Hart"/>
+        <card number="1" name="Calamity of the Titans"/>
+        <card number="1" name="Crashing Drawbridge"/>
+        <card number="1" name="Darksteel Monolith"/>
+        <card number="1" name="Desecrate Reality"/>
+        <card number="1" name="Dreamstone Hedron"/>
+        <card number="1" name="Duplicant"/>
+        <card number="1" name="Eldrazi Temple"/>
+        <card number="1" name="Endbringer"/>
+        <card number="1" name="Endless Atlas"/>
+        <card number="1" name="Endless One"/>
+        <card number="1" name="Everflowing Chalice"/>
+        <card number="1" name="Fireshrieker"/>
+        <card number="1" name="Flayer of Loyalties"/>
+        <card number="1" name="Forge of Heroes"/>
+        <card number="1" name="Forsaken Monument"/>
+        <card number="1" name="Geier Reach Sanitarium"/>
+        <card number="1" name="Geode Golem"/>
+        <card number="1" name="Guildless Commons"/>
+        <card number="1" name="Hangarback Walker"/>
+        <card number="1" name="Hedron Archive"/>
+        <card number="1" name="Investigator's Journal"/>
+        <card number="1" name="It That Betrays"/>
+        <card number="1" name="Kaldra Compleat"/>
+        <card number="1" name="Kozilek, the Great Distortion"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Mage-Ring Network"/>
+        <card number="1" name="Matter Reshaper"/>
+        <card number="1" name="Mazemind Tome"/>
+        <card number="1" name="Metalwork Colossus"/>
+        <card number="1" name="Meteor Golem"/>
+        <card number="1" name="Mind Stone"/>
+        <card number="1" name="Mirage Mirror"/>
+        <card number="1" name="Mirrorpool"/>
+        <card number="1" name="Myriad Construct"/>
+        <card number="1" name="Mystic Forge"/>
+        <card number="1" name="Not of This World"/>
+        <card number="1" name="Oblivion Sower"/>
+        <card number="1" name="Omarthis, Ghostfire Initiate"/>
+        <card number="1" name="Ornithopter of Paradise"/>
+        <card number="1" name="Palladium Myr"/>
+        <card number="1" name="Perilous Vault"/>
+        <card number="1" name="Phyrexian Triniform"/>
+        <card number="1" name="Reliquary Tower"/>
+        <card number="1" name="Rise of the Eldrazi"/>
+        <card number="1" name="Rogue's Passage"/>
+        <card number="1" name="Ruins of Oran-Rief"/>
+        <card number="1" name="Scaretiller"/>
+        <card number="1" name="Scavenger Grounds"/>
+        <card number="1" name="Sea Gate Wreckage"/>
+        <card number="1" name="Shrine of the Forsaken Gods"/>
+        <card number="1" name="Skittering Cicada"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Solemn Simulacrum"/>
+        <card number="1" name="Soul of New Phyrexia"/>
+        <card number="1" name="Spatial Contortion"/>
+        <card number="1" name="Steel Hellkite"/>
+        <card number="1" name="Stonecoil Serpent"/>
+        <card number="1" name="Suspicious Bookcase"/>
+        <card number="1" name="Temple of the False God"/>
+        <card number="1" name="Thought Vessel"/>
+        <card number="1" name="Thran Dynamo"/>
+        <card number="1" name="Titan's Presence"/>
+        <card number="1" name="Tomb of the Spirit Dragon"/>
+        <card number="1" name="Transmogrifying Wand"/>
+        <card number="1" name="Tyrite Sanctum"/>
+        <card number="1" name="Ugin, the Ineffable"/>
+        <card number="1" name="Ugin's Mastery"/>
+        <card number="1" name="Unstable Obelisk"/>
+        <card number="1" name="Urza's Mine"/>
+        <card number="1" name="Urza's Power Plant"/>
+        <card number="1" name="Urza's Tower"/>
+        <card number="1" name="War Room"/>
+        <card number="1" name="Warping Wail"/>
+        <card number="8" name="Wastes"/>
+        <card number="7" name="Wastes"/>
+        <card number="1" name="Worn Powerstone"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Zhulodok, Void Gorger"/>
+    </zone>
+</cockatrice_deck>

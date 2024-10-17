@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Arcade Gannon"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Ash Barrens"/>
+        <card number="1" name="Assaultron Dominator"/>
+        <card number="1" name="Austere Command"/>
+        <card number="1" name="Automated Assembly Line"/>
+        <card number="1" name="Behemoth of Vault 0"/>
+        <card number="1" name="Bottle-Cap Blast"/>
+        <card number="1" name="Brotherhood Scribe"/>
+        <card number="1" name="Brotherhood Vertibird"/>
+        <card number="1" name="Buried Ruin"/>
+        <card number="1" name="C.A.M.P."/>
+        <card number="1" name="Clifftop Retreat"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Crush Contraband"/>
+        <card number="1" name="Curie, Emergent Intelligence"/>
+        <card number="1" name="Dispatch"/>
+        <card number="1" name="Elder Owyn Lyons"/>
+        <card number="1" name="Electrosiphon"/>
+        <card number="1" name="Endurance Bobblehead"/>
+        <card number="1" name="Everflowing Chalice"/>
+        <card number="1" name="Evolving Wilds"/>
+        <card number="1" name="Exotic Orchard"/>
+        <card number="1" name="Expert-Level Safe"/>
+        <card number="1" name="Ferrous Lake"/>
+        <card number="1" name="Glacial Fortress"/>
+        <card number="1" name="Glimmer of Genius"/>
+        <card number="1" name="HELIOS One"/>
+        <card number="1" name="Intelligence Bobblehead"/>
+        <card number="1" name="Irrigated Farmland"/>
+        <card number="3" name="Island"/>
+        <card number="2" name="Island"/>
+        <card number="1" name="James, Wandering Dad // Follow Him"/>
+        <card number="1" name="Liberty Prime, Recharged"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Loyal Apprentice"/>
+        <card number="1" name="Mechanized Production"/>
+        <card number="1" name="Mind Stone"/>
+        <card number="2" name="Mountain"/>
+        <card number="2" name="Mountain"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="1" name="Mystic Forge"/>
+        <card number="1" name="Mystic Monastery"/>
+        <card number="1" name="Nerd Rage"/>
+        <card number="1" name="Nick Valentine, Private Eye"/>
+        <card number="1" name="Nuka-Cola Vending Machine"/>
+        <card number="1" name="One with the Machine"/>
+        <card number="1" name="Open the Vaults"/>
+        <card number="1" name="Overencumbered"/>
+        <card number="1" name="Paladin Danse, Steel Maverick"/>
+        <card number="1" name="Panharmonicon"/>
+        <card number="1" name="Path of Ancestry"/>
+        <card number="2" name="Plains"/>
+        <card number="2" name="Plains"/>
+        <card number="1" name="Plasma Caster"/>
+        <card number="1" name="Prairie Stream"/>
+        <card number="1" name="Razortide Bridge"/>
+        <card number="1" name="Red Death, Shipwrecker"/>
+        <card number="1" name="Rex, Cyber-Hound"/>
+        <card number="1" name="Robobrain War Mind"/>
+        <card number="1" name="Rustvale Bridge"/>
+        <card number="1" name="Sentinel Sarah Lyons"/>
+        <card number="1" name="Sentry Bot"/>
+        <card number="1" name="Shaun, Father of Synths"/>
+        <card number="1" name="Silverbluff Bridge"/>
+        <card number="1" name="Skycloud Expanse"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Solemn Simulacrum"/>
+        <card number="1" name="Spire of Industry"/>
+        <card number="1" name="Steel Overseer"/>
+        <card number="1" name="Sulfur Falls"/>
+        <card number="1" name="Swords to Plowshares"/>
+        <card number="1" name="Synth Eradicator"/>
+        <card number="1" name="Synth Infiltrator"/>
+        <card number="1" name="T-45 Power Armor"/>
+        <card number="1" name="Talisman of Conviction"/>
+        <card number="1" name="Talisman of Creativity"/>
+        <card number="1" name="Talisman of Progress"/>
+        <card number="1" name="Temple of Enlightenment"/>
+        <card number="1" name="Temple of Epiphany"/>
+        <card number="1" name="Terramorphic Expanse"/>
+        <card number="1" name="The Motherlode, Excavator"/>
+        <card number="1" name="The Prydwen, Steel Flagship"/>
+        <card number="1" name="Thirst for Knowledge"/>
+        <card number="1" name="Thought Vessel"/>
+        <card number="1" name="Treasure Vault"/>
+        <card number="1" name="Unexpected Windfall"/>
+        <card number="1" name="Vault 112: Sadistic Simulation"/>
+        <card number="1" name="Vault 13: Dweller's Journey"/>
+        <card number="1" name="Wake the Past"/>
+        <card number="1" name="Wayfarer's Bauble"/>
+        <card number="1" name="Whirler Rogue"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Dr. Madison Li"/>
+    </zone>
+</cockatrice_deck>

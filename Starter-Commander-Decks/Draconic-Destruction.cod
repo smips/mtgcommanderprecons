@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Akoum Hellkite"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Atarka Monument"/>
+        <card number="1" name="Beast Within"/>
+        <card number="1" name="Blossoming Defense"/>
+        <card number="1" name="Chain Reaction"/>
+        <card number="1" name="Cinder Glade"/>
+        <card number="1" name="Clan Defiance"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Commander's Sphere"/>
+        <card number="1" name="Crucible of Fire"/>
+        <card number="1" name="Cultivate"/>
+        <card number="1" name="Demanding Dragon"/>
+        <card number="1" name="Draconic Disciple"/>
+        <card number="1" name="Dragon Mage"/>
+        <card number="1" name="Dragon Tempest"/>
+        <card number="1" name="Dragon's Hoard"/>
+        <card number="1" name="Dragonkin Berserker"/>
+        <card number="1" name="Dragonlord's Servant"/>
+        <card number="1" name="Dragonmaster Outcast"/>
+        <card number="1" name="Dragonspeaker Shaman"/>
+        <card number="1" name="Drakuseth, Maw of Flames"/>
+        <card number="1" name="Dream Pillager"/>
+        <card number="1" name="Drumhunter"/>
+        <card number="1" name="Elemental Bond"/>
+        <card number="1" name="Fires of Yavimaya"/>
+        <card number="1" name="Flameblast Dragon"/>
+        <card number="1" name="Foe-Razer Regent"/>
+        <card number="6" name="Forest"/>
+        <card number="6" name="Forest"/>
+        <card number="1" name="Frontier Siege"/>
+        <card number="1" name="Furnace Whelp"/>
+        <card number="1" name="Game Trail"/>
+        <card number="1" name="Garruk's Uprising"/>
+        <card number="1" name="Harbinger of the Hunt"/>
+        <card number="1" name="Harmonize"/>
+        <card number="1" name="Haven of the Spirit Dragon"/>
+        <card number="1" name="Hoard-Smelter Dragon"/>
+        <card number="1" name="Hunter's Insight"/>
+        <card number="1" name="Hunter's Prowess"/>
+        <card number="1" name="Kazandu Refuge"/>
+        <card number="1" name="Loaming Shaman"/>
+        <card number="1" name="Magmaquake"/>
+        <card number="1" name="Mordant Dragon"/>
+        <card number="9" name="Mountain"/>
+        <card number="9" name="Mountain"/>
+        <card number="1" name="Path of Ancestry"/>
+        <card number="1" name="Primal Might"/>
+        <card number="1" name="Provoke the Trolls"/>
+        <card number="1" name="Rapacious Dragon"/>
+        <card number="1" name="Return to Nature"/>
+        <card number="1" name="Rugged Highlands"/>
+        <card number="1" name="Runehorn Hellkite"/>
+        <card number="1" name="Sakura-Tribe Elder"/>
+        <card number="1" name="Sarkhan, the Dragonspeaker"/>
+        <card number="1" name="Savage Ventmaw"/>
+        <card number="1" name="Scourge of Valkas"/>
+        <card number="1" name="Shamanic Revelation"/>
+        <card number="1" name="Shivan Oasis"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Spit Flame"/>
+        <card number="1" name="Steel Hellkite"/>
+        <card number="1" name="Sweltering Suns"/>
+        <card number="1" name="Swiftfoot Boots"/>
+        <card number="1" name="Talisman of Impulse"/>
+        <card number="1" name="Temple of Abandon"/>
+        <card number="1" name="Thunderbreak Regent"/>
+        <card number="1" name="Thundermaw Hellkite"/>
+        <card number="1" name="Timber Gorge"/>
+        <card number="1" name="Tyrant's Familiar"/>
+        <card number="1" name="Unleash Fury"/>
+        <card number="1" name="Vandalblast"/>
+        <card number="1" name="Verix Bladewing"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Atarka, World Render"/>
+    </zone>
+</cockatrice_deck>

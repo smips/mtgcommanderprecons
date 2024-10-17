@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Aboleth Spawn"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Ash Barrens"/>
+        <card number="1" name="Black Market"/>
+        <card number="1" name="Brainstealer Dragon"/>
+        <card number="1" name="Chasm Skulker"/>
+        <card number="1" name="Choked Estuary"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Consuming Aberration"/>
+        <card number="1" name="Creeping Tar Pit"/>
+        <card number="1" name="Crippling Fear"/>
+        <card number="1" name="Curtains' Call"/>
+        <card number="1" name="Dark Hatchling"/>
+        <card number="1" name="Darkwater Catacombs"/>
+        <card number="1" name="Dauthi Horror"/>
+        <card number="1" name="Dimir Aqueduct"/>
+        <card number="1" name="Dimir Keyrune"/>
+        <card number="1" name="Dimir Signet"/>
+        <card number="1" name="Dross Harvester"/>
+        <card number="1" name="Drown in the Loch"/>
+        <card number="1" name="Drownyard Temple"/>
+        <card number="1" name="Dusk Mangler"/>
+        <card number="1" name="Endless Evil"/>
+        <card number="1" name="Everflowing Chalice"/>
+        <card number="1" name="Exotic Orchard"/>
+        <card number="1" name="Extract from Darkness"/>
+        <card number="1" name="Fact or Fiction"/>
+        <card number="1" name="Feed the Swarm"/>
+        <card number="1" name="Forgotten Creation"/>
+        <card number="1" name="Fractured Sanity"/>
+        <card number="1" name="From the Catacombs"/>
+        <card number="1" name="Grazilaxx, Illithid Scholar"/>
+        <card number="1" name="Grell Philosopher"/>
+        <card number="1" name="Guiltfeeder"/>
+        <card number="1" name="Haunted One"/>
+        <card number="1" name="Herald's Horn"/>
+        <card number="1" name="Hex"/>
+        <card number="1" name="Hullbreaker Horror"/>
+        <card number="1" name="Hunted Horror"/>
+        <card number="1" name="In Garruk's Wake"/>
+        <card number="9" name="Island"/>
+        <card number="1" name="Leyline of Anticipation"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Memory Plunder"/>
+        <card number="1" name="Mind Flayer"/>
+        <card number="1" name="Mind Stone"/>
+        <card number="1" name="Mindcrank"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="1" name="Nemesis of Reason"/>
+        <card number="1" name="Nephalia Drownyard"/>
+        <card number="1" name="Nighthowler"/>
+        <card number="1" name="Nihilith"/>
+        <card number="1" name="Overcharged Amalgam"/>
+        <card number="1" name="Path of Ancestry"/>
+        <card number="1" name="Phyrexian Rager"/>
+        <card number="1" name="Phyrexian Revoker"/>
+        <card number="1" name="Plague Spitter"/>
+        <card number="1" name="Port of Karfell"/>
+        <card number="1" name="Psionic Ritual"/>
+        <card number="1" name="Psychosis Crawler"/>
+        <card number="1" name="Pull from Tomorrow"/>
+        <card number="1" name="Ravenous Chupacabra"/>
+        <card number="1" name="Reflections of Littjara"/>
+        <card number="1" name="River of Tears"/>
+        <card number="1" name="Rogue's Passage"/>
+        <card number="1" name="Sewer Nemesis"/>
+        <card number="1" name="Sludge Monster"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Spellskite"/>
+        <card number="1" name="Sunken Hollow"/>
+        <card number="11" name="Swamp"/>
+        <card number="1" name="Syphon Mind"/>
+        <card number="1" name="Tainted Isle"/>
+        <card number="1" name="Talisman of Dominance"/>
+        <card number="1" name="Temple of Deceit"/>
+        <card number="1" name="Temple of the False God"/>
+        <card number="1" name="Thought Vessel"/>
+        <card number="1" name="Uchuulon"/>
+        <card number="1" name="Wharf Infiltrator"/>
+        <card number="1" name="Woe Strider"/>
+        <card number="1" name="Zellix, Sanity Flayer"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Captain N'ghathrod"/>
+    </zone>
+</cockatrice_deck>

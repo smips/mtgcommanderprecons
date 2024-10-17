@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Ajani, Strength of the Pride"/>
+        <card number="1" name="Angel of Destiny"/>
+        <card number="1" name="Angel of Finality"/>
+        <card number="1" name="Angel of Serenity"/>
+        <card number="1" name="Angel of the Ruins"/>
+        <card number="1" name="Angel of Vitality"/>
+        <card number="1" name="Angelic Accord"/>
+        <card number="1" name="Angelic Field Marshal"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Arch of Orazca"/>
+        <card number="1" name="Archangel of Thune"/>
+        <card number="1" name="Archangel of Tithes"/>
+        <card number="1" name="Arden Angel"/>
+        <card number="1" name="Austere Command"/>
+        <card number="1" name="Bishop of Wings"/>
+        <card number="1" name="Bonders' Enclave"/>
+        <card number="1" name="Breathkeeper Seraph"/>
+        <card number="1" name="Cleansing Nova"/>
+        <card number="1" name="Commander's Plate"/>
+        <card number="1" name="Cosmos Elixir"/>
+        <card number="1" name="Court of Grace"/>
+        <card number="1" name="Dawn of Hope"/>
+        <card number="1" name="Dawnbreak Reclaimer"/>
+        <card number="1" name="Dismantling Wave"/>
+        <card number="1" name="Emeria Shepherd"/>
+        <card number="1" name="Emeria, the Sky Ruin"/>
+        <card number="1" name="Endless Atlas"/>
+        <card number="1" name="Entreat the Angels"/>
+        <card number="1" name="Everflowing Chalice"/>
+        <card number="1" name="Giada, Font of Hope"/>
+        <card number="1" name="Gisela, the Broken Blade"/>
+        <card number="1" name="Griffin Aerie"/>
+        <card number="1" name="Heirloom Blade"/>
+        <card number="1" name="Invoke the Divine"/>
+        <card number="1" name="Karoo"/>
+        <card number="1" name="Keeper of the Accord"/>
+        <card number="1" name="Kindred Boon"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Marble Diamond"/>
+        <card number="1" name="Mazemind Tome"/>
+        <card number="1" name="Mind Stone"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="1" name="Nykthos Paragon"/>
+        <card number="1" name="Nykthos, Shrine to Nyx"/>
+        <card number="1" name="Oketra's Monument"/>
+        <card number="1" name="Path of Ancestry"/>
+        <card number="1" name="Path to Exile"/>
+        <card number="1" name="Pearl Medallion"/>
+        <card number="8" name="Plains"/>
+        <card number="7" name="Plains"/>
+        <card number="8" name="Plains"/>
+        <card number="7" name="Plains"/>
+        <card number="1" name="Righteous Valkyrie"/>
+        <card number="1" name="Search for Glory"/>
+        <card number="1" name="Sephara, Sky's Blade"/>
+        <card number="1" name="Seraph Sanctuary"/>
+        <card number="1" name="Serra Ascendant"/>
+        <card number="1" name="Shattered Angel"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Speaker of the Heavens"/>
+        <card number="1" name="Starnheim Aspirant"/>
+        <card number="1" name="Sunblast Angel"/>
+        <card number="1" name="Swiftfoot Boots"/>
+        <card number="1" name="Sword of the Animist"/>
+        <card number="1" name="Swords to Plowshares"/>
+        <card number="1" name="Thalia's Lancers"/>
+        <card number="1" name="The Book of Exalted Deeds"/>
+        <card number="1" name="Tome of Legends"/>
+        <card number="1" name="Urza's Incubator"/>
+        <card number="1" name="Valkyrie Harbinger"/>
+        <card number="1" name="Vanquisher's Banner"/>
+        <card number="1" name="War Room"/>
+        <card number="1" name="Well of Lost Dreams"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Brisela, Voice of Nightmares"/>
+        <card number="1" name="Sigarda's Aid"/>
+        <card number="1" name="Bruna, the Fading Light"/>
+    </zone>
+</cockatrice_deck>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Abundant Growth"/>
+        <card number="1" name="Acquired Mutation"/>
+        <card number="1" name="Agility Bobblehead"/>
+        <card number="1" name="All That Glitters"/>
+        <card number="1" name="Almost Perfect"/>
+        <card number="1" name="Animal Friend"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Armory Paladin"/>
+        <card number="1" name="Ash Barrens"/>
+        <card number="1" name="Basilisk Collar"/>
+        <card number="1" name="Behemoth Sledge"/>
+        <card number="1" name="Bighorner Rancher"/>
+        <card number="1" name="Blasphemous Act"/>
+        <card number="1" name="Bloodforged Battle-Axe"/>
+        <card number="1" name="Brass Knuckles"/>
+        <card number="1" name="Break Down"/>
+        <card number="1" name="Brotherhood Outcast"/>
+        <card number="1" name="Buried Ruin"/>
+        <card number="1" name="Cait, Cage Brawler"/>
+        <card number="1" name="Canopy Vista"/>
+        <card number="1" name="Cass, Hand of Vengeance"/>
+        <card number="1" name="Champion's Helm"/>
+        <card number="1" name="Chaos Warp"/>
+        <card number="1" name="Cinder Glade"/>
+        <card number="1" name="Clifftop Retreat"/>
+        <card number="1" name="Codsworth, Handy Helper"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Commander Sofia Daguerre"/>
+        <card number="1" name="Crimson Caravaneer"/>
+        <card number="1" name="Duchess, Wayward Tavernkeep"/>
+        <card number="1" name="Evolving Wilds"/>
+        <card number="1" name="Exotic Orchard"/>
+        <card number="1" name="Explorer's Scope"/>
+        <card number="1" name="Fertile Ground"/>
+        <card number="1" name="Fireshrieker"/>
+        <card number="2" name="Forest"/>
+        <card number="2" name="Forest"/>
+        <card number="1" name="Grim Reaper's Sprint"/>
+        <card number="1" name="Gunner Conscript"/>
+        <card number="1" name="Heroic Intervention"/>
+        <card number="1" name="Ian the Reckless"/>
+        <card number="1" name="Idolized"/>
+        <card number="1" name="Inventory Management"/>
+        <card number="1" name="Jungle Shrine"/>
+        <card number="1" name="Junk Jet"/>
+        <card number="1" name="Junktown"/>
+        <card number="1" name="Mantle of the Ancients"/>
+        <card number="1" name="Masterwork of Ingenuity"/>
+        <card number="1" name="Megaton's Fate"/>
+        <card number="1" name="Mister Gutsy"/>
+        <card number="1" name="Moira Brown, Guide Author"/>
+        <card number="1" name="Mossfire Valley"/>
+        <card number="2" name="Mountain"/>
+        <card number="2" name="Mountain"/>
+        <card number="1" name="Path of Ancestry"/>
+        <card number="1" name="Path to Exile"/>
+        <card number="1" name="Perception Bobblehead"/>
+        <card number="1" name="Pip-Boy 3000"/>
+        <card number="2" name="Plains"/>
+        <card number="2" name="Plains"/>
+        <card number="1" name="Pre-War Formalwear"/>
+        <card number="1" name="Preston Garvey, Minuteman"/>
+        <card number="1" name="Puresteel Paladin"/>
+        <card number="1" name="Rancor"/>
+        <card number="1" name="Roadside Reliquary"/>
+        <card number="1" name="Rogue's Passage"/>
+        <card number="1" name="Rootbound Crag"/>
+        <card number="1" name="Scattered Groves"/>
+        <card number="1" name="Scavenger Grounds"/>
+        <card number="1" name="Sheltered Thicket"/>
+        <card number="1" name="Silver Shroud Costume"/>
+        <card number="1" name="Single Combat"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Squirrel Nest"/>
+        <card number="1" name="Sticky Fingers"/>
+        <card number="1" name="Strong Back"/>
+        <card number="1" name="Sungrass Prairie"/>
+        <card number="1" name="Sunpetal Grove"/>
+        <card number="1" name="Sunscorched Divide"/>
+        <card number="1" name="Super Mutant Scavenger"/>
+        <card number="1" name="Swiftfoot Boots"/>
+        <card number="1" name="Temple of Abandon"/>
+        <card number="1" name="Temple of Plenty"/>
+        <card number="1" name="Temple of the False God"/>
+        <card number="1" name="Temple of Triumph"/>
+        <card number="1" name="Terramorphic Expanse"/>
+        <card number="1" name="Three Dog, Galaxy News DJ"/>
+        <card number="1" name="Valorous Stance"/>
+        <card number="1" name="Vault 101: Birthday Party"/>
+        <card number="1" name="Vault 21: House Gambit"/>
+        <card number="1" name="Veronica, Dissident Scribe"/>
+        <card number="1" name="Well Rested"/>
+        <card number="1" name="Wild Growth"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Dogmeat, Ever Loyal"/>
+    </zone>
+</cockatrice_deck>

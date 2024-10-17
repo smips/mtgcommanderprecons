@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Adriana, Captain of the Guard"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Assemble the Legion"/>
+        <card number="1" name="Battle Screech"/>
+        <card number="1" name="Boros Charm"/>
+        <card number="1" name="Boros Garrison"/>
+        <card number="1" name="Boros Signet"/>
+        <card number="1" name="Buried Ruin"/>
+        <card number="1" name="Call the Coppercoats"/>
+        <card number="1" name="Castle Ardenvale"/>
+        <card number="1" name="Castle Embereth"/>
+        <card number="1" name="Chain Reaction"/>
+        <card number="1" name="Clever Concealment"/>
+        <card number="1" name="Collective Effort"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Commander's Sphere"/>
+        <card number="1" name="Court of Grace"/>
+        <card number="1" name="Cut a Deal"/>
+        <card number="1" name="Dragonmaster Outcast"/>
+        <card number="1" name="Elspeth Tirel"/>
+        <card number="1" name="Emeria Angel"/>
+        <card number="1" name="Exotic Orchard"/>
+        <card number="1" name="Felidar Retreat"/>
+        <card number="1" name="Fellwar Stone"/>
+        <card number="1" name="Finale of Glory"/>
+        <card number="1" name="Flawless Maneuver"/>
+        <card number="1" name="Forgotten Cave"/>
+        <card number="1" name="Furycalm Snarl"/>
+        <card number="1" name="Generous Gift"/>
+        <card number="1" name="Glimmer Lens"/>
+        <card number="1" name="Goldnight Commander"/>
+        <card number="1" name="Goldwardens' Gambit"/>
+        <card number="1" name="Harmonious Archon"/>
+        <card number="1" name="Hate Mirage"/>
+        <card number="1" name="Heroic Reinforcements"/>
+        <card number="1" name="Hexplate Wallbreaker"/>
+        <card number="1" name="Hordeling Outburst"/>
+        <card number="1" name="Hour of Reckoning"/>
+        <card number="1" name="Idol of Oblivion"/>
+        <card number="1" name="Increasing Devotion"/>
+        <card number="1" name="Intangible Virtue"/>
+        <card number="1" name="Jor Kadeen, the Prevailer"/>
+        <card number="1" name="Kemba's Banner"/>
+        <card number="1" name="Kher Keep"/>
+        <card number="1" name="Legion Warboss"/>
+        <card number="1" name="Loxodon Warhammer"/>
+        <card number="1" name="Loyal Apprentice"/>
+        <card number="1" name="Mace of the Valiant"/>
+        <card number="1" name="Martial Coup"/>
+        <card number="1" name="Mask of Memory"/>
+        <card number="1" name="Maul of the Skyclaves"/>
+        <card number="1" name="Mentor of the Meek"/>
+        <card number="1" name="Midnight Haunting"/>
+        <card number="1" name="Mind Stone"/>
+        <card number="11" name="Mountain"/>
+        <card number="1" name="Myr Battlesphere"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="1" name="Otharri, Suns' Glory"/>
+        <card number="1" name="Path of Ancestry"/>
+        <card number="1" name="Path to Exile"/>
+        <card number="1" name="Phantom General"/>
+        <card number="11" name="Plains"/>
+        <card number="1" name="Prava of the Steel Legion"/>
+        <card number="1" name="Rip Apart"/>
+        <card number="1" name="Roar of Resistance"/>
+        <card number="1" name="Secluded Steppe"/>
+        <card number="1" name="Siege-Gang Commander"/>
+        <card number="1" name="Silverwing Squadron"/>
+        <card number="1" name="Slayers' Stronghold"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Solemn Simulacrum"/>
+        <card number="1" name="Soul-Guide Lantern"/>
+        <card number="1" name="Staff of the Storyteller"/>
+        <card number="1" name="Talisman of Conviction"/>
+        <card number="1" name="Temple of the False God"/>
+        <card number="1" name="Temple of Triumph"/>
+        <card number="1" name="Vulshok Factory"/>
+        <card number="1" name="White Sun's Zenith"/>
+        <card number="1" name="Windbrisk Heights"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Neyali, Suns' Vanguard"/>
+    </zone>
+</cockatrice_deck>

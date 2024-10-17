@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Agent Frank Horrigan"/>
+        <card number="1" name="Alpha Deathclaw"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Ash Barrens"/>
+        <card number="1" name="Atomize"/>
+        <card number="1" name="Biomass Mutation"/>
+        <card number="1" name="Bloatfly Swarm"/>
+        <card number="1" name="Branching Evolution"/>
+        <card number="1" name="Casualties of War"/>
+        <card number="1" name="Cathedral Acolyte"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Contagion Clasp"/>
+        <card number="1" name="Contaminated Drink"/>
+        <card number="1" name="Corpsejack Menace"/>
+        <card number="1" name="Cultivate"/>
+        <card number="1" name="Darkwater Catacombs"/>
+        <card number="1" name="Drowned Catacomb"/>
+        <card number="1" name="Evolving Wilds"/>
+        <card number="1" name="Exotic Orchard"/>
+        <card number="1" name="Farseek"/>
+        <card number="1" name="Feral Ghoul"/>
+        <card number="1" name="Fetid Pools"/>
+        <card number="1" name="Find // Finality"/>
+        <card number="3" name="Forest"/>
+        <card number="2" name="Forest"/>
+        <card number="1" name="Fraying Sanity"/>
+        <card number="1" name="Glowing One"/>
+        <card number="1" name="Guardian Project"/>
+        <card number="1" name="Hancock, Ghoulish Mayor"/>
+        <card number="1" name="Hardened Scales"/>
+        <card number="1" name="Harmonize"/>
+        <card number="1" name="Harold and Bob, First Numens"/>
+        <card number="1" name="Hinterland Harbor"/>
+        <card number="1" name="Inexorable Tide"/>
+        <card number="1" name="Infesting Radroach"/>
+        <card number="1" name="Inspiring Call"/>
+        <card number="3" name="Island"/>
+        <card number="2" name="Island"/>
+        <card number="1" name="Jason Bright, Glowing Prophet"/>
+        <card number="1" name="Lily Bowen, Raging Grandma"/>
+        <card number="1" name="Lumbering Megasloth"/>
+        <card number="1" name="Marcus, Mutant Mayor"/>
+        <card number="1" name="Mariposa Military Base"/>
+        <card number="1" name="Mirelurk Queen"/>
+        <card number="1" name="Mortuary Mire"/>
+        <card number="1" name="Mutational Advantage"/>
+        <card number="1" name="Nesting Grounds"/>
+        <card number="1" name="Nightkin Ambusher"/>
+        <card number="1" name="Nuclear Fallout"/>
+        <card number="1" name="Nuka-Nuke Launcher"/>
+        <card number="1" name="Opulent Palace"/>
+        <card number="1" name="Overflowing Basin"/>
+        <card number="1" name="Path of Ancestry"/>
+        <card number="1" name="Piper Wright, Publick Reporter"/>
+        <card number="1" name="Power Fist"/>
+        <card number="1" name="Putrefy"/>
+        <card number="1" name="Radstorm"/>
+        <card number="1" name="Rampaging Yao Guai"/>
+        <card number="1" name="Rampant Growth"/>
+        <card number="1" name="Raul, Trouble Shooter"/>
+        <card number="1" name="Recon Craft Theta"/>
+        <card number="1" name="Screeching Scorchbeast"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Strength Bobblehead"/>
+        <card number="1" name="Strong, the Brutish Thespian"/>
+        <card number="1" name="Struggle for Project Purity"/>
+        <card number="1" name="Sunken Hollow"/>
+        <card number="2" name="Swamp"/>
+        <card number="3" name="Swamp"/>
+        <card number="1" name="Tainted Isle"/>
+        <card number="1" name="Tainted Wood"/>
+        <card number="1" name="Talisman of Curiosity"/>
+        <card number="1" name="Talisman of Dominance"/>
+        <card number="1" name="Talisman of Resilience"/>
+        <card number="1" name="Tato Farmer"/>
+        <card number="1" name="Temple of Deceit"/>
+        <card number="1" name="Temple of Malady"/>
+        <card number="1" name="Temple of Mystery"/>
+        <card number="1" name="Temple of the False God"/>
+        <card number="1" name="Terramorphic Expanse"/>
+        <card number="1" name="The Master, Transcendent"/>
+        <card number="1" name="Tireless Tracker"/>
+        <card number="1" name="Vault 12: The Necropolis"/>
+        <card number="1" name="Vault 87: Forced Evolution"/>
+        <card number="1" name="Vexing Radgull"/>
+        <card number="1" name="Viridescent Bog"/>
+        <card number="1" name="Watchful Radstag"/>
+        <card number="1" name="Winding Constrictor"/>
+        <card number="1" name="Woodland Cemetery"/>
+        <card number="1" name="Young Deathclaws"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="The Wise Mothman"/>
+    </zone>
+</cockatrice_deck>

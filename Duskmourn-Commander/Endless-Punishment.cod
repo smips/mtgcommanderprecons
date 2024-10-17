@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Ash Barrens"/>
+        <card number="1" name="Barbflare Gremlin"/>
+        <card number="1" name="Basilisk Collar"/>
+        <card number="1" name="Bastion of Remembrance"/>
+        <card number="1" name="Bedevil"/>
+        <card number="1" name="Blackcleave Cliffs"/>
+        <card number="1" name="Blasphemous Act"/>
+        <card number="1" name="Blood Artist"/>
+        <card number="1" name="Blood Pact"/>
+        <card number="1" name="Blood Seeker"/>
+        <card number="1" name="Bloodfell Caves"/>
+        <card number="1" name="Braids, Arisen Nightmare"/>
+        <card number="1" name="Brash Taunter"/>
+        <card number="1" name="Canyon Slough"/>
+        <card number="1" name="Chaos Warp"/>
+        <card number="1" name="Combustible Gearhulk"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Decree of Pain"/>
+        <card number="1" name="Dragonskull Summit"/>
+        <card number="1" name="Enchanter's Bane"/>
+        <card number="1" name="Evolving Wilds"/>
+        <card number="1" name="Exotic Orchard"/>
+        <card number="1" name="Falkenrath Noble"/>
+        <card number="1" name="Fate Unraveler"/>
+        <card number="1" name="Fear of Burning Alive"/>
+        <card number="1" name="Feed the Swarm"/>
+        <card number="1" name="Fellwar Stone"/>
+        <card number="1" name="Florian, Voldaren Scion"/>
+        <card number="1" name="Foreboding Ruins"/>
+        <card number="1" name="Geothermal Bog"/>
+        <card number="1" name="Gleeful Arsonist"/>
+        <card number="1" name="Grab the Prize"/>
+        <card number="1" name="Graven Cairns"/>
+        <card number="1" name="Gray Merchant of Asphodel"/>
+        <card number="1" name="Harsh Mentor"/>
+        <card number="1" name="Infernal Grasp"/>
+        <card number="1" name="Kaervek the Merciless"/>
+        <card number="1" name="Kardur, Doomscourge"/>
+        <card number="1" name="Kederekt Parasite"/>
+        <card number="1" name="Leechridden Swamp"/>
+        <card number="1" name="Light Up the Stage"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Mask of Griselbrand"/>
+        <card number="1" name="Massacre Girl"/>
+        <card number="1" name="Massacre Wurm"/>
+        <card number="1" name="Mayhem Devil"/>
+        <card number="1" name="Mind Stone"/>
+        <card number="1" name="Mogis, God of Slaughter"/>
+        <card number="1" name="Morbid Opportunist"/>
+        <card number="4" name="Mountain"/>
+        <card number="4" name="Mountain"/>
+        <card number="1" name="Nightshade Harvester"/>
+        <card number="1" name="Persistent Constrictor"/>
+        <card number="1" name="Rakdos Charm"/>
+        <card number="1" name="Rakdos Signet"/>
+        <card number="1" name="Rakdos, Lord of Riots"/>
+        <card number="1" name="Rampaging Ferocidon"/>
+        <card number="1" name="Sadistic Shell Game"/>
+        <card number="1" name="Séance Board"/>
+        <card number="1" name="Shadowblood Ridge"/>
+        <card number="1" name="Shivan Gorge"/>
+        <card number="1" name="Sign in Blood"/>
+        <card number="1" name="Smoldering Marsh"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Solemn Simulacrum"/>
+        <card number="1" name="Spiked Corridor // Torture Pit"/>
+        <card number="1" name="Spinerock Knoll"/>
+        <card number="1" name="Spiteful Visions"/>
+        <card number="1" name="Star Athlete"/>
+        <card number="1" name="Stormfist Crusader"/>
+        <card number="1" name="Sulfurous Springs"/>
+        <card number="1" name="Suspended Sentence"/>
+        <card number="4" name="Swamp"/>
+        <card number="4" name="Swamp"/>
+        <card number="1" name="Syr Konrad, the Grim"/>
+        <card number="1" name="Tainted Peak"/>
+        <card number="1" name="Talisman of Indulgence"/>
+        <card number="1" name="Tectonic Giant"/>
+        <card number="1" name="Temple of Malice"/>
+        <card number="1" name="Temple of the False God"/>
+        <card number="1" name="Terramorphic Expanse"/>
+        <card number="1" name="The Lord of Pain"/>
+        <card number="1" name="Theater of Horrors"/>
+        <card number="1" name="Thought Vessel"/>
+        <card number="1" name="Vial Smasher the Fierce"/>
+        <card number="1" name="Witch's Clinic"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Valgavoth, Harrower of Souls"/>
+    </zone>
+</cockatrice_deck>

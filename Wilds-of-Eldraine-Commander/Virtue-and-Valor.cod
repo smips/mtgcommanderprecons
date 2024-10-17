@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Ajani's Chosen"/>
+        <card number="1" name="Ancestral Mask"/>
+        <card number="1" name="Angelic Destiny"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Archon of Sun's Grace"/>
+        <card number="1" name="Aura Gnarlid"/>
+        <card number="1" name="Austere Command"/>
+        <card number="1" name="Bear Umbra"/>
+        <card number="1" name="Canopy Vista"/>
+        <card number="1" name="Careful Cultivation"/>
+        <card number="1" name="Castle Ardenvale"/>
+        <card number="1" name="Celestial Archon"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Danitha Capashen, Paragon"/>
+        <card number="1" name="Daybreak Coronet"/>
+        <card number="1" name="Destiny Spinner"/>
+        <card number="1" name="Eidolon of Blossoms"/>
+        <card number="1" name="Eidolon of Countless Battles"/>
+        <card number="1" name="Enchantress's Presence"/>
+        <card number="1" name="Ethereal Armor"/>
+        <card number="1" name="Fertile Ground"/>
+        <card number="8" name="Forest"/>
+        <card number="7" name="Forest"/>
+        <card number="1" name="Fortified Village"/>
+        <card number="1" name="Generous Gift"/>
+        <card number="1" name="Giant Inheritance"/>
+        <card number="1" name="Gylwain, Casting Director"/>
+        <card number="1" name="Hall of Heliod's Generosity"/>
+        <card number="1" name="Indomitable Might"/>
+        <card number="1" name="Jukai Naturalist"/>
+        <card number="1" name="Kenrith's Transformation"/>
+        <card number="1" name="Knickknack Ouphe"/>
+        <card number="1" name="Kor Spiritdancer"/>
+        <card number="1" name="Krosan Verge"/>
+        <card number="1" name="Liberated Livestock"/>
+        <card number="1" name="Loamcrafter Faun"/>
+        <card number="1" name="Mantle of the Ancients"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="1" name="Ox Drover"/>
+        <card number="1" name="Paradise Druid"/>
+        <card number="7" name="Plains"/>
+        <card number="7" name="Plains"/>
+        <card number="1" name="Pollenbright Wings"/>
+        <card number="1" name="Realm-Cloaked Giant // Cast Off"/>
+        <card number="1" name="Retether"/>
+        <card number="1" name="Rishkar's Expertise"/>
+        <card number="1" name="Sage's Reverie"/>
+        <card number="1" name="Sanctum Weaver"/>
+        <card number="1" name="Setessan Champion"/>
+        <card number="1" name="Shalai, Voice of Plenty"/>
+        <card number="1" name="Siona, Captain of the Pyleas"/>
+        <card number="1" name="Snake Umbra"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Songbirds' Blessing"/>
+        <card number="1" name="Spectral Steel"/>
+        <card number="1" name="Starfield Mystic"/>
+        <card number="1" name="Sun Titan"/>
+        <card number="1" name="Sungrass Prairie"/>
+        <card number="1" name="Swords to Plowshares"/>
+        <card number="1" name="Sylvan Ranger"/>
+        <card number="1" name="Syr Armont, the Redeemer"/>
+        <card number="1" name="Tanglespan Lookout"/>
+        <card number="1" name="Temple of Plenty"/>
+        <card number="1" name="Timber Paladin"/>
+        <card number="1" name="Timely Ward"/>
+        <card number="1" name="Tithe Taker"/>
+        <card number="1" name="Transcendent Envoy"/>
+        <card number="1" name="Umbra Mystic"/>
+        <card number="1" name="Unfinished Business"/>
+        <card number="1" name="Utopia Sprawl"/>
+        <card number="1" name="Verdant Embrace"/>
+        <card number="1" name="Vitu-Ghazi, the City-Tree"/>
+        <card number="1" name="Warbriar Blessing"/>
+        <card number="1" name="Winds of Rath"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Ellivere of the Wild Court"/>
+    </zone>
+</cockatrice_deck>

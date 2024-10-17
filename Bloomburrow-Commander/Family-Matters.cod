@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Adarkar Wastes"/>
+        <card number="1" name="Aether Channeler"/>
+        <card number="1" name="Aetherize"/>
+        <card number="1" name="Agate Instigator"/>
+        <card number="1" name="Angel of the Ruins"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Arthur, Marigold Knight"/>
+        <card number="1" name="Azorius Signet"/>
+        <card number="1" name="Battlefield Forge"/>
+        <card number="1" name="Bident of Thassa"/>
+        <card number="1" name="Blade Splicer"/>
+        <card number="1" name="Boros Signet"/>
+        <card number="1" name="Boss's Chauffeur"/>
+        <card number="1" name="Calamity of Cinders"/>
+        <card number="1" name="Cascade Bluffs"/>
+        <card number="1" name="Castle Ardenvale"/>
+        <card number="1" name="Chart a Course"/>
+        <card number="1" name="Circuit Mender"/>
+        <card number="1" name="Clifftop Retreat"/>
+        <card number="1" name="Cloudblazer"/>
+        <card number="1" name="Combat Celebrant"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Curiosity Crafter"/>
+        <card number="1" name="Cut a Deal"/>
+        <card number="1" name="Devilish Valet"/>
+        <card number="1" name="Dusk // Dawn"/>
+        <card number="1" name="Echoing Assault"/>
+        <card number="1" name="Elspeth, Sun's Champion"/>
+        <card number="1" name="Evolving Wilds"/>
+        <card number="1" name="Exotic Orchard"/>
+        <card number="1" name="Fellwar Stone"/>
+        <card number="1" name="Ferrous Lake"/>
+        <card number="1" name="Fortune Teller's Talent"/>
+        <card number="1" name="Glacial Fortress"/>
+        <card number="1" name="Hanged Executioner"/>
+        <card number="1" name="Helm of the Host"/>
+        <card number="1" name="Illusory Ambusher"/>
+        <card number="1" name="Inferno Titan"/>
+        <card number="1" name="Inspiring Overseer"/>
+        <card number="2" name="Island"/>
+        <card number="2" name="Island"/>
+        <card number="1" name="Izzet Signet"/>
+        <card number="1" name="Jacked Rabbit"/>
+        <card number="1" name="Jazal Goldmane"/>
+        <card number="1" name="Junk Winder"/>
+        <card number="1" name="Loyal Warhound"/>
+        <card number="1" name="Luminous Broodmoth"/>
+        <card number="1" name="Martial Coup"/>
+        <card number="1" name="Mind Stone"/>
+        <card number="2" name="Mountain"/>
+        <card number="2" name="Mountain"/>
+        <card number="1" name="Murmuration"/>
+        <card number="1" name="Mystic Monastery"/>
+        <card number="1" name="Ornithopter of Paradise"/>
+        <card number="1" name="Path of Ancestry"/>
+        <card number="1" name="Path to Exile"/>
+        <card number="2" name="Plains"/>
+        <card number="3" name="Plains"/>
+        <card number="1" name="Plumecreed Escort"/>
+        <card number="1" name="Pollywog Prodigy"/>
+        <card number="1" name="Pull from Tomorrow"/>
+        <card number="1" name="Rapid Augmenter"/>
+        <card number="1" name="Rapid Hybridization"/>
+        <card number="1" name="Restoration Angel"/>
+        <card number="1" name="Rose Room Treasurer"/>
+        <card number="1" name="Rowdy Research"/>
+        <card number="1" name="Rugged Prairie"/>
+        <card number="1" name="Seachrome Coast"/>
+        <card number="1" name="Selfless Spirit"/>
+        <card number="1" name="Shield Broker"/>
+        <card number="1" name="Shivan Reef"/>
+        <card number="1" name="Siege-Gang Commander"/>
+        <card number="1" name="Skyclave Apparition"/>
+        <card number="1" name="Skycloud Expanse"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Solemn Simulacrum"/>
+        <card number="1" name="Spirited Companion"/>
+        <card number="1" name="Stolen by the Fae"/>
+        <card number="1" name="Storm of Souls"/>
+        <card number="1" name="Sulfur Falls"/>
+        <card number="1" name="Sun Titan"/>
+        <card number="1" name="Sunscorched Divide"/>
+        <card number="1" name="Temple of Enlightenment"/>
+        <card number="1" name="Temple of Epiphany"/>
+        <card number="1" name="Temple of Triumph"/>
+        <card number="1" name="Terramorphic Expanse"/>
+        <card number="1" name="Tetsuko Umezawa, Fugitive"/>
+        <card number="1" name="Thopter Engineer"/>
+        <card number="1" name="Thriving Bluff"/>
+        <card number="1" name="Thriving Heath"/>
+        <card number="1" name="Thriving Isle"/>
+        <card number="1" name="Time Wipe"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Zinnia, Valley's Voice"/>
+    </zone>
+</cockatrice_deck>

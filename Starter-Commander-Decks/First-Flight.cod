@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Absorb"/>
+        <card number="1" name="Aetherize"/>
+        <card number="1" name="Angler Turtle"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Archon of Redemption"/>
+        <card number="1" name="Aven Gagglemaster"/>
+        <card number="1" name="Azorius Signet"/>
+        <card number="1" name="Banishing Light"/>
+        <card number="1" name="Bident of Thassa"/>
+        <card number="1" name="Cartographer's Hawk"/>
+        <card number="1" name="Cleansing Nova"/>
+        <card number="1" name="Cloudblazer"/>
+        <card number="1" name="Coastal Tower"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Commander's Sphere"/>
+        <card number="1" name="Condemn"/>
+        <card number="1" name="Counterspell"/>
+        <card number="1" name="Crush Contraband"/>
+        <card number="1" name="Diluvian Primordial"/>
+        <card number="1" name="Disenchant"/>
+        <card number="1" name="Emeria Angel"/>
+        <card number="1" name="Empyrean Eagle"/>
+        <card number="1" name="Ever-Watching Threshold"/>
+        <card number="1" name="Faerie Formation"/>
+        <card number="1" name="Favorable Winds"/>
+        <card number="1" name="Generous Gift"/>
+        <card number="1" name="Gideon Jura"/>
+        <card number="1" name="Gravitational Shift"/>
+        <card number="1" name="Hanged Executioner"/>
+        <card number="1" name="Hedron Archive"/>
+        <card number="1" name="Inspired Sphinx"/>
+        <card number="8" name="Island"/>
+        <card number="7" name="Island"/>
+        <card number="1" name="Jubilant Skybonder"/>
+        <card number="1" name="Kangee, Sky Warden"/>
+        <card number="1" name="Kangee's Lieutenant"/>
+        <card number="1" name="Meandering River"/>
+        <card number="1" name="Migratory Route"/>
+        <card number="1" name="Moorland Haunt"/>
+        <card number="1" name="Negate"/>
+        <card number="1" name="Pilgrim's Eye"/>
+        <card number="7" name="Plains"/>
+        <card number="8" name="Plains"/>
+        <card number="1" name="Port Town"/>
+        <card number="1" name="Prairie Stream"/>
+        <card number="1" name="Rally of Wings"/>
+        <card number="1" name="Remorseful Cleric"/>
+        <card number="1" name="Sejiri Refuge"/>
+        <card number="1" name="Sephara, Sky's Blade"/>
+        <card number="1" name="Sharding Sphinx"/>
+        <card number="1" name="Sky Diamond"/>
+        <card number="1" name="Skycat Sovereign"/>
+        <card number="1" name="Skyscanner"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Soul Snare"/>
+        <card number="1" name="Sphinx of Enlightenment"/>
+        <card number="1" name="Sphinx's Revelation"/>
+        <card number="1" name="Staggering Insight"/>
+        <card number="1" name="Steel-Plume Marshal"/>
+        <card number="1" name="Storm Herd"/>
+        <card number="1" name="Swords to Plowshares"/>
+        <card number="1" name="Talisman of Progress"/>
+        <card number="1" name="Temple of Enlightenment"/>
+        <card number="1" name="Thought Vessel"/>
+        <card number="1" name="Thunderclap Wyvern"/>
+        <card number="1" name="Tide Skimmer"/>
+        <card number="1" name="Time Wipe"/>
+        <card number="1" name="Tranquil Cove"/>
+        <card number="1" name="True Conviction"/>
+        <card number="1" name="Vow of Duty"/>
+        <card number="1" name="Warden of Evos Isle"/>
+        <card number="1" name="Windreader Sphinx"/>
+        <card number="1" name="Winged Words"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Isperia, Supreme Judge"/>
+    </zone>
+</cockatrice_deck>

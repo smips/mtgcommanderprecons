@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Arcane Bombardment"/>
+        <card number="1" name="Arcane Denial"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Archmage Emeritus"/>
+        <card number="1" name="Baral's Expertise"/>
+        <card number="1" name="Big Score"/>
+        <card number="1" name="Bloodthirsty Adversary"/>
+        <card number="1" name="Cascade Bluffs"/>
+        <card number="1" name="Chaos Warp"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Crackling Spellslinger"/>
+        <card number="1" name="Curse of the Swine"/>
+        <card number="1" name="Cursed Mirror"/>
+        <card number="1" name="Deep Analysis"/>
+        <card number="1" name="Dig Through Time"/>
+        <card number="1" name="Electrostatic Field"/>
+        <card number="1" name="Elemental Eruption"/>
+        <card number="1" name="Epic Experiment"/>
+        <card number="1" name="Eris, Roar of the Storm"/>
+        <card number="1" name="Exotic Orchard"/>
+        <card number="1" name="Expressive Iteration"/>
+        <card number="1" name="Faithless Looting"/>
+        <card number="1" name="Ferrous Lake"/>
+        <card number="1" name="Finale of Promise"/>
+        <card number="1" name="Finale of Revelation"/>
+        <card number="1" name="Forger's Foundry"/>
+        <card number="1" name="Frostboil Snarl"/>
+        <card number="1" name="Galvanic Iteration"/>
+        <card number="1" name="Goblin Electromancer"/>
+        <card number="1" name="Guttersnipe"/>
+        <card number="1" name="Haughty Djinn"/>
+        <card number="7" name="Island"/>
+        <card number="7" name="Island"/>
+        <card number="1" name="Izzet Boilerworks"/>
+        <card number="1" name="Izzet Signet"/>
+        <card number="1" name="Kaza, Roil Chaser"/>
+        <card number="1" name="Leyline Dowser"/>
+        <card number="1" name="Lock and Load"/>
+        <card number="1" name="Midnight Clock"/>
+        <card number="1" name="Mizzix's Mastery"/>
+        <card number="7" name="Mountain"/>
+        <card number="6" name="Mountain"/>
+        <card number="1" name="Murmuring Mystic"/>
+        <card number="1" name="Niv-Mizzet, Parun"/>
+        <card number="1" name="Octavia, Living Thesis"/>
+        <card number="1" name="Opt"/>
+        <card number="1" name="Ponder"/>
+        <card number="1" name="Pongify"/>
+        <card number="1" name="Preordain"/>
+        <card number="1" name="Propaganda"/>
+        <card number="1" name="Pteramander"/>
+        <card number="1" name="Pyretic Charge"/>
+        <card number="1" name="Radical Idea"/>
+        <card number="1" name="Reliquary Tower"/>
+        <card number="1" name="Rousing Refrain"/>
+        <card number="1" name="Serum Visions"/>
+        <card number="1" name="Shark Typhoon"/>
+        <card number="1" name="Shivan Reef"/>
+        <card number="1" name="Smoldering Stagecoach"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Storm-Kiln Artist"/>
+        <card number="1" name="Sulfur Falls"/>
+        <card number="1" name="Talrand, Sky Summoner"/>
+        <card number="1" name="Temple of Epiphany"/>
+        <card number="1" name="Temple of the False God"/>
+        <card number="1" name="Tezzeret's Gambit"/>
+        <card number="1" name="Think Twice"/>
+        <card number="1" name="Third Path Iconoclast"/>
+        <card number="1" name="Thunderclap Drake"/>
+        <card number="1" name="Treasure Cruise"/>
+        <card number="1" name="Vandalblast"/>
+        <card number="1" name="Veyran, Voice of Duality"/>
+        <card number="1" name="Volcanic Torrent"/>
+        <card number="1" name="Windfall"/>
+        <card number="1" name="Winged Boots"/>
+        <card number="1" name="Young Pyromancer"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Stella Lee, Wild Card"/>
+    </zone>
+</cockatrice_deck>

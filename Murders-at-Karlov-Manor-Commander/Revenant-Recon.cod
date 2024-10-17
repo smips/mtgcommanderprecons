@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Amphin Mutineer"/>
+        <card number="1" name="Animate Dead"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Ash Barrens"/>
+        <card number="1" name="Baleful Strix"/>
+        <card number="1" name="Black Sun's Zenith"/>
+        <card number="1" name="Bojuka Bog"/>
+        <card number="1" name="Brainstorm"/>
+        <card number="1" name="Case of the Shifting Visage"/>
+        <card number="1" name="Charnel Serenade"/>
+        <card number="1" name="Choked Estuary"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Connive // Concoct"/>
+        <card number="1" name="Consider"/>
+        <card number="1" name="Copy Catchers"/>
+        <card number="1" name="Counterpoint"/>
+        <card number="1" name="Curate"/>
+        <card number="1" name="Darkwater Catacombs"/>
+        <card number="1" name="Deep Analysis"/>
+        <card number="1" name="Dimir Aqueduct"/>
+        <card number="1" name="Dimir Signet"/>
+        <card number="1" name="Dimir Spybug"/>
+        <card number="1" name="Discovery // Dispersal"/>
+        <card number="1" name="Disinformation Campaign"/>
+        <card number="1" name="Dogged Detective"/>
+        <card number="1" name="Doom Whisperer"/>
+        <card number="1" name="Dream Eater"/>
+        <card number="1" name="Drownyard Temple"/>
+        <card number="1" name="Enhanced Surveillance"/>
+        <card number="1" name="Ephara's Dispersal"/>
+        <card number="1" name="Everflowing Chalice"/>
+        <card number="1" name="Eye of Duskmantle"/>
+        <card number="1" name="Fetid Pools"/>
+        <card number="1" name="Final-Word Phantom"/>
+        <card number="1" name="Foreboding Steamboat"/>
+        <card number="1" name="Grave Titan"/>
+        <card number="1" name="Hostile Desert"/>
+        <card number="4" name="Island"/>
+        <card number="5" name="Island"/>
+        <card number="1" name="Lazav, the Multifarious"/>
+        <card number="1" name="Marvo, Deep Operative"/>
+        <card number="1" name="Massacre Wurm"/>
+        <card number="1" name="Master of Death"/>
+        <card number="1" name="Mind Stone"/>
+        <card number="1" name="Mission Briefing"/>
+        <card number="1" name="Mulldrifter"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="1" name="Mystic Sanctuary"/>
+        <card number="1" name="Necromancy"/>
+        <card number="1" name="Nightveil Sprite"/>
+        <card number="1" name="Notion Rain"/>
+        <card number="1" name="Otherworldly Gaze"/>
+        <card number="1" name="Overseer of the Damned"/>
+        <card number="1" name="Phyrexian Arena"/>
+        <card number="1" name="Phyrexian Metamorph"/>
+        <card number="1" name="Pile On"/>
+        <card number="1" name="Port of Karfell"/>
+        <card number="1" name="Price of Fame"/>
+        <card number="1" name="Ransom Note"/>
+        <card number="1" name="Ravenous Chupacabra"/>
+        <card number="1" name="Reanimate"/>
+        <card number="1" name="Reliquary Tower"/>
+        <card number="1" name="Rise of the Dark Realms"/>
+        <card number="1" name="River of Tears"/>
+        <card number="1" name="Rogue's Passage"/>
+        <card number="1" name="Shriekmaw"/>
+        <card number="1" name="Sinister Starfish"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Sphinx of the Second Sun"/>
+        <card number="1" name="Sunken Hollow"/>
+        <card number="4" name="Swamp"/>
+        <card number="5" name="Swamp"/>
+        <card number="1" name="Syr Konrad, the Grim"/>
+        <card number="1" name="Tainted Isle"/>
+        <card number="1" name="Talisman of Dominance"/>
+        <card number="1" name="Temple of the False God"/>
+        <card number="1" name="Thought Vessel"/>
+        <card number="1" name="Thoughtbound Phantasm"/>
+        <card number="1" name="Tocasia's Dig Site"/>
+        <card number="1" name="Toxic Deluge"/>
+        <card number="1" name="Twilight Prophet"/>
+        <card number="1" name="Unshakable Tail"/>
+        <card number="1" name="Vizier of Many Faces"/>
+        <card number="1" name="Watcher of Hours"/>
+        <card number="1" name="Whispering Snitch"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Mirko, Obsessive Theorist"/>
+    </zone>
+</cockatrice_deck>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Aether Gale"/>
+        <card number="1" name="Agitator Ant"/>
+        <card number="1" name="Angler Turtle"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Artificer Class"/>
+        <card number="1" name="Ash Barrens"/>
+        <card number="1" name="Astral Dragon"/>
+        <card number="1" name="Avatar of Slaughter"/>
+        <card number="1" name="Baeloth Barrityl, Entertainer"/>
+        <card number="1" name="Blasphemous Act"/>
+        <card number="1" name="Bloodthirsty Blade"/>
+        <card number="1" name="Bothersome Quasit"/>
+        <card number="1" name="Brash Taunter"/>
+        <card number="1" name="Burnished Hart"/>
+        <card number="1" name="Castle Vantress"/>
+        <card number="1" name="Chain Reaction"/>
+        <card number="1" name="Chaos Dragon"/>
+        <card number="1" name="Chaos Warp"/>
+        <card number="1" name="Clan Crafter"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Compulsive Research"/>
+        <card number="1" name="Curse of Opulence"/>
+        <card number="1" name="Curse of the Swine"/>
+        <card number="1" name="Curse of Verbosity"/>
+        <card number="1" name="Death Kiss"/>
+        <card number="1" name="Desolate Lighthouse"/>
+        <card number="1" name="Disrupt Decorum"/>
+        <card number="1" name="Dissipation Field"/>
+        <card number="1" name="Domineering Will"/>
+        <card number="1" name="Dragon's Hoard"/>
+        <card number="1" name="Drakuseth, Maw of Flames"/>
+        <card number="1" name="Fellwar Stone"/>
+        <card number="1" name="Geode Rager"/>
+        <card number="1" name="Goblin Spymaster"/>
+        <card number="1" name="Hedron Archive"/>
+        <card number="12" name="Island"/>
+        <card number="1" name="Izzet Boilerworks"/>
+        <card number="1" name="Izzet Signet"/>
+        <card number="1" name="Kazuul, Tyrant of the Cliffs"/>
+        <card number="1" name="Keiga, the Tide Star"/>
+        <card number="1" name="Kher Keep"/>
+        <card number="1" name="Loot Dispute"/>
+        <card number="1" name="Midnight Clock"/>
+        <card number="1" name="Mind Stone"/>
+        <card number="1" name="Mocking Doppelganger"/>
+        <card number="12" name="Mountain"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="1" name="Niv-Mizzet, Parun"/>
+        <card number="1" name="Path of Ancestry"/>
+        <card number="1" name="Prismari Campus"/>
+        <card number="1" name="Propaganda"/>
+        <card number="1" name="Psychic Impetus"/>
+        <card number="1" name="Pursued Whale"/>
+        <card number="1" name="Reins of Power"/>
+        <card number="1" name="Reliquary Tower"/>
+        <card number="1" name="Rowan Kenrith"/>
+        <card number="1" name="Ryusei, the Falling Star"/>
+        <card number="1" name="Shiny Impetus"/>
+        <card number="1" name="Sly Instigator"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Solemn Simulacrum"/>
+        <card number="1" name="Spectacular Showdown"/>
+        <card number="1" name="Sprite Dragon"/>
+        <card number="1" name="Steel Hellkite"/>
+        <card number="1" name="Stuffy Doll"/>
+        <card number="1" name="Talisman of Creativity"/>
+        <card number="1" name="Temple of Epiphany"/>
+        <card number="1" name="Temple of the False God"/>
+        <card number="1" name="Terrain Generator"/>
+        <card number="1" name="Territorial Hellkite"/>
+        <card number="1" name="The Akroan War"/>
+        <card number="1" name="Thunder Dragon"/>
+        <card number="1" name="Vengeful Ancestor"/>
+        <card number="1" name="Wandering Fumarole"/>
+        <card number="1" name="Warmonger Hellkite"/>
+        <card number="1" name="Wayfarer's Bauble"/>
+        <card number="1" name="Will Kenrith"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Firkraag, Cunning Instigator"/>
+    </zone>
+</cockatrice_deck>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Army of the Damned"/>
+        <card number="1" name="Cemetery Reaper"/>
+        <card number="1" name="Champion of the Perished"/>
+        <card number="1" name="Choked Estuary"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Commander's Sphere"/>
+        <card number="1" name="Crippling Fear"/>
+        <card number="1" name="Cruel Revival"/>
+        <card number="1" name="Curse of Disturbance"/>
+        <card number="1" name="Deep Analysis"/>
+        <card number="1" name="Dimir Signet"/>
+        <card number="1" name="Diregraf Captain"/>
+        <card number="1" name="Dismal Backwater"/>
+        <card number="1" name="Distant Melody"/>
+        <card number="1" name="Enter the God-Eternals"/>
+        <card number="1" name="Eternal Skylord"/>
+        <card number="1" name="Feed the Swarm"/>
+        <card number="1" name="Fleshbag Marauder"/>
+        <card number="1" name="Geralf's Mindcrusher"/>
+        <card number="1" name="Gleaming Overseer"/>
+        <card number="1" name="Gravespawn Sovereign"/>
+        <card number="1" name="Gray Merchant of Asphodel"/>
+        <card number="1" name="Grimoire of the Dead"/>
+        <card number="1" name="Havengul Lich"/>
+        <card number="1" name="Heraldic Banner"/>
+        <card number="7" name="Island"/>
+        <card number="6" name="Island"/>
+        <card number="1" name="Josu Vess, Lich Knight"/>
+        <card number="1" name="Jwar Isle Refuge"/>
+        <card number="1" name="Laboratory Drudge"/>
+        <card number="1" name="Lazotep Plating"/>
+        <card number="1" name="Lazotep Reaver"/>
+        <card number="1" name="Liliana, Untouched by Death"/>
+        <card number="1" name="Liliana's Devotee"/>
+        <card number="1" name="Liliana's Mastery"/>
+        <card number="1" name="Liliana's Standard Bearer"/>
+        <card number="1" name="Lord of the Accursed"/>
+        <card number="1" name="Lotleth Giant"/>
+        <card number="1" name="Loyal Subordinate"/>
+        <card number="1" name="Midnight Reaper"/>
+        <card number="1" name="Mire Triton"/>
+        <card number="1" name="Murder"/>
+        <card number="1" name="Necromantic Selection"/>
+        <card number="1" name="Necrotic Hex"/>
+        <card number="1" name="Open the Graves"/>
+        <card number="1" name="Overseer of the Damned"/>
+        <card number="1" name="Pilfered Plans"/>
+        <card number="1" name="Salt Marsh"/>
+        <card number="1" name="Scourge of Nel Toth"/>
+        <card number="1" name="Sinister Sabotage"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Spark Reaper"/>
+        <card number="1" name="Submerged Boneyard"/>
+        <card number="1" name="Sunken Hollow"/>
+        <card number="9" name="Swamp"/>
+        <card number="9" name="Swamp"/>
+        <card number="1" name="Syphon Flesh"/>
+        <card number="1" name="Talisman of Dominance"/>
+        <card number="1" name="Temple of Deceit"/>
+        <card number="1" name="Unbreathing Horde"/>
+        <card number="1" name="Undead Augur"/>
+        <card number="1" name="Undermine"/>
+        <card number="1" name="Unstable Obelisk"/>
+        <card number="1" name="Vampiric Rites"/>
+        <card number="1" name="Vela the Night-Clad"/>
+        <card number="1" name="Vengeful Dead"/>
+        <card number="1" name="Victimize"/>
+        <card number="1" name="Vizier of the Scorpion"/>
+        <card number="1" name="Wayfarer's Bauble"/>
+        <card number="1" name="Withered Wretch"/>
+        <card number="1" name="Zombie Apocalypse"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Gisa and Geralf"/>
+    </zone>
+</cockatrice_deck>

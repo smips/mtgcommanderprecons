@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Abundance"/>
+        <card number="1" name="Arasta of the Endless Web"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Archon of Sun's Grace"/>
+        <card number="1" name="Ash Barrens"/>
+        <card number="1" name="Battle at the Helvault"/>
+        <card number="1" name="Battle for Bretagard"/>
+        <card number="1" name="Binding the Old Gods"/>
+        <card number="1" name="Boon of the Spirit Realm"/>
+        <card number="1" name="Cacophony Unleashed"/>
+        <card number="1" name="Calix, Destiny's Hand"/>
+        <card number="1" name="Canopy Vista"/>
+        <card number="1" name="Cast Out"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Composer of Spring"/>
+        <card number="1" name="Courser of Kruphix"/>
+        <card number="1" name="Culling Ritual"/>
+        <card number="1" name="Cunning Rhetoric"/>
+        <card number="1" name="Demon of Fate's Design"/>
+        <card number="1" name="Destiny Spinner"/>
+        <card number="1" name="Doomwake Giant"/>
+        <card number="1" name="Dreadhorde Invasion"/>
+        <card number="1" name="Dryad of the Ilysian Grove"/>
+        <card number="1" name="Eidolon of Blossoms"/>
+        <card number="1" name="Enchantress's Presence"/>
+        <card number="1" name="Erebos, Bleak-Hearted"/>
+        <card number="1" name="Exotic Orchard"/>
+        <card number="1" name="Extinguish All Hope"/>
+        <card number="1" name="Farseek"/>
+        <card number="1" name="Felidar Retreat"/>
+        <card number="1" name="Font of Fertility"/>
+        <card number="4" name="Forest"/>
+        <card number="4" name="Forest"/>
+        <card number="1" name="Fortified Village"/>
+        <card number="1" name="Ghoulish Impetus"/>
+        <card number="1" name="Golgari Rot Farm"/>
+        <card number="1" name="Grasp of Fate"/>
+        <card number="1" name="Greater Tanuki"/>
+        <card number="1" name="Heliod, God of the Sun"/>
+        <card number="1" name="Herald of the Pantheon"/>
+        <card number="1" name="Jukai Naturalist"/>
+        <card number="1" name="Khalni Heart Expedition"/>
+        <card number="1" name="Kodama's Reach"/>
+        <card number="1" name="Krosan Verge"/>
+        <card number="1" name="Love Song of Night and Day"/>
+        <card number="1" name="Mesa Enchantress"/>
+        <card number="1" name="Mindwrack Harpy"/>
+        <card number="1" name="Mirari's Wake"/>
+        <card number="1" name="Narci, Fable Singer"/>
+        <card number="1" name="Necroblossom Snarl"/>
+        <card number="1" name="Nessian Wanderer"/>
+        <card number="1" name="Nyx Weaver"/>
+        <card number="1" name="Nyxborn Behemoth"/>
+        <card number="1" name="Omen of the Hunt"/>
+        <card number="1" name="Omen of the Sun"/>
+        <card number="1" name="Ondu Spiritdancer"/>
+        <card number="1" name="Orzhov Basilica"/>
+        <card number="1" name="Path to Exile"/>
+        <card number="3" name="Plains"/>
+        <card number="3" name="Plains"/>
+        <card number="1" name="Rampant Growth"/>
+        <card number="1" name="Sanctum Weaver"/>
+        <card number="1" name="Sandsteppe Citadel"/>
+        <card number="1" name="Sandwurm Convergence"/>
+        <card number="1" name="Satyr Enchanter"/>
+        <card number="1" name="Selesnya Sanctuary"/>
+        <card number="1" name="Setessan Champion"/>
+        <card number="1" name="Shineshadow Snarl"/>
+        <card number="1" name="Sigil of the Empty Throne"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Spirited Companion"/>
+        <card number="1" name="Starfield Mystic"/>
+        <card number="1" name="Starfield of Nyx"/>
+        <card number="1" name="Sungrass Prairie"/>
+        <card number="3" name="Swamp"/>
+        <card number="2" name="Swamp"/>
+        <card number="1" name="Sythis, Harvest's Hand"/>
+        <card number="1" name="Tainted Field"/>
+        <card number="1" name="Tainted Wood"/>
+        <card number="1" name="Temple of Malady"/>
+        <card number="1" name="Temple of Plenty"/>
+        <card number="1" name="Temple of Silence"/>
+        <card number="1" name="The Binding of the Titans"/>
+        <card number="1" name="The Eldest Reborn"/>
+        <card number="1" name="The Mending of Dominaria"/>
+        <card number="1" name="Verduran Enchantress"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Anikthea, Hand of Erebos"/>
+    </zone>
+</cockatrice_deck>

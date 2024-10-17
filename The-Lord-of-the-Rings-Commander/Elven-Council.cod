@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Arbor Elf"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Arwen, Weaver of Hope"/>
+        <card number="1" name="Asceticism"/>
+        <card number="1" name="Ash Barrens"/>
+        <card number="1" name="Beast Within"/>
+        <card number="1" name="Celeborn the Wise"/>
+        <card number="1" name="Círdan the Shipwright"/>
+        <card number="1" name="Colossal Whale"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Commander's Sphere"/>
+        <card number="1" name="Cultivate"/>
+        <card number="1" name="Devastation Tide"/>
+        <card number="1" name="Elrond of the White Council"/>
+        <card number="1" name="Elven Farsight"/>
+        <card number="1" name="Elvish Archdruid"/>
+        <card number="1" name="Elvish Mystic"/>
+        <card number="1" name="Elvish Piper"/>
+        <card number="1" name="Elvish Visionary"/>
+        <card number="1" name="Elvish Warmaster"/>
+        <card number="1" name="Erestor of the Council"/>
+        <card number="1" name="Exotic Orchard"/>
+        <card number="1" name="Farhaven Elf"/>
+        <card number="1" name="Field of Ruin"/>
+        <card number="1" name="Flooded Grove"/>
+        <card number="8" name="Forest"/>
+        <card number="7" name="Forest"/>
+        <card number="1" name="Galadhrim Ambush"/>
+        <card number="1" name="Gandalf, Westward Voyager"/>
+        <card number="1" name="Genesis Wave"/>
+        <card number="1" name="Growth Spiral"/>
+        <card number="1" name="Haldir, Lórien Lieutenant"/>
+        <card number="1" name="Heroic Intervention"/>
+        <card number="1" name="Hinterland Harbor"/>
+        <card number="1" name="Hornet Queen"/>
+        <card number="1" name="Inscription of Abundance"/>
+        <card number="6" name="Island"/>
+        <card number="5" name="Island"/>
+        <card number="1" name="Learn from the Past"/>
+        <card number="1" name="Legolas Greenleaf"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Lignify"/>
+        <card number="1" name="Lonely Sandbar"/>
+        <card number="1" name="Lórien Revealed"/>
+        <card number="1" name="Lothlórien Blade"/>
+        <card number="1" name="Mirkwood Elk"/>
+        <card number="1" name="Mirkwood Trapper"/>
+        <card number="1" name="Mirror of Galadriel"/>
+        <card number="1" name="Model of Unity"/>
+        <card number="1" name="Mystic Confluence"/>
+        <card number="1" name="Opt"/>
+        <card number="1" name="Overwhelming Stampede"/>
+        <card number="1" name="Paradise Druid"/>
+        <card number="1" name="Plea for Power"/>
+        <card number="1" name="Preordain"/>
+        <card number="1" name="Radagast, Wizard of Wilds"/>
+        <card number="1" name="Raise the Palisade"/>
+        <card number="1" name="Rampant Growth"/>
+        <card number="1" name="Realm Seekers"/>
+        <card number="1" name="Reclamation Sage"/>
+        <card number="1" name="Rejuvenating Springs"/>
+        <card number="1" name="Sail into the West"/>
+        <card number="1" name="Seeds of Renewal"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Song of Eärendil"/>
+        <card number="1" name="Swan Song"/>
+        <card number="1" name="Sylvan Offering"/>
+        <card number="1" name="Thornwood Falls"/>
+        <card number="1" name="Tranquil Thicket"/>
+        <card number="1" name="Trap the Trespassers"/>
+        <card number="1" name="Travel Through Caradhras"/>
+        <card number="1" name="Vineglimmer Snarl"/>
+        <card number="1" name="Whispersilk Cloak"/>
+        <card number="1" name="Windswift Slice"/>
+        <card number="1" name="Wood Elves"/>
+        <card number="1" name="Woodland Stream"/>
+        <card number="1" name="Wose Pathfinder"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Galadriel, Elven-Queen"/>
+    </zone>
+</cockatrice_deck>

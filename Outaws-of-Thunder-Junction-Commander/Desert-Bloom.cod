@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Abraded Bluffs"/>
+        <card number="1" name="Ancient Greenwarden"/>
+        <card number="1" name="Angel of Indemnity"/>
+        <card number="1" name="Angel of the Ruins"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Avenger of Zendikar"/>
+        <card number="1" name="Bitter Reunion"/>
+        <card number="1" name="Bovine Intervention"/>
+        <card number="1" name="Bristling Backwoods"/>
+        <card number="1" name="Cactus Preserve"/>
+        <card number="1" name="Cataclysmic Prospecting"/>
+        <card number="1" name="Chromatic Lantern"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Conduit Pylons"/>
+        <card number="1" name="Crawling Sensation"/>
+        <card number="1" name="Creosote Heath"/>
+        <card number="1" name="Decimate"/>
+        <card number="1" name="Descend upon the Sinful"/>
+        <card number="1" name="Desert of the Fervent"/>
+        <card number="1" name="Desert of the Indomitable"/>
+        <card number="1" name="Desert of the True"/>
+        <card number="1" name="Dune Chanter"/>
+        <card number="1" name="Dunes of the Dead"/>
+        <card number="1" name="Eccentric Farmer"/>
+        <card number="1" name="Electric Revelation"/>
+        <card number="1" name="Elvish Rejuvenator"/>
+        <card number="1" name="Embrace the Unknown"/>
+        <card number="1" name="Escape to the Wilds"/>
+        <card number="1" name="Evolving Wilds"/>
+        <card number="1" name="Explore"/>
+        <card number="4" name="Forest"/>
+        <card number="3" name="Forest"/>
+        <card number="1" name="Genesis Hydra"/>
+        <card number="1" name="Harrow"/>
+        <card number="1" name="Hashep Oasis"/>
+        <card number="1" name="Hazezon, Shaper of Sand"/>
+        <card number="1" name="Heaven // Earth"/>
+        <card number="1" name="Hour of Promise"/>
+        <card number="1" name="Jungle Shrine"/>
+        <card number="1" name="Kirri, Talented Sprout"/>
+        <card number="1" name="Krosan Verge"/>
+        <card number="1" name="Magmatic Insight"/>
+        <card number="1" name="Map the Frontier"/>
+        <card number="1" name="Marshal's Anthem"/>
+        <card number="1" name="Mirage Mesa"/>
+        <card number="2" name="Mountain"/>
+        <card number="2" name="Mountain"/>
+        <card number="1" name="Nantuko Cultivator"/>
+        <card number="1" name="Nesting Dragon"/>
+        <card number="1" name="Omnath, Locus of Rage"/>
+        <card number="1" name="Oracle of Mul Daya"/>
+        <card number="1" name="Painted Bluffs"/>
+        <card number="1" name="Path to Exile"/>
+        <card number="1" name="Perennial Behemoth"/>
+        <card number="1" name="Perpetual Timepiece"/>
+        <card number="3" name="Plains"/>
+        <card number="3" name="Plains"/>
+        <card number="1" name="Ramunap Excavator"/>
+        <card number="1" name="Ramunap Ruins"/>
+        <card number="1" name="Requisition Raid"/>
+        <card number="1" name="Return of the Wildspeaker"/>
+        <card number="1" name="Rumbleweed"/>
+        <card number="1" name="Sand Scout"/>
+        <card number="1" name="Satyr Wayfinder"/>
+        <card number="1" name="Scaretiller"/>
+        <card number="1" name="Scattered Groves"/>
+        <card number="1" name="Scavenger Grounds"/>
+        <card number="1" name="Scute Swarm"/>
+        <card number="1" name="Sevinne's Reclamation"/>
+        <card number="1" name="Shefet Dunes"/>
+        <card number="1" name="Sheltered Thicket"/>
+        <card number="1" name="Skullwinder"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Springbloom Druid"/>
+        <card number="1" name="Sun Titan"/>
+        <card number="1" name="Sunscorched Divide"/>
+        <card number="1" name="Swiftfoot Boots"/>
+        <card number="1" name="Terramorphic Expanse"/>
+        <card number="1" name="The Mending of Dominaria"/>
+        <card number="1" name="Thrilling Discovery"/>
+        <card number="1" name="Titania, Protector of Argoth"/>
+        <card number="1" name="Turntimber Sower"/>
+        <card number="1" name="Unholy Heat"/>
+        <card number="1" name="Valorous Stance"/>
+        <card number="1" name="Vengeful Regrowth"/>
+        <card number="1" name="Winding Way"/>
+        <card number="1" name="World Shaper"/>
+        <card number="1" name="Wreck and Rebuild"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Yuma, Proud Protector"/>
+    </zone>
+</cockatrice_deck>

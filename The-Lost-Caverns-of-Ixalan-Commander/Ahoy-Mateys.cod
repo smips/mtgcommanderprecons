@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Admiral Beckett Brass"/>
+        <card number="1" name="Amphin Mutineer"/>
+        <card number="1" name="Angrath's Marauders"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Arm-Mounted Anchor"/>
+        <card number="1" name="Azure Fleet Admiral"/>
+        <card number="1" name="Bident of Thassa"/>
+        <card number="1" name="Black Market Connections"/>
+        <card number="1" name="Blasphemous Act"/>
+        <card number="1" name="Blood Money"/>
+        <card number="1" name="Breeches, Brazen Plunderer"/>
+        <card number="1" name="Broadside Bombardiers"/>
+        <card number="1" name="Captain Lannery Storm"/>
+        <card number="1" name="Captivating Crew"/>
+        <card number="1" name="Chaos Warp"/>
+        <card number="1" name="Choked Estuary"/>
+        <card number="1" name="Coercive Recruiter"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Commander's Sphere"/>
+        <card number="1" name="Corsair Captain"/>
+        <card number="1" name="Crumbling Necropolis"/>
+        <card number="1" name="Daring Saboteur"/>
+        <card number="1" name="Departed Deckhand"/>
+        <card number="1" name="Desolate Lighthouse"/>
+        <card number="1" name="Dimir Signet"/>
+        <card number="1" name="Dire Fleet Daredevil"/>
+        <card number="1" name="Dire Fleet Ravager"/>
+        <card number="1" name="Distant Melody"/>
+        <card number="1" name="Don Andres, the Renegade"/>
+        <card number="1" name="Enterprising Scallywag"/>
+        <card number="1" name="Evacuation"/>
+        <card number="1" name="Evolving Wilds"/>
+        <card number="1" name="Exotic Orchard"/>
+        <card number="1" name="Faithless Looting"/>
+        <card number="1" name="Fathom Fleet Captain"/>
+        <card number="1" name="Feed the Swarm"/>
+        <card number="1" name="Foreboding Ruins"/>
+        <card number="1" name="Francisco, Fowl Marauder"/>
+        <card number="1" name="Frostboil Snarl"/>
+        <card number="1" name="Geier Reach Sanitarium"/>
+        <card number="1" name="Gemcutter Buccaneer"/>
+        <card number="1" name="Ghost of Ramirez DePietro"/>
+        <card number="1" name="Herald's Horn"/>
+        <card number="1" name="Hostage Taker"/>
+        <card number="1" name="Icon of Ancestry"/>
+        <card number="3" name="Island"/>
+        <card number="3" name="Island"/>
+        <card number="1" name="Izzet Signet"/>
+        <card number="1" name="Kari Zev, Skyship Raider"/>
+        <card number="1" name="King Narfi's Betrayal"/>
+        <card number="1" name="Lethal Scheme"/>
+        <card number="1" name="Malcolm, Keen-Eyed Navigator"/>
+        <card number="1" name="Merchant Raiders"/>
+        <card number="3" name="Mountain"/>
+        <card number="2" name="Mountain"/>
+        <card number="1" name="Nephalia Drownyard"/>
+        <card number="1" name="Path of Ancestry"/>
+        <card number="1" name="Pitiless Plunderer"/>
+        <card number="1" name="Port of Karfell"/>
+        <card number="1" name="Port Razer"/>
+        <card number="1" name="Prismari Command"/>
+        <card number="1" name="Rakdos Charm"/>
+        <card number="1" name="Rakdos Signet"/>
+        <card number="1" name="Ramirez DePietro, Pillager"/>
+        <card number="1" name="Rogue's Passage"/>
+        <card number="1" name="Secluded Courtyard"/>
+        <card number="1" name="Shared Animosity"/>
+        <card number="1" name="Siren Stormtamer"/>
+        <card number="1" name="Skeleton Crew"/>
+        <card number="1" name="Smoldering Marsh"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Spectral Sailor"/>
+        <card number="1" name="Storm Fleet Negotiator"/>
+        <card number="1" name="Sulfur Falls"/>
+        <card number="1" name="Sunken Hollow"/>
+        <card number="2" name="Swamp"/>
+        <card number="2" name="Swamp"/>
+        <card number="1" name="Terramorphic Expanse"/>
+        <card number="1" name="The Grim Captain's Locker"/>
+        <card number="1" name="The Indomitable"/>
+        <card number="1" name="Thriving Bluff"/>
+        <card number="1" name="Thriving Isle"/>
+        <card number="1" name="Thriving Moor"/>
+        <card number="1" name="Timestream Navigator"/>
+        <card number="1" name="Unclaimed Territory"/>
+        <card number="1" name="Vanquisher's Banner"/>
+        <card number="1" name="Warkite Marauder"/>
+        <card number="1" name="Wayfarer's Bauble"/>
+        <card number="1" name="Windfall"/>
+        <card number="1" name="Zara, Renegade Recruiter"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Admiral Brass, Unsinkable"/>
+    </zone>
+</cockatrice_deck>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Arachnogenesis"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Ash Barrens"/>
+        <card number="1" name="Barren Moor"/>
+        <card number="1" name="Binding the Old Gods"/>
+        <card number="1" name="Bojuka Bog"/>
+        <card number="1" name="Burnished Hart"/>
+        <card number="1" name="Carrion Grub"/>
+        <card number="1" name="Cemetery Tampering"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Commander's Sphere"/>
+        <card number="1" name="Convert to Slime"/>
+        <card number="1" name="Crawling Sensation"/>
+        <card number="1" name="Culling Ritual"/>
+        <card number="1" name="Darkmoss Bridge"/>
+        <card number="1" name="Deadbridge Chant"/>
+        <card number="1" name="Deathcap Cultivator"/>
+        <card number="1" name="Deathreap Ritual"/>
+        <card number="1" name="Deluge of Doom"/>
+        <card number="1" name="Demolisher Spawn"/>
+        <card number="1" name="Demonic Covenant"/>
+        <card number="1" name="Dryad Arbor"/>
+        <card number="1" name="Evolving Wilds"/>
+        <card number="1" name="Exotic Orchard"/>
+        <card number="4" name="Forest"/>
+        <card number="3" name="Forest"/>
+        <card number="1" name="Formless Genesis"/>
+        <card number="1" name="Giant Adephage"/>
+        <card number="1" name="Gnarlwood Dryad"/>
+        <card number="1" name="Golgari Rot Farm"/>
+        <card number="1" name="Golgari Signet"/>
+        <card number="1" name="Grapple with the Past"/>
+        <card number="1" name="Grim Backwoods"/>
+        <card number="1" name="Grim Flayer"/>
+        <card number="1" name="Grisly Salvage"/>
+        <card number="1" name="Grist, the Hunger Tide"/>
+        <card number="1" name="Harmonize"/>
+        <card number="1" name="Harrow"/>
+        <card number="1" name="Haywire Mite"/>
+        <card number="1" name="Hornet Queen"/>
+        <card number="1" name="Inscription of Abundance"/>
+        <card number="1" name="Into the Pit"/>
+        <card number="1" name="Ishkanah, Grafwidow"/>
+        <card number="1" name="Jungle Hollow"/>
+        <card number="1" name="Llanowar Wastes"/>
+        <card number="1" name="Mind Stone"/>
+        <card number="1" name="Moldgraf Millipede"/>
+        <card number="1" name="Moldgraf Monstrosity"/>
+        <card number="1" name="Mulch"/>
+        <card number="1" name="Necroblossom Snarl"/>
+        <card number="1" name="Night's Whisper"/>
+        <card number="1" name="Noxious Gearhulk"/>
+        <card number="1" name="Nyx Weaver"/>
+        <card number="1" name="Ob Nixilis Reignited"/>
+        <card number="1" name="Obsessive Skinner"/>
+        <card number="1" name="Old Stickfingers"/>
+        <card number="1" name="Polluted Cistern // Dim Oubliette"/>
+        <card number="1" name="Professor Onyx"/>
+        <card number="1" name="Putrefy"/>
+        <card number="1" name="Rampant Growth"/>
+        <card number="1" name="Reanimate"/>
+        <card number="1" name="Reliquary Tower"/>
+        <card number="1" name="Rendmaw, Creaking Nest"/>
+        <card number="1" name="Sakura-Tribe Elder"/>
+        <card number="1" name="Scavenging Ooze"/>
+        <card number="1" name="Skola Grovedancer"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Solemn Simulacrum"/>
+        <card number="1" name="Stitcher's Supplier"/>
+        <card number="1" name="Suspicious Bookcase"/>
+        <card number="3" name="Swamp"/>
+        <card number="4" name="Swamp"/>
+        <card number="1" name="Tainted Wood"/>
+        <card number="1" name="Talisman of Resilience"/>
+        <card number="1" name="Temple of Malady"/>
+        <card number="1" name="Temple of the False God"/>
+        <card number="1" name="Terramorphic Expanse"/>
+        <card number="1" name="Titania, Nature's Force"/>
+        <card number="1" name="Tranquil Thicket"/>
+        <card number="1" name="Tree of Tales"/>
+        <card number="1" name="Twilight Mire"/>
+        <card number="1" name="Ursine Monstrosity"/>
+        <card number="1" name="Vault of Whispers"/>
+        <card number="1" name="Vile Mutilator"/>
+        <card number="1" name="Viridescent Bog"/>
+        <card number="1" name="Whip of Erebos"/>
+        <card number="1" name="Whispersilk Cloak"/>
+        <card number="1" name="Woodland Cemetery"/>
+        <card number="1" name="Wrenn and Seven"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Winter, Cynical Opportunist"/>
+    </zone>
+</cockatrice_deck>

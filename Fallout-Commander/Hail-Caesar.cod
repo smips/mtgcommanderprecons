@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Anguished Unmaking"/>
+        <card number="1" name="Aradesh, the Founder"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Ash Barrens"/>
+        <card number="1" name="Assemble the Legion"/>
+        <card number="1" name="Bastion of Remembrance"/>
+        <card number="1" name="Battle of Hoover Dam"/>
+        <card number="1" name="Black Market"/>
+        <card number="1" name="Boomer Scrapper"/>
+        <card number="1" name="Butch DeLoria, Tunnel Snake"/>
+        <card number="1" name="Canyon Slough"/>
+        <card number="1" name="Captain of the Watch"/>
+        <card number="1" name="Charisma Bobblehead"/>
+        <card number="1" name="Clifftop Retreat"/>
+        <card number="1" name="Colonel Autumn"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Craig Boone, Novac Guard"/>
+        <card number="1" name="Deadly Dispute"/>
+        <card number="1" name="Desdemona, Freedom's Edge"/>
+        <card number="1" name="Desolate Mire"/>
+        <card number="1" name="Diamond City"/>
+        <card number="1" name="Dragonskull Summit"/>
+        <card number="1" name="ED-E, Lonesome Eyebot"/>
+        <card number="1" name="Elder Arthur Maxson"/>
+        <card number="1" name="Entrapment Maneuver"/>
+        <card number="1" name="Evolving Wilds"/>
+        <card number="1" name="Fervent Charge"/>
+        <card number="1" name="Gary Clone"/>
+        <card number="1" name="General's Enforcer"/>
+        <card number="1" name="Heroic Reinforcements"/>
+        <card number="1" name="Hour of Reckoning"/>
+        <card number="1" name="Impassioned Orator"/>
+        <card number="1" name="Intangible Virtue"/>
+        <card number="1" name="Isolated Chapel"/>
+        <card number="1" name="Keeper of the Accord"/>
+        <card number="1" name="Kellogg, Dangerous Mind"/>
+        <card number="1" name="Legate Lanius, Caesar's Ace"/>
+        <card number="1" name="Lethal Scheme"/>
+        <card number="1" name="Luck Bobblehead"/>
+        <card number="1" name="MacCready, Lamplight Mayor"/>
+        <card number="1" name="Marshal's Anthem"/>
+        <card number="1" name="Martial Coup"/>
+        <card number="1" name="Memorial to Glory"/>
+        <card number="1" name="Morbid Opportunist"/>
+        <card number="3" name="Mountain"/>
+        <card number="2" name="Mountain"/>
+        <card number="1" name="Mr. House, President and CEO"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="1" name="Mysterious Stranger"/>
+        <card number="1" name="Nomad Outpost"/>
+        <card number="1" name="Overseer of Vault 76"/>
+        <card number="1" name="Paladin Elizabeth Taggerdy"/>
+        <card number="1" name="Path of Ancestry"/>
+        <card number="1" name="Pitiless Plunderer"/>
+        <card number="2" name="Plains"/>
+        <card number="3" name="Plains"/>
+        <card number="1" name="Powder Ganger"/>
+        <card number="1" name="Rose, Cutthroat Raider"/>
+        <card number="1" name="Ruinous Ultimatum"/>
+        <card number="1" name="Ruthless Radrat"/>
+        <card number="1" name="Secure the Wastes"/>
+        <card number="1" name="Securitron Squadron"/>
+        <card number="1" name="Shadowblood Ridge"/>
+        <card number="1" name="Sierra, Nuka's Biggest Fan"/>
+        <card number="1" name="Skullclamp"/>
+        <card number="1" name="Smoldering Marsh"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Stolen Strategy"/>
+        <card number="1" name="Survivor's Med Kit"/>
+        <card number="2" name="Swamp"/>
+        <card number="2" name="Swamp"/>
+        <card number="1" name="Tainted Field"/>
+        <card number="1" name="Tainted Peak"/>
+        <card number="1" name="Talisman of Conviction"/>
+        <card number="1" name="Talisman of Hierarchy"/>
+        <card number="1" name="Talisman of Indulgence"/>
+        <card number="1" name="Temple of Malice"/>
+        <card number="1" name="Temple of Silence"/>
+        <card number="1" name="Temple of Triumph"/>
+        <card number="1" name="Terramorphic Expanse"/>
+        <card number="1" name="The Nipton Lottery"/>
+        <card number="1" name="Thrill-Kill Disciple"/>
+        <card number="1" name="V.A.T.S."/>
+        <card number="1" name="Vault 11: Voter's Dilemma"/>
+        <card number="1" name="Vault 75: Middle School"/>
+        <card number="1" name="Wasteland Raider"/>
+        <card number="1" name="Wear // Tear"/>
+        <card number="1" name="White Glove Gourmand"/>
+        <card number="1" name="Wild Wasteland"/>
+        <card number="1" name="Windbrisk Heights"/>
+        <card number="1" name="Yes Man, Personal Securitron"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Caesar, Legion's Emperor"/>
+    </zone>
+</cockatrice_deck>

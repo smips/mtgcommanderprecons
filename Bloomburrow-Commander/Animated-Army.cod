@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Abrade"/>
+        <card number="1" name="Alchemist's Talent"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Beast Within"/>
+        <card number="1" name="Berserkers' Onslaught"/>
+        <card number="1" name="Big Score"/>
+        <card number="1" name="Blasphemous Act"/>
+        <card number="1" name="Bootleggers' Stash"/>
+        <card number="1" name="Brightcap Badger // Fungus Frolic"/>
+        <card number="1" name="Burnished Hart"/>
+        <card number="1" name="Chaos Warp"/>
+        <card number="1" name="Cinder Glade"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Copperline Gorge"/>
+        <card number="1" name="Cultivate"/>
+        <card number="1" name="Decimate"/>
+        <card number="1" name="Domri, Anarch of Bolas"/>
+        <card number="1" name="Esika's Chariot"/>
+        <card number="1" name="Etali, Primal Storm"/>
+        <card number="1" name="Evercoat Ursine"/>
+        <card number="1" name="Evolving Wilds"/>
+        <card number="1" name="Exotic Orchard"/>
+        <card number="1" name="Explore"/>
+        <card number="1" name="Farseek"/>
+        <card number="1" name="Fellwar Stone"/>
+        <card number="5" name="Forest"/>
+        <card number="5" name="Forest"/>
+        <card number="1" name="Forgotten Cave"/>
+        <card number="1" name="Game Trail"/>
+        <card number="1" name="Garruk's Packleader"/>
+        <card number="1" name="Garruk's Uprising"/>
+        <card number="1" name="Ghalta, Primal Hunger"/>
+        <card number="1" name="Gilded Lotus"/>
+        <card number="1" name="Goreclaw, Terror of Qal Sisma"/>
+        <card number="1" name="Gratuitous Violence"/>
+        <card number="1" name="Greater Good"/>
+        <card number="1" name="Grothama, All-Devouring"/>
+        <card number="1" name="Grumgully, the Generous"/>
+        <card number="1" name="Gruul Signet"/>
+        <card number="1" name="Gruul Turf"/>
+        <card number="1" name="Harmonize"/>
+        <card number="1" name="Hedron Archive"/>
+        <card number="1" name="Karplusan Forest"/>
+        <card number="1" name="Kodama of the East Tree"/>
+        <card number="1" name="Llanowar Loamspeaker"/>
+        <card number="1" name="Lotus Cobra"/>
+        <card number="1" name="Mind Stone"/>
+        <card number="1" name="Mossfire Valley"/>
+        <card number="1" name="Mosswort Bridge"/>
+        <card number="4" name="Mountain"/>
+        <card number="4" name="Mountain"/>
+        <card number="1" name="Outpost Siege"/>
+        <card number="1" name="Path of Ancestry"/>
+        <card number="1" name="Path of Discovery"/>
+        <card number="1" name="Primeval Bounty"/>
+        <card number="1" name="Prosperous Bandit"/>
+        <card number="1" name="Pyreswipe Hawk"/>
+        <card number="1" name="Raging Ravine"/>
+        <card number="1" name="Rain of Riches"/>
+        <card number="1" name="Rampaging Baloths"/>
+        <card number="1" name="Rampant Growth"/>
+        <card number="1" name="Reliquary Tower"/>
+        <card number="1" name="Rolling Hamsphere"/>
+        <card number="1" name="Rootbound Crag"/>
+        <card number="1" name="Sakura-Tribe Elder"/>
+        <card number="1" name="Sheltered Thicket"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Spine of Ish Sah"/>
+        <card number="1" name="Starstorm"/>
+        <card number="1" name="Sunbird's Invocation"/>
+        <card number="1" name="Talisman of Impulse"/>
+        <card number="1" name="Teapot Slinger"/>
+        <card number="1" name="Temple of Abandon"/>
+        <card number="1" name="Tendershoot Dryad"/>
+        <card number="1" name="Terramorphic Expanse"/>
+        <card number="1" name="Thickest in the Thicket"/>
+        <card number="1" name="Thought Vessel"/>
+        <card number="1" name="Thran Dynamo"/>
+        <card number="1" name="Trailtracker Scout"/>
+        <card number="1" name="Tranquil Thicket"/>
+        <card number="1" name="Unnatural Growth"/>
+        <card number="1" name="Wandertale Mentor"/>
+        <card number="1" name="Warstorm Surge"/>
+        <card number="1" name="Wildsear, Scouring Maw"/>
+        <card number="1" name="Wooded Ridgeline"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Bello, Bard of the Brambles"/>
+    </zone>
+</cockatrice_deck>

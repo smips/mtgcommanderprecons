@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Access Tunnel"/>
+        <card number="1" name="Anguished Unmaking"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Ash Barrens"/>
+        <card number="1" name="Assemble the Entmoot"/>
+        <card number="1" name="Banquet Guests"/>
+        <card number="1" name="Bilbo, Birthday Celebrant"/>
+        <card number="1" name="Birds of Paradise"/>
+        <card number="1" name="Brushland"/>
+        <card number="1" name="Butterbur, Bree Innkeeper"/>
+        <card number="1" name="Call for Unity"/>
+        <card number="1" name="Canopy Vista"/>
+        <card number="1" name="Chromatic Lantern"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Commander's Sphere"/>
+        <card number="1" name="Crypt Incursion"/>
+        <card number="1" name="Cultivate"/>
+        <card number="1" name="Dawn of Hope"/>
+        <card number="1" name="Dusk // Dawn"/>
+        <card number="1" name="Eagles of the North"/>
+        <card number="1" name="Essence Warden"/>
+        <card number="1" name="Evolving Wilds"/>
+        <card number="1" name="Exotic Orchard"/>
+        <card number="1" name="Farmer Cotton"/>
+        <card number="1" name="Farseek"/>
+        <card number="1" name="Feasting Hobbit"/>
+        <card number="1" name="Fell the Mighty"/>
+        <card number="1" name="Field-Tested Frying Pan"/>
+        <card number="4" name="Forest"/>
+        <card number="4" name="Forest"/>
+        <card number="1" name="Fortified Village"/>
+        <card number="1" name="Fumigate"/>
+        <card number="1" name="Generous Ent"/>
+        <card number="1" name="Ghost Quarter"/>
+        <card number="1" name="Gilded Goose"/>
+        <card number="1" name="Go for the Throat"/>
+        <card number="1" name="Gollum, Obsessed Stalker"/>
+        <card number="1" name="Graypelt Refuge"/>
+        <card number="1" name="Great Oak Guardian"/>
+        <card number="1" name="Gwaihir, Greatest of the Eagles"/>
+        <card number="1" name="Harmonize"/>
+        <card number="1" name="Hithlain Rope"/>
+        <card number="1" name="Isolated Chapel"/>
+        <card number="1" name="Landroval, Horizon Witness"/>
+        <card number="1" name="Lobelia, Defender of Bag End"/>
+        <card number="1" name="Mentor of the Meek"/>
+        <card number="1" name="Merry, Warden of Isengard"/>
+        <card number="1" name="Mirkwood Bats"/>
+        <card number="1" name="Mortify"/>
+        <card number="1" name="Motivated Pony"/>
+        <card number="1" name="Murmuring Bosk"/>
+        <card number="1" name="Necroblossom Snarl"/>
+        <card number="1" name="Night's Whisper"/>
+        <card number="1" name="Of Herbs and Stewed Rabbit"/>
+        <card number="1" name="Orchard Strider"/>
+        <card number="1" name="Path of Ancestry"/>
+        <card number="1" name="Path to Exile"/>
+        <card number="1" name="Pippin, Warden of Isengard"/>
+        <card number="2" name="Plains"/>
+        <card number="2" name="Plains"/>
+        <card number="1" name="Pristine Talisman"/>
+        <card number="1" name="Prize Pig"/>
+        <card number="1" name="Prosperous Innkeeper"/>
+        <card number="1" name="Rapacious Guest"/>
+        <card number="1" name="Revive the Shire"/>
+        <card number="1" name="Rogue's Passage"/>
+        <card number="1" name="Rosie Cotton of South Lane"/>
+        <card number="1" name="Sandsteppe Citadel"/>
+        <card number="1" name="Sanguine Bond"/>
+        <card number="1" name="Savvy Hunter"/>
+        <card number="1" name="Scattered Groves"/>
+        <card number="1" name="Scoured Barrens"/>
+        <card number="1" name="Shineshadow Snarl"/>
+        <card number="1" name="Shire Shirriff"/>
+        <card number="1" name="Shire Terrace"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Sunpetal Grove"/>
+        <card number="2" name="Swamp"/>
+        <card number="2" name="Swamp"/>
+        <card number="1" name="Swords to Plowshares"/>
+        <card number="1" name="The Gaffer"/>
+        <card number="1" name="Tireless Provisioner"/>
+        <card number="1" name="Toxic Deluge"/>
+        <card number="1" name="Trading Post"/>
+        <card number="1" name="Treebeard, Gracious Host"/>
+        <card number="1" name="Well of Lost Dreams"/>
+        <card number="1" name="Woodfall Primus"/>
+        <card number="1" name="Woodland Cemetery"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Frodo, Adventurous Hobbit"/>
+        <card number="1" name="Sam, Loyal Attendant"/>
+    </zone>
+</cockatrice_deck>
