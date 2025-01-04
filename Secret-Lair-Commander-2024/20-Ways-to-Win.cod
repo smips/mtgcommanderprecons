@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Alseid of Life's Bounty"/>
+        <card number="1" name="Approach of the Second Sun"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Augur of Autumn"/>
+        <card number="1" name="Auriok Champion"/>
+        <card number="1" name="Austere Command"/>
+        <card number="1" name="Azorius Guildgate"/>
+        <card number="1" name="Baldur's Gate"/>
+        <card number="1" name="Biovisionary"/>
+        <card number="1" name="Black Dragon Gate"/>
+        <card number="1" name="Boros Guildgate"/>
+        <card number="1" name="Bountiful Promenade"/>
+        <card number="1" name="Brushland"/>
+        <card number="1" name="Chromatic Lantern"/>
+        <card number="1" name="Circuitous Route"/>
+        <card number="1" name="Citadel Gate"/>
+        <card number="1" name="Clever Concealment"/>
+        <card number="1" name="Cliffgate"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Crib Swap"/>
+        <card number="1" name="Darksteel Citadel"/>
+        <card number="1" name="Darksteel Mutation"/>
+        <card number="1" name="Dimir Guildgate"/>
+        <card number="1" name="Drown in Dreams"/>
+        <card number="1" name="Dryad of the Ilysian Grove"/>
+        <card number="1" name="Eerie Ultimatum"/>
+        <card number="1" name="Exotic Orchard"/>
+        <card number="1" name="Faeburrow Elder"/>
+        <card number="1" name="Felidar Sovereign"/>
+        <card number="1" name="Fertile Ground"/>
+        <card number="1" name="Forbidden Orchard"/>
+        <card number="1" name="Forest"/>
+        <card number="1" name="Forgotten Ancient"/>
+        <card number="1" name="Gateway Plaza"/>
+        <card number="1" name="Ghostly Prison"/>
+        <card number="1" name="Ghoulish Impetus"/>
+        <card number="1" name="Golgari Guildgate"/>
+        <card number="1" name="Gond Gate"/>
+        <card number="1" name="Gruul Guildgate"/>
+        <card number="1" name="Halo Fountain"/>
+        <card number="1" name="Hangarback Walker"/>
+        <card number="1" name="Happily Ever After"/>
+        <card number="1" name="Heap Gate"/>
+        <card number="1" name="Heliod, Sun-Crowned"/>
+        <card number="1" name="Heliod's Intervention"/>
+        <card number="1" name="Helix Pinnacle"/>
+        <card number="1" name="Hellkite Tyrant"/>
+        <card number="1" name="Homeward Path"/>
+        <card number="1" name="Izzet Guildgate"/>
+        <card number="1" name="Kynaios and Tiro of Meletis"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Lignify"/>
+        <card number="1" name="Liliana's Contract"/>
+        <card number="1" name="Mangara, the Diplomat"/>
+        <card number="1" name="Manor Gate"/>
+        <card number="1" name="Maskwood Nexus"/>
+        <card number="1" name="Mayael's Aria"/>
+        <card number="1" name="Maze's End"/>
+        <card number="1" name="Mechanized Production"/>
+        <card number="1" name="Monologue Tax"/>
+        <card number="1" name="Morbid Opportunist"/>
+        <card number="1" name="Mystic Remora"/>
+        <card number="1" name="Orzhov Guildgate"/>
+        <card number="1" name="Overgrown Farmland"/>
+        <card number="1" name="Pariah"/>
+        <card number="1" name="Path of Ancestry"/>
+        <card number="1" name="Plains"/>
+        <card number="1" name="Plaza of Harmony"/>
+        <card number="1" name="Rakdos Guildgate"/>
+        <card number="1" name="Razorverge Thicket"/>
+        <card number="1" name="Reflecting Pool"/>
+        <card number="1" name="Revel in Riches"/>
+        <card number="1" name="Rite of Replication"/>
+        <card number="1" name="Sanctum Weaver"/>
+        <card number="1" name="Sea Gate"/>
+        <card number="1" name="Seedborn Muse"/>
+        <card number="1" name="Selesnya Guildgate"/>
+        <card number="1" name="Shalai, Voice of Plenty"/>
+        <card number="1" name="Shiny Impetus"/>
+        <card number="1" name="Simic Ascendancy"/>
+        <card number="1" name="Simic Guildgate"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Soul's Attendant"/>
+        <card number="1" name="Sphinx's Revelation"/>
+        <card number="1" name="Sun Titan"/>
+        <card number="1" name="Sunscorch Regent"/>
+        <card number="1" name="Supreme Verdict"/>
+        <card number="1" name="Taurean Mauler"/>
+        <card number="1" name="Test of Endurance"/>
+        <card number="1" name="The Eternal Wanderer"/>
+        <card number="1" name="The World Tree"/>
+        <card number="1" name="Thornglint Bridge"/>
+        <card number="1" name="Tireless Tracker"/>
+        <card number="1" name="Trace of Abundance"/>
+        <card number="1" name="Tragic Arrogance"/>
+        <card number="1" name="Triskaidekaphile"/>
+        <card number="1" name="Twenty-Toed Toad"/>
+        <card number="1" name="Wooded Bastion"/>
+        <card number="1" name="Yahenni, Undying Partisan"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Enduring Ideal"/>
+        <card number="1" name="Go-Shintai of Life's Origin"/>
+    </zone>
+</cockatrice_deck>
