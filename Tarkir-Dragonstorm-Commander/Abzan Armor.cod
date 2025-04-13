@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname></deckname>
+    <bannerCard providerId=""></bannerCard>
+    <comments></comments>
+    <tags/>
+    <zone name="main">
+        <card number="1" name="Access Tunnel"/>
+        <card number="1" name="Anguished Unmaking"/>
+        <card number="1" name="Arasta of the Endless Web"/>
+        <card number="1" name="Arbor Adherent"/>
+        <card number="1" name="Arboreal Grazer"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Assault Formation"/>
+        <card number="1" name="Axebane Guardian"/>
+        <card number="1" name="Baldin, Century Herdmaster"/>
+        <card number="1" name="Behind the Scenes"/>
+        <card number="1" name="Betor, Ancestor's Voice"/>
+        <card number="1" name="Blight Pile"/>
+        <card number="1" name="Bojuka Bog"/>
+        <card number="1" name="Canopy Gargantuan"/>
+        <card number="1" name="Canopy Vista"/>
+        <card number="1" name="Carven Caryatid"/>
+        <card number="1" name="Colfenor's Urn"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Crashing Drawbridge"/>
+        <card number="1" name="Deceptive Landscape"/>
+        <card number="1" name="Despark"/>
+        <card number="1" name="Dragonlord Dromoka"/>
+        <card number="1" name="Evolving Wilds"/>
+        <card number="1" name="Exotic Orchard"/>
+        <card number="1" name="Expel the Interlopers"/>
+        <card number="1" name="Faeburrow Elder"/>
+        <card number="1" name="Feed the Swarm"/>
+        <card number="4" name="Forest"/>
+        <card number="3" name="Forest"/>
+        <card number="1" name="Fortified Village"/>
+        <card number="1" name="Hornet Nest"/>
+        <card number="1" name="Ikra Shidiqi, the Usurper"/>
+        <card number="1" name="Indomitable Ancients"/>
+        <card number="1" name="Indulging Patrician"/>
+        <card number="1" name="Infernal Grasp"/>
+        <card number="1" name="Isolated Chapel"/>
+        <card number="1" name="Jaddi Offshoot"/>
+        <card number="1" name="Jaws of Defeat"/>
+        <card number="1" name="Nyx-Fleece Ram"/>
+        <card number="1" name="Orzhov Signet"/>
+        <card number="1" name="Overgrown Battlement"/>
+        <card number="1" name="Overgrown Farmland"/>
+        <card number="1" name="Path of Ancestry"/>
+        <card number="3" name="Plains"/>
+        <card number="3" name="Plains"/>
+        <card number="1" name="Protector of the Wastes"/>
+        <card number="1" name="Radiant Grove"/>
+        <card number="1" name="Rampart Architect"/>
+        <card number="1" name="Reunion of the House"/>
+        <card number="1" name="Rhox Faithmender"/>
+        <card number="1" name="Sandsteppe Citadel"/>
+        <card number="1" name="Seedborn Muse"/>
+        <card number="1" name="Selesnya Signet"/>
+        <card number="1" name="Shadrix Silverquill"/>
+        <card number="1" name="Shalai, Voice of Plenty"/>
+        <card number="1" name="Sidar Kondo of Jamuraa"/>
+        <card number="1" name="Slaughter the Strong"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Staff of Compleation"/>
+        <card number="1" name="Sungrass Prairie"/>
+        <card number="1" name="Sunpetal Grove"/>
+        <card number="3" name="Swamp"/>
+        <card number="2" name="Swamp"/>
+        <card number="1" name="Swiftfoot Boots"/>
+        <card number="1" name="Swords to Plowshares"/>
+        <card number="1" name="Sylvan Caryatid"/>
+        <card number="1" name="Temple of Malady"/>
+        <card number="1" name="Temple of Plenty"/>
+        <card number="1" name="Temple of Silence"/>
+        <card number="1" name="Tip the Scales"/>
+        <card number="1" name="Tower Defense"/>
+        <card number="1" name="Towering Titan"/>
+        <card number="1" name="Tree of Redemption"/>
+        <card number="1" name="Twilight Mire"/>
+        <card number="1" name="Wakestone Gargoyle"/>
+        <card number="1" name="Walking Bulwark"/>
+        <card number="1" name="Wall of Blossoms"/>
+        <card number="1" name="Wall of Limbs"/>
+        <card number="1" name="Wall of Omens"/>
+        <card number="1" name="Wall of Reverence"/>
+        <card number="1" name="Wall of Roots"/>
+        <card number="1" name="Weathered Sentinels"/>
+        <card number="1" name="Welcoming Vampire"/>
+        <card number="1" name="Will of the Abzan"/>
+        <card number="1" name="Wingmantle Chaplain"/>
+        <card number="1" name="Woodland Cemetery"/>
+        <card number="1" name="Zetalpa, Primal Dawn"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Felothar the Steadfast"/>
+    </zone>
+</cockatrice_deck>

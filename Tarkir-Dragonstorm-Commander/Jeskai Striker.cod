@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname></deckname>
+    <bannerCard providerId=""></bannerCard>
+    <comments></comments>
+    <tags/>
+    <zone name="main">
+        <card number="1" name="Abrade"/>
+        <card number="1" name="Adaptive Training Post"/>
+        <card number="1" name="Adarkar Wastes"/>
+        <card number="1" name="Aligned Heart"/>
+        <card number="1" name="Ancestral Vision"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Archmage Emeritus"/>
+        <card number="1" name="Ash Barrens"/>
+        <card number="1" name="Azorius Signet"/>
+        <card number="1" name="Baral and Kari Zev"/>
+        <card number="1" name="Baral's Expertise"/>
+        <card number="1" name="Battlefield Forge"/>
+        <card number="1" name="Big Score"/>
+        <card number="1" name="Boros Signet"/>
+        <card number="1" name="Caldera Pyremaw"/>
+        <card number="1" name="Cascade Bluffs"/>
+        <card number="1" name="Clifftop Retreat"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Compulsive Research"/>
+        <card number="1" name="Consider"/>
+        <card number="1" name="Curse of Opulence"/>
+        <card number="1" name="Curse of the Swine"/>
+        <card number="1" name="Deep Analysis"/>
+        <card number="1" name="Dismantling Wave"/>
+        <card number="1" name="Electrodominance"/>
+        <card number="1" name="Elsha, Threefold Master"/>
+        <card number="1" name="Evolving Wilds"/>
+        <card number="1" name="Exotic Orchard"/>
+        <card number="1" name="Expansion // Explosion"/>
+        <card number="1" name="Expressive Iteration"/>
+        <card number="1" name="Faithless Looting"/>
+        <card number="1" name="Fellwar Stone"/>
+        <card number="1" name="Ferrous Lake"/>
+        <card number="1" name="Frantic Search"/>
+        <card number="1" name="Ghostly Prison"/>
+        <card number="1" name="Glacial Fortress"/>
+        <card number="1" name="Goblin Electromancer"/>
+        <card number="1" name="Guttersnipe"/>
+        <card number="1" name="Haughty Djinn"/>
+        <card number="1" name="Irrigated Farmland"/>
+        <card number="3" name="Island"/>
+        <card number="2" name="Island"/>
+        <card number="1" name="Izzet Signet"/>
+        <card number="1" name="Lier, Disciple of the Drowned"/>
+        <card number="1" name="Magma Opus"/>
+        <card number="1" name="Mana Geyser"/>
+        <card number="1" name="Manaform Hellkite"/>
+        <card number="1" name="Mangara, the Diplomat"/>
+        <card number="1" name="Monastery Mentor"/>
+        <card number="3" name="Mountain"/>
+        <card number="2" name="Mountain"/>
+        <card number="1" name="Mystic Monastery"/>
+        <card number="1" name="Narset's Reversal"/>
+        <card number="1" name="Opt"/>
+        <card number="1" name="Path of Ancestry"/>
+        <card number="1" name="Perilous Landscape"/>
+        <card number="2" name="Plains"/>
+        <card number="2" name="Plains"/>
+        <card number="1" name="Ponder"/>
+        <card number="1" name="Pongify"/>
+        <card number="1" name="Prairie Stream"/>
+        <card number="1" name="Preordain"/>
+        <card number="1" name="Prismari Command"/>
+        <card number="1" name="Reliquary Tower"/>
+        <card number="1" name="Rite of Replication"/>
+        <card number="1" name="Rugged Prairie"/>
+        <card number="1" name="Shiny Impetus"/>
+        <card number="1" name="Shivan Reef"/>
+        <card number="1" name="Skycloud Expanse"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Storm-Kiln Artist"/>
+        <card number="1" name="Sublime Epiphany"/>
+        <card number="1" name="Sulfur Falls"/>
+        <card number="1" name="Swords to Plowshares"/>
+        <card number="1" name="Talisman of Progress"/>
+        <card number="1" name="Tempest Technique"/>
+        <card number="1" name="Temple of Enlightenment"/>
+        <card number="1" name="Temple of Epiphany"/>
+        <card number="1" name="Temple of Triumph"/>
+        <card number="1" name="Think Twice"/>
+        <card number="1" name="Third Path Iconoclast"/>
+        <card number="1" name="Time Wipe"/>
+        <card number="1" name="Transcendent Dragon"/>
+        <card number="1" name="Transforming Flourish"/>
+        <card number="1" name="Vanquish the Horde"/>
+        <card number="1" name="Velomachus Lorehold"/>
+        <card number="1" name="Veyran, Voice of Duality"/>
+        <card number="1" name="Voracious Bibliophile"/>
+        <card number="1" name="Whirlwind of Thought"/>
+        <card number="1" name="Will of the Jeskai"/>
+        <card number="1" name="Young Pyromancer"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Shiko and Narset, Unified"/>
+    </zone>
+</cockatrice_deck>
