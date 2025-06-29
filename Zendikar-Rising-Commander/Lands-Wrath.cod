@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
+    <lastLoadedTimestamp>Sat Apr 12 23:00:24 2025</lastLoadedTimestamp>
     <deckname></deckname>
+    <bannerCard providerId=""></bannerCard>
     <comments></comments>
+    <tags/>
     <zone name="main">
         <card number="1" name="Abundance"/>
         <card number="1" name="Abzan Falconer"/>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname></deckname>
+    <bannerCard providerId=""></bannerCard>
+    <comments></comments>
+    <tags/>
+    <zone name="main">
+        <card number="1" name="Aerith, Last Ancient"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Armory Automaton"/>
+        <card number="1" name="Ash Barrens"/>
+        <card number="1" name="Austere Command"/>
+        <card number="1" name="Avalanche of Sector 7"/>
+        <card number="1" name="Barret Wallace"/>
+        <card number="1" name="Barret, Avalanche Leader"/>
+        <card number="1" name="Bastion Protector"/>
+        <card number="1" name="Battlefield Forge"/>
+        <card number="1" name="Behemoth Sledge"/>
+        <card number="1" name="Bonders' Enclave"/>
+        <card number="1" name="Bronze Guardian"/>
+        <card number="1" name="Brushland"/>
+        <card number="1" name="Bugenhagen, Wise Elder"/>
+        <card number="1" name="Cait Sith, Fortune Teller"/>
+        <card number="1" name="Canopy Vista"/>
+        <card number="1" name="Champion's Helm"/>
+        <card number="1" name="Chaos Warp"/>
+        <card number="1" name="Cid, Freeflier Pilot"/>
+        <card number="1" name="Cinder Glade"/>
+        <card number="1" name="Clever Concealment"/>
+        <card number="1" name="Clifftop Retreat"/>
+        <card number="1" name="Cloud's Limit Break"/>
+        <card number="1" name="Colossus Hammer"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Conformer Shuriken"/>
+        <card number="1" name="Conqueror's Flail"/>
+        <card number="1" name="Cultivate"/>
+        <card number="1" name="Darksteel Plate"/>
+        <card number="1" name="Decimate"/>
+        <card number="1" name="Dispatch"/>
+        <card number="1" name="Elena, Turk Recruit"/>
+        <card number="1" name="Evolving Wilds"/>
+        <card number="1" name="Exotic Orchard"/>
+        <card number="1" name="Explorer's Scope"/>
+        <card number="1" name="Fire-Lit Thicket"/>
+        <card number="1" name="Forest"/>
+        <card number="1" name="Forest"/>
+        <card number="1" name="Forest"/>
+        <card number="1" name="Fortified Village"/>
+        <card number="1" name="Furious Rise"/>
+        <card number="1" name="Furycalm Snarl"/>
+        <card number="1" name="Game Trail"/>
+        <card number="1" name="Harmonize"/>
+        <card number="1" name="Heidegger, Shinra Executive"/>
+        <card number="1" name="Helitrooper"/>
+        <card number="1" name="Hellkite Tyrant"/>
+        <card number="1" name="Hero's Blade"/>
+        <card number="1" name="Hero's Heirloom"/>
+        <card number="1" name="Inspiring Statuary"/>
+        <card number="1" name="Jungle Shrine"/>
+        <card number="1" name="Lifestream's Blessing"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Mask of Memory"/>
+        <card number="1" name="Mossfire Valley"/>
+        <card number="1" name="Mountain"/>
+        <card number="1" name="Mountain"/>
+        <card number="1" name="Mountain"/>
+        <card number="1" name="Nature's Lore"/>
+        <card number="1" name="Path of Ancestry"/>
+        <card number="1" name="Plains"/>
+        <card number="1" name="Plains"/>
+        <card number="1" name="Plains"/>
+        <card number="1" name="Professional Face-Breaker"/>
+        <card number="1" name="Professor Hojo"/>
+        <card number="1" name="Puresteel Paladin"/>
+        <card number="1" name="Radiant Grove"/>
+        <card number="1" name="Rampant Growth"/>
+        <card number="1" name="Red XIII, Proud Warrior"/>
+        <card number="1" name="Rootbound Crag"/>
+        <card number="1" name="Rugged Prairie"/>
+        <card number="1" name="Sacred Peaks"/>
+        <card number="1" name="Scavenger Grounds"/>
+        <card number="1" name="Secret Rendezvous"/>
+        <card number="1" name="Sephiroth, Fallen Hero"/>
+        <card number="1" name="Skullclamp"/>
+        <card number="1" name="Slayers' Stronghold"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="SOLDIER Military Program"/>
+        <card number="1" name="Spire of Industry"/>
+        <card number="1" name="Summon: Kujata"/>
+        <card number="1" name="Summoning Materia"/>
+        <card number="1" name="Sungrass Prairie"/>
+        <card number="1" name="Sunpetal Grove"/>
+        <card number="1" name="Sunscorched Divide"/>
+        <card number="1" name="Sword of the Animist"/>
+        <card number="1" name="Tifa, Martial Artist"/>
+        <card number="1" name="Trailblazer's Boots"/>
+        <card number="1" name="Ultimate Magic: Holy"/>
+        <card number="1" name="Ultimate Magic: Meteor"/>
+        <card number="1" name="Unfinished Business"/>
+        <card number="1" name="Vandalblast"/>
+        <card number="1" name="Vanquish the Horde"/>
+        <card number="1" name="Vincent, Vengeful Atoner"/>
+        <card number="1" name="Wooded Ridgeline"/>
+        <card number="1" name="Wrecking Ball Arm"/>
+        <card number="1" name="Yuffie, Materia Hunter"/>
+        <card number="1" name="Zack Fair"/>
+        <card number="1" name="Cloud, Ex-SOLDIER"/>
+    </zone>
+</cockatrice_deck>

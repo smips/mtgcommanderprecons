@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname></deckname>
+    <bannerCard providerId=""></bannerCard>
+    <comments></comments>
+    <tags/>
+    <zone name="main">
+        <card number="1" name="Alisaie Leveilleur"/>
+        <card number="1" name="Alphinaud Leveilleur"/>
+        <card number="1" name="Arcane Sanctum"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Archaeomancer's Map"/>
+        <card number="1" name="Archmage Emeritus"/>
+        <card number="1" name="Ardbert, Warrior of Darkness"/>
+        <card number="1" name="Ash Barrens"/>
+        <card number="1" name="Astrologian's Planisphere"/>
+        <card number="1" name="Authority of the Consuls"/>
+        <card number="1" name="Baleful Strix"/>
+        <card number="1" name="Bastion of Remembrance"/>
+        <card number="1" name="Blue Mage's Cane"/>
+        <card number="1" name="Champions from Beyond"/>
+        <card number="1" name="Choked Estuary"/>
+        <card number="1" name="Circle of Power"/>
+        <card number="1" name="Cleansing Nova"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Contaminated Aquifer"/>
+        <card number="1" name="Coveted Jewel"/>
+        <card number="1" name="Crux of Fate"/>
+        <card number="1" name="Cut a Deal"/>
+        <card number="1" name="Dancer's Chakrams"/>
+        <card number="1" name="Darkwater Catacombs"/>
+        <card number="1" name="Demolition Field"/>
+        <card number="1" name="Desolate Mire"/>
+        <card number="1" name="Dig Through Time"/>
+        <card number="1" name="Drowned Catacomb"/>
+        <card number="1" name="Emet-Selch of the Third Seat"/>
+        <card number="1" name="Estinien Varlineau"/>
+        <card number="1" name="Evolving Wilds"/>
+        <card number="1" name="Exotic Orchard"/>
+        <card number="1" name="Exsanguinate"/>
+        <card number="1" name="Eye of Nidhogg"/>
+        <card number="1" name="Fandaniel, Telophoroi Ascian"/>
+        <card number="1" name="Fetid Heath"/>
+        <card number="1" name="Final Judgment"/>
+        <card number="1" name="G'raha Tia, Scion Reborn"/>
+        <card number="1" name="Glacial Fortress"/>
+        <card number="1" name="Hermes, Overseer of Elpis"/>
+        <card number="1" name="Hildibrand Manderville // Gentleman's Rise"/>
+        <card number="1" name="Hraesvelgr of the First Brood"/>
+        <card number="1" name="Hypnotic Sprite // Mesmeric Glare"/>
+        <card number="1" name="Idyllic Beachfront"/>
+        <card number="1" name="Into the Story"/>
+        <card number="1" name="Island"/>
+        <card number="1" name="Island"/>
+        <card number="1" name="Island"/>
+        <card number="1" name="Isolated Chapel"/>
+        <card number="1" name="Krile Baldesion"/>
+        <card number="1" name="Lethal Scheme"/>
+        <card number="1" name="Lingering Souls"/>
+        <card number="1" name="Lyse Hext"/>
+        <card number="1" name="Murderous Rider // Swift End"/>
+        <card number="1" name="Observed Stasis"/>
+        <card number="1" name="Papalymo Totolymo"/>
+        <card number="1" name="Path of Ancestry"/>
+        <card number="1" name="Plains"/>
+        <card number="1" name="Plains"/>
+        <card number="2" name="Plains"/>
+        <card number="1" name="Port Town"/>
+        <card number="1" name="Prairie Stream"/>
+        <card number="1" name="Propaganda"/>
+        <card number="1" name="Reaper's Scythe"/>
+        <card number="1" name="Relic of Legends"/>
+        <card number="1" name="Rite of Replication"/>
+        <card number="1" name="Sage's Nouliths"/>
+        <card number="1" name="Scavenger Grounds"/>
+        <card number="1" name="Shineshadow Snarl"/>
+        <card number="1" name="Skycloud Expanse"/>
+        <card number="1" name="Snuff Out"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Sublime Epiphany"/>
+        <card number="1" name="Summon: Good King Mog XII"/>
+        <card number="1" name="Sunken Hollow"/>
+        <card number="1" name="Sunken Ruins"/>
+        <card number="1" name="Sunlit Marsh"/>
+        <card number="2" name="Swamp"/>
+        <card number="1" name="Swamp"/>
+        <card number="1" name="Swamp"/>
+        <card number="1" name="Swords to Plowshares"/>
+        <card number="1" name="Syphon Mind"/>
+        <card number="1" name="Talisman of Dominance"/>
+        <card number="1" name="Talisman of Hierarchy"/>
+        <card number="1" name="Talisman of Progress"/>
+        <card number="1" name="Tataru Taru"/>
+        <card number="1" name="Temple of the False God"/>
+        <card number="1" name="Thancred Waters"/>
+        <card number="1" name="Thought Vessel"/>
+        <card number="1" name="Tome of Legends"/>
+        <card number="1" name="Torrential Gearhulk"/>
+        <card number="1" name="Transpose"/>
+        <card number="1" name="Underground River"/>
+        <card number="1" name="Urianger Augurelt"/>
+        <card number="1" name="Vindicate"/>
+        <card number="1" name="Void Rend"/>
+        <card number="1" name="White Auracite"/>
+        <card number="1" name="Y'shtola, Night's Blessed"/>
+    </zone>
+</cockatrice_deck>
