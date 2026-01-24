@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname></deckname>
+    <bannerCard providerId=""></bannerCard>
+    <comments></comments>
+    <tags/>
+    <zone name="main">
+        <card number="1" name="Aberrant Return"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Archfiend of Ifnir"/>
+        <card number="1" name="Assassin's Trophy"/>
+        <card number="1" name="Binding the Old Gods"/>
+        <card number="1" name="Black Sun's Zenith"/>
+        <card number="1" name="Blowfly Infestation"/>
+        <card number="1" name="Burning Curiosity"/>
+        <card number="1" name="Canyon Slough"/>
+        <card number="1" name="Carnifex Demon"/>
+        <card number="1" name="Cathartic Pyre"/>
+        <card number="1" name="Cathartic Reunion"/>
+        <card number="1" name="Chain Reaction"/>
+        <card number="1" name="Channeler Initiate"/>
+        <card number="1" name="Chimil, the Inner Sun"/>
+        <card number="1" name="Cinder Glade"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Commander's Sphere"/>
+        <card number="1" name="Contagion Clasp"/>
+        <card number="1" name="Devoted Druid"/>
+        <card number="1" name="Dragonskull Summit"/>
+        <card number="1" name="Dread Tiller"/>
+        <card number="1" name="Dusk Urchins"/>
+        <card number="1" name="Eventide's Shadow"/>
+        <card number="1" name="Everlasting Torment"/>
+        <card number="1" name="Evolution Sage"/>
+        <card number="1" name="Evolving Wilds"/>
+        <card number="1" name="Exotic Orchard"/>
+        <card number="1" name="Ferrafor, Young Yew"/>
+        <card number="1" name="Festering Thicket"/>
+        <card number="1" name="Fire Covenant"/>
+        <card number="1" name="Flourishing Defenses"/>
+        <card number="6" name="Forest"/>
+        <card number="1" name="Glissa Sunslayer"/>
+        <card number="1" name="Golgari Rot Farm"/>
+        <card number="1" name="Grave Titan"/>
+        <card number="1" name="Grave Venerations"/>
+        <card number="1" name="Grim Poppet"/>
+        <card number="1" name="Gruul Turf"/>
+        <card number="1" name="Hapatra, Vizier of Poisons"/>
+        <card number="1" name="Harmonize"/>
+        <card number="1" name="Hoarder's Greed"/>
+        <card number="1" name="Ifnir Deadlands"/>
+        <card number="1" name="Ignoble Hierarch"/>
+        <card number="1" name="Incremental Blight"/>
+        <card number="1" name="Infernal Grasp"/>
+        <card number="1" name="Kulrath Knight"/>
+        <card number="1" name="Lasting Tarfire"/>
+        <card number="1" name="Liliana, Death Wielder"/>
+        <card number="1" name="Massacre Girl, Known Killer"/>
+        <card number="1" name="Midnight Banshee"/>
+        <card number="4" name="Mountain"/>
+        <card number="1" name="Necroskitter"/>
+        <card number="1" name="Nesting Grounds"/>
+        <card number="1" name="Night's Whisper"/>
+        <card number="1" name="Oft-Nabbed Goat"/>
+        <card number="1" name="Painful Truths"/>
+        <card number="1" name="Path of Ancestry"/>
+        <card number="1" name="Persist"/>
+        <card number="1" name="Puca's Covenant"/>
+        <card number="1" name="Puppeteer Clique"/>
+        <card number="1" name="Putrefy"/>
+        <card number="1" name="Rakdos Carnarium"/>
+        <card number="1" name="Riveteers Overlook"/>
+        <card number="1" name="Rootbound Crag"/>
+        <card number="1" name="Savage Lands"/>
+        <card number="1" name="Sheltered Thicket"/>
+        <card number="1" name="Sinister Gnarlbark"/>
+        <card number="1" name="Skinrender"/>
+        <card number="1" name="Smoldering Marsh"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Soul Snuffers"/>
+        <card number="8" name="Swamp"/>
+        <card number="1" name="Terminate"/>
+        <card number="1" name="Terramorphic Expanse"/>
+        <card number="1" name="The Reaper, King No More"/>
+        <card number="1" name="The Scorpion God"/>
+        <card number="1" name="Tree of Perdition"/>
+        <card number="1" name="Vernal Fen"/>
+        <card number="1" name="Village Pillagers"/>
+        <card number="1" name="Vraska, Betrayal's Sting"/>
+        <card number="1" name="Wickerbough Elder"/>
+        <card number="1" name="Wickersmith's Tools"/>
+        <card number="1" name="Woodland Cemetery"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Auntie Ool, Cursewretch"/>
+    </zone>
+</cockatrice_deck>
