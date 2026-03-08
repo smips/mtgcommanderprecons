@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname></deckname>
+    <bannerCard providerId=""></bannerCard>
+    <comments></comments>
+    <tags/>
+    <zone name="main">
+        <card number="1" name="Aggro Amalgam"/>
+        <card number="1" name="April O'Neil, Live on the Scene"/>
+        <card number="1" name="Arcade Cabinet"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Ash Barrens"/>
+        <card number="1" name="Assassin's Trophy"/>
+        <card number="1" name="Baxter, Fly in the Ointment"/>
+        <card number="1" name="Bebop, Skull &amp; Crossbones"/>
+        <card number="1" name="Big Apple, 3 a.m."/>
+        <card number="1" name="Big Mother Mouser"/>
+        <card number="1" name="Biogenic Ooze"/>
+        <card number="1" name="Blasphemous Act"/>
+        <card number="1" name="Casey Jones, Back Alley Brute"/>
+        <card number="1" name="Chromatic Lantern"/>
+        <card number="1" name="Cinder Glade"/>
+        <card number="1" name="City of Brass"/>
+        <card number="1" name="Coin of Mastery"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Continue?"/>
+        <card number="1" name="Cultivate"/>
+        <card number="1" name="Dimension X Pizzasaur"/>
+        <card number="1" name="Donatello, the Brains"/>
+        <card number="1" name="Double Jump // Flying Kick"/>
+        <card number="1" name="Dragonskull Summit"/>
+        <card number="1" name="Electric Seaweed"/>
+        <card number="1" name="Endless Foot Assault"/>
+        <card number="1" name="Escape Tunnel"/>
+        <card number="1" name="Everything Pizza"/>
+        <card number="1" name="Evolving Wilds"/>
+        <card number="1" name="Exotic Orchard"/>
+        <card number="1" name="Exploding Barrel"/>
+        <card number="1" name="Fabled Passage"/>
+        <card number="1" name="Fast Forward"/>
+        <card number="1" name="Foot Chopper"/>
+        <card number="4" name="Forest"/>
+        <card number="1" name="Game Over"/>
+        <card number="1" name="Grand Coliseum"/>
+        <card number="1" name="Harmonize"/>
+        <card number="1" name="Heralds of the Shredder"/>
+        <card number="1" name="Here Comes a New Hero!"/>
+        <card number="1" name="Heroes in a Half Shell"/>
+        <card number="1" name="Hidden Hideout"/>
+        <card number="1" name="High Score"/>
+        <card number="1" name="Hinterland Harbor"/>
+        <card number="1" name="Humongous Fungus"/>
+        <card number="1" name="Irma, Part-Time Mutant"/>
+        <card number="2" name="Island"/>
+        <card number="1" name="Krang, the All-Powerful"/>
+        <card number="1" name="Leatherhead, Iron Gator"/>
+        <card number="1" name="Lessons from Life"/>
+        <card number="1" name="Level Up"/>
+        <card number="1" name="Lita, Little Orphan Amphibian"/>
+        <card number="1" name="Marauding Mutagen"/>
+        <card number="1" name="Michelangelo, the Heart"/>
+        <card number="1" name="Mole Module"/>
+        <card number="1" name="Mona Lisa, Science Geek"/>
+        <card number="2" name="Mountain"/>
+        <card number="1" name="Ninja Pizza"/>
+        <card number="1" name="Path of Ancestry"/>
+        <card number="2" name="Plains"/>
+        <card number="1" name="Rain-Slicked Copse"/>
+        <card number="1" name="Raphael, the Muscle"/>
+        <card number="1" name="Rat King, Pale Piper"/>
+        <card number="1" name="Ray Fillet, Wave Warrior"/>
+        <card number="1" name="Roadkill Rodney"/>
+        <card number="1" name="Rocksteady, Mutant Marauder"/>
+        <card number="1" name="Rootbound Crag"/>
+        <card number="1" name="Shellshock"/>
+        <card number="1" name="Shredder, Shadow Master"/>
+        <card number="1" name="Slash Clone"/>
+        <card number="1" name="Smoldering Marsh"/>
+        <card number="1" name="Sodden Verdure"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Special Move"/>
+        <card number="1" name="Spire Garden"/>
+        <card number="1" name="Splinter, the Mentor"/>
+        <card number="1" name="Sunken Hollow"/>
+        <card number="1" name="Super Combo"/>
+        <card number="2" name="Swamp"/>
+        <card number="1" name="Swift Demise"/>
+        <card number="1" name="Tempestra, Dame of Games"/>
+        <card number="1" name="Thriving Grove"/>
+        <card number="1" name="Thriving Isle"/>
+        <card number="1" name="Thriving Moor"/>
+        <card number="1" name="Together Forever"/>
+        <card number="1" name="Tokka &amp; Rahzar, Unsupervised"/>
+        <card number="1" name="Turtle Lair"/>
+        <card number="1" name="Undergrowth Stadium"/>
+        <card number="1" name="Vanquish the Horde"/>
+        <card number="1" name="Vernal Fen"/>
+        <card number="1" name="Vibrant Cityscape"/>
+        <card number="1" name="Wave Goodbye"/>
+        <card number="1" name="Leonardo, the Balance"/>
+    </zone>
+</cockatrice_deck>

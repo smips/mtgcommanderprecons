@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
+    <lastLoadedTimestamp>Sat Nov 1 23:46:24 2025</lastLoadedTimestamp>
     <deckname></deckname>
+    <bannerCard providerId=""></bannerCard>
     <comments></comments>
+    <tags/>
     <zone name="main">
         <card number="1" name="And They Shall Know No Fear"/>
         <card number="1" name="Arcane Sanctum"/>
