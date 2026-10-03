@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname></deckname>
+    <format></format>
+    <bannerCard providerId="61a51b67-d941-4e07-9c12-ffe583cb65d4">Captain America, Team Leader</bannerCard>
+    <comments></comments>
+    <tags/>
+    <zone name="main">
+        <card number="1" name="Ant-Man, Elusive Avenger" setShortName="MSC" collectorNumber="73" uuid="18e2b0a4-0ed3-48e6-8334-198a19e54bff"/>
+        <card number="1" name="Arcane Denial" setShortName="MSC" collectorNumber="147" uuid="5eb843ef-b223-40d0-a461-54b16d188d0e"/>
+        <card number="1" name="Arcane Signet" setShortName="MSC" collectorNumber="191" uuid="1cad1bd2-7c56-4ce0-99a6-b2a49c1288dd"/>
+        <card number="1" name="Austere Command" setShortName="MSC" collectorNumber="121" uuid="a8bc7912-e201-468a-b251-140205cb741c"/>
+        <card number="1" name="Avenge" setShortName="MSC" collectorNumber="11" uuid="8b385779-bc6b-4f67-8724-d8ae136d1436"/>
+        <card number="1" name="Avengers Quinjet" setShortName="MSC" collectorNumber="102" uuid="c090d4b3-b108-4596-9d6d-738eb5e2249c"/>
+        <card number="1" name="Avengers Tower" setShortName="MSH" collectorNumber="260" uuid="88f0d9c9-8a1f-4b5a-b6f9-821ddd658d27"/>
+        <card number="1" name="Bastion Protector" setShortName="MSC" collectorNumber="122" uuid="1582488a-ad15-487e-9271-6d9330b46fb4"/>
+        <card number="1" name="Black Widow, Agile Avenger" setShortName="MSC" collectorNumber="77" uuid="8c2bf77c-9acf-4e2c-9cad-e74546f26070"/>
+        <card number="1" name="Captain America, Living Legend" setShortName="MSH" collectorNumber="210" uuid="6516f292-469d-4092-b099-97c698f373cd"/>
+        <card number="1" name="Captain Mar-Vell, Space-Born" setShortName="MSH" collectorNumber="12" uuid="27924c2f-756c-42af-9830-18a5a2735137"/>
+        <card number="1" name="Captain Marvel, Apex Avenger" setShortName="MSC" collectorNumber="78" uuid="516e14ce-9cc8-4be3-aacb-ba801f26a6bc"/>
+        <card number="1" name="Clifftop Retreat" setShortName="MSC" collectorNumber="231" uuid="4a7f7767-1959-4812-8654-0a22634096b1"/>
+        <card number="1" name="Coastal Peak" setShortName="MSC" collectorNumber="232" uuid="d2a70a9d-2d9f-4afd-9393-8d6518936ee2"/>
+        <card number="1" name="Command Tower" setShortName="MSC" collectorNumber="233" uuid="0548fb60-c843-4f8f-a029-6f10efc63a41"/>
+        <card number="1" name="Destroy Evil" setShortName="MSC" collectorNumber="128" uuid="af2498a2-3763-408a-9bd2-279034869285"/>
+        <card number="1" name="Director Nick Fury" setShortName="MSC" collectorNumber="81" uuid="9a19d4ec-399a-4371-acc3-0956dd4dcb84"/>
+        <card number="1" name="Dismantling Wave" setShortName="MSC" collectorNumber="129" uuid="39e7bb05-96df-4e76-90a6-3f3625b7965a"/>
+        <card number="1" name="Door of Destinies" setShortName="MSC" collectorNumber="198" uuid="1d0d80c7-87b5-47cc-b2fd-7defd281e1a2"/>
+        <card number="1" name="Exotic Orchard" setShortName="MSC" collectorNumber="241" uuid="8853ff94-bf44-4cfd-9d3a-0743c361fb0d"/>
+        <card number="1" name="Falcon and Redwing" setShortName="MSC" collectorNumber="14" uuid="e565fb47-acca-4348-87bb-afdadbf55e8a"/>
+        <card number="1" name="Fellwar Stone" setShortName="MSC" collectorNumber="285" uuid="1e24e2bc-b239-4f9a-85c0-5f272f58ed43"/>
+        <card number="1" name="Firebird, Blazing Ranger" setShortName="MSC" collectorNumber="50" uuid="11dc3b30-b130-4558-ab37-9c32792641ea"/>
+        <card number="1" name="Folk Hero" setShortName="MSC" collectorNumber="132" uuid="85bf7c95-4534-435b-bb25-f39340ecf9be"/>
+        <card number="1" name="Frostboil Snarl" setShortName="MSC" collectorNumber="246" uuid="ae705a26-5371-4236-904c-fe3e58b4721d"/>
+        <card number="1" name="Furycalm Snarl" setShortName="MSC" collectorNumber="247" uuid="afc12892-4978-4442-ace5-c4dea5c0ee00"/>
+        <card number="1" name="Gift of Immortality" setShortName="MSC" collectorNumber="134" uuid="4ae22015-073a-4666-9e3b-15dcf61f50ce"/>
+        <card number="1" name="Glacial Fortress" setShortName="MSC" collectorNumber="248" uuid="d673a2d5-0c61-48dc-8c8d-06f0c7b6b8bf"/>
+        <card number="1" name="Glittering Massif" setShortName="MSC" collectorNumber="249" uuid="a01274c2-a8f4-43b5-bd91-c4905b8cee7e"/>
+        <card number="1" name="Hawkeye, Avenging Archer" setShortName="MSC" collectorNumber="84" uuid="1f394a6f-3649-4464-939b-c183b2b01768"/>
+        <card number="1" name="Herald's Horn" setShortName="MSC" collectorNumber="287" uuid="1c2e4ff2-5c14-488e-8548-eb89ffd18e41"/>
+        <card number="1" name="Hercules, Olympian Hero" setShortName="MSC" collectorNumber="16" uuid="77be0e26-90db-41a5-97c2-43cf6ef87ab0"/>
+        <card number="1" name="Hero's Blade" setShortName="MSC" collectorNumber="201" uuid="6f2fa911-5735-4ee2-828f-59dea6927b20"/>
+        <card number="1" name="Heroic Return" setShortName="MSC" collectorNumber="17" uuid="707e0b51-701b-4eb6-b721-19c21a3c4d90"/>
+        <card number="1" name="Heroic Sacrifice" setShortName="MSC" collectorNumber="18" uuid="ec7bd155-1dd6-4fc3-870f-e0905f8c6d42"/>
+        <card number="1" name="Hulkbuster Armor" setShortName="MSC" collectorNumber="107" uuid="0cd857a3-ad93-4d74-80e0-c99d0a04a60a"/>
+        <card number="1" name="Iron Man, Armored Avenger" setShortName="MSC" collectorNumber="33" uuid="94af0633-59c6-4893-ab44-232d37573dde"/>
+        <card number="1" name="Irrigated Farmland" setShortName="MSC" collectorNumber="251" uuid="996b4484-a701-409a-822c-aa19be89a2c6"/>
+        <card number="5" name="Island" setShortName="MSH" collectorNumber="289" uuid="5a74175b-2418-4226-8435-1490532e644f"/>
+        <card number="1" name="Jarvis, Earth's Mightiest Butler" setShortName="MSC" collectorNumber="34" uuid="62c31cd8-0c30-4cfb-89d6-2e4dac19f6ea"/>
+        <card number="1" name="Jocasta, Automaton Avenger" setShortName="MSC" collectorNumber="108" uuid="f666e211-0d80-4f01-b206-dac19bcbcfa7"/>
+        <card number="1" name="Kindred Discovery" setShortName="MSC" collectorNumber="150" uuid="19bdedb2-768b-4adf-8193-917a10c8f729"/>
+        <card number="1" name="Love on the Battlefield" setShortName="MSC" collectorNumber="87" uuid="3f2e65ff-27ae-4dfc-bf17-66f0c4949699"/>
+        <card number="1" name="Make Your Move" setShortName="MSC" collectorNumber="137" uuid="05fa34df-99b0-4121-b2f1-d41afe97b200"/>
+        <card number="1" name="Metallic Mimic" setShortName="MSC" collectorNumber="203" uuid="2623640e-51bb-4aba-a31f-1b6d170f58f6"/>
+        <card number="1" name="Methods of the Mighty" setShortName="MSC" collectorNumber="21" uuid="f3699f46-6173-47e1-97b2-a7632224fb6c"/>
+        <card number="5" name="Mountain" setShortName="MSH" collectorNumber="293" uuid="4bdbae27-9a55-485f-a1fc-3fa988184e9d"/>
+        <card number="1" name="Mystic Monastery" setShortName="MSC" collectorNumber="253" uuid="bc23343a-3a01-4975-8430-17bf15fa639d"/>
+        <card number="1" name="Path of Ancestry" setShortName="MSC" collectorNumber="254" uuid="836b8f52-10d2-4716-9f7b-38fb23bc68de"/>
+        <card number="1" name="Patriot, Shield Wielder" setShortName="MSH" collectorNumber="30" uuid="1467d7c9-00d8-43f1-b4e7-a279d2b10503"/>
+        <card number="1" name="Photon, Mighty Marvel" setShortName="MSC" collectorNumber="58" uuid="2b164aca-2bda-49a6-81ce-16ef4721ec63"/>
+        <card number="6" name="Plains" setShortName="MSH" collectorNumber="287" uuid="5f029c91-f20b-4aa5-a7d9-dd6ddef1c877"/>
+        <card number="1" name="Plaza of Heroes" setShortName="MSC" collectorNumber="255" uuid="96fe4b9b-d766-463b-a6df-345ebebfc17c"/>
+        <card number="1" name="Port Town" setShortName="MSC" collectorNumber="256" uuid="3f962cab-c058-41f5-b7e1-5b063f374eb0"/>
+        <card number="1" name="Prairie Stream" setShortName="MSC" collectorNumber="257" uuid="b2e133b4-2263-4ac2-8d16-7bf307d5e104"/>
+        <card number="1" name="Professor Hulk" setShortName="MSC" collectorNumber="37" uuid="1b03fa4e-b3a1-4c23-8341-e9ce89aa872f"/>
+        <card number="1" name="Quicksilver, Speedster" setShortName="MSC" collectorNumber="91" uuid="5a454bad-c137-4d7c-9fcc-928c0c1798f4"/>
+        <card number="1" name="Radiant Summit" setShortName="MSC" collectorNumber="258" uuid="81b619cc-900c-4d65-83da-8b9dcb370984"/>
+        <card number="1" name="Raise the Palisade" setShortName="MSC" collectorNumber="278" uuid="ce9347e8-962f-4fc1-808f-b59ac751de13"/>
+        <card number="1" name="Reconnaissance Mission" setShortName="MSC" collectorNumber="153" uuid="9fdd83d4-b473-498f-b45e-174f025e1259"/>
+        <card number="1" name="Relic of Legends" setShortName="MSC" collectorNumber="209" uuid="89691cda-e38b-4f53-bee6-4c234186e6ad"/>
+        <card number="1" name="Rescue, Pepper Potts" setShortName="MSC" collectorNumber="755" uuid="476f75a4-a4e0-4d09-9756-f1001ebabc84"/>
+        <card number="1" name="Rip Apart" setShortName="MSC" collectorNumber="187" uuid="b4964c78-b9ca-43c2-bcaa-bf75d92b9065"/>
+        <card number="1" name="Scarlet Witch, Chaotic Avenger" setShortName="MSC" collectorNumber="93" uuid="2308c274-40d8-490f-955e-67a57b89525a"/>
+        <card number="1" name="Scavenger Grounds" setShortName="MSC" collectorNumber="263" uuid="9fbe68ba-ffe5-4fe0-ac0a-0b3221e4f395"/>
+        <card number="1" name="Scorched Geyser" setShortName="MSC" collectorNumber="264" uuid="43abdfba-0a55-4b8a-858e-3372ee40a579"/>
+        <card number="1" name="Secluded Courtyard" setShortName="MSC" collectorNumber="265" uuid="c0d17d04-cf0b-4918-bfec-b34b0d98a602"/>
+        <card number="1" name="Shang-Chi and the Ten Rings" setShortName="MSC" collectorNumber="94" uuid="8d6288b7-c959-437b-9a3f-eb85c306c9f2"/>
+        <card number="1" name="She-Hulk, Wallbreaker" setShortName="MSC" collectorNumber="60" uuid="8c57fb16-f4a3-437c-be27-d1c00a2be01e"/>
+        <card number="1" name="Sol Ring" setShortName="MSC" collectorNumber="211" uuid="91fdb56b-54d5-4272-8319-505ff987fe9b"/>
+        <card number="1" name="Spectator Seating" setShortName="MSC" collectorNumber="268" uuid="4c62dcfc-4bc8-4551-b3c7-9eec26be3362"/>
+        <card number="1" name="Speed, Young Avenger" setShortName="MSH" collectorNumber="152" uuid="d15d187b-dc5d-482d-a79a-b9b98193ad7a"/>
+        <card number="1" name="Sulfur Falls" setShortName="MSC" collectorNumber="269" uuid="c762f475-7e58-4477-839b-b3c55434b88f"/>
+        <card number="1" name="Swords to Plowshares" setShortName="MSC" collectorNumber="143" uuid="b4e9c870-23c0-413a-ae39-265f09da16d1"/>
+        <card number="1" name="Talisman of Conviction" setShortName="MSC" collectorNumber="217" uuid="a365885c-f7d9-4ea1-9125-5265055e5570"/>
+        <card number="1" name="Talisman of Creativity" setShortName="MSC" collectorNumber="218" uuid="3ed13229-bbbb-41a7-933e-8975a6b64226"/>
+        <card number="1" name="Talisman of Progress" setShortName="MSC" collectorNumber="221" uuid="b356ee36-1c62-4097-87d7-fef6a6dad067"/>
+        <card number="1" name="The Wasp, Winsome Avenger" setShortName="MSC" collectorNumber="39" uuid="ce5fb436-fcc6-426f-a33b-a8ba904df0ff"/>
+        <card number="1" name="Thor, Asgard's Avenger" setShortName="MSC" collectorNumber="756" uuid="3513c041-7147-467d-845d-3d1c83fb3328"/>
+        <card number="1" name="Thought Vessel" setShortName="MSC" collectorNumber="222" uuid="6ec6a910-f6d0-4225-8b55-d329dc788c64"/>
+        <card number="1" name="Tome of Legends" setShortName="MSC" collectorNumber="223" uuid="84546bb2-6c82-4e3e-8f64-cb7aa865ee60"/>
+        <card number="1" name="Unclaimed Territory" setShortName="MSC" collectorNumber="275" uuid="d3782952-3839-4a94-95bc-716611d3ece6"/>
+        <card number="1" name="Vision, Synthezoid Avenger" setShortName="MSC" collectorNumber="119" uuid="f7007b77-84ec-4391-b279-8c188dd569d0"/>
+        <card number="1" name="War Machine, Avenging Arsenal" setShortName="MSC" collectorNumber="63" uuid="8c62621f-20b2-4950-a74a-7c2e4fc02e54"/>
+        <card number="1" name="West Coast Expansion" setShortName="MSC" collectorNumber="40" uuid="41533f78-4a4e-424a-9612-a8bdb2a14b4b"/>
+        <card number="1" name="Winter Soldier, Reborn Avenger" setShortName="MSC" collectorNumber="27" uuid="de13b219-a99c-47ef-8b68-d57463cf5de8"/>
+        <card number="1" name="Captain America, Team Leader" setShortName="MSC" collectorNumber="5" uuid="61a51b67-d941-4e07-9c12-ffe583cb65d4"/>
+    </zone>
+</cockatrice_deck>

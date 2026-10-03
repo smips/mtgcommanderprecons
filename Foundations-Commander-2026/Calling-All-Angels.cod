@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname></deckname>
+    <format></format>
+    <bannerCard providerId="4ebc7622-08a1-4f43-92dd-8675d395e8f6">Giada, Font of Hope</bannerCard>
+    <comments></comments>
+    <tags/>
+    <zone name="main">
+        <card number="1" name="Always Watching" setShortName="FDC" collectorNumber="10" uuid="1c9a58d6-e1d8-4f9a-816f-d5ba7c84ca3e"/>
+        <card number="1" name="Angel of Finality" setShortName="FDC" collectorNumber="11" uuid="ed1e014c-8cf9-4193-ac8e-86a7b2311f59"/>
+        <card number="1" name="Angel of Vitality" setShortName="FDC" collectorNumber="13" uuid="dbb38f33-9f51-48cb-9f69-9a62f2c4b907"/>
+        <card number="1" name="Angel of the Ruins" setShortName="FDC" collectorNumber="12" uuid="3a3f00d5-5847-4fc8-8c76-81ea11ce4376"/>
+        <card number="1" name="Angelic Destiny" setShortName="FDC" collectorNumber="14" uuid="a8c5b900-650b-4655-b8f8-a7d454b20207"/>
+        <card number="1" name="Angelic Field Marshal" setShortName="FDC" collectorNumber="15" uuid="b4f751ad-336d-479a-b63c-d2d193a42ccf"/>
+        <card number="1" name="Angelic Sleuth" setShortName="FDC" collectorNumber="16" uuid="68905611-fb68-421a-84b6-b41e379a6361"/>
+        <card number="1" name="Arcane Signet" setShortName="FDC" collectorNumber="245" uuid="ee7710cf-e73d-479f-bc8d-0e78a0e324d9"/>
+        <card number="1" name="Archangel of Tithes" setShortName="FDC" collectorNumber="17" uuid="5699c00b-99a0-4db6-a592-e93efbe391bf"/>
+        <card number="1" name="Austere Command" setShortName="FDC" collectorNumber="18" uuid="a47d6756-400c-4d45-8708-8a8e95c926c8"/>
+        <card number="1" name="Bishop of Wings" setShortName="FDC" collectorNumber="19" uuid="e4a34101-1be3-44ae-b709-f0398998d4c4"/>
+        <card number="1" name="Bonders' Enclave" setShortName="FDC" collectorNumber="297" uuid="7cfeb33d-65c7-4aa2-a1d8-964e6cd73b82"/>
+        <card number="1" name="Cleansing Nova" setShortName="FDC" collectorNumber="20" uuid="7b46929d-f63c-4026-8223-e2a4a159e017"/>
+        <card number="1" name="Commander's Sphere" setShortName="FDC" collectorNumber="250" uuid="a2f126c3-ef62-421b-8d3e-2ae2f2d4f000"/>
+        <card number="1" name="Court of Grace" setShortName="FDC" collectorNumber="21" uuid="f0deb485-4895-4a3e-b1a7-e3c969593f97"/>
+        <card number="1" name="Cut a Deal" setShortName="FDC" collectorNumber="22" uuid="6db24e22-d0b6-4f27-9fff-fce027fadf15"/>
+        <card number="1" name="Day of Judgment" setShortName="FDC" collectorNumber="23" uuid="3b3307b6-e597-4f2c-8ad8-f8602e0ac461"/>
+        <card number="1" name="Dazzling Angel" setShortName="FDC" collectorNumber="24" uuid="a1a8cc0d-c2ac-4dfe-a0a1-996bfadb7d54"/>
+        <card number="1" name="Defy Death" setShortName="FDC" collectorNumber="25" uuid="46643da0-44a9-4df5-a7d0-076af2c7c132"/>
+        <card number="1" name="Destroy Evil" setShortName="FDC" collectorNumber="26" uuid="c927db80-2711-4546-970e-7c2e89a0fb2f"/>
+        <card number="1" name="Emeria Shepherd" setShortName="FDC" collectorNumber="27" uuid="08ef3822-592f-456f-823d-a4d5cc85ddf9"/>
+        <card number="1" name="Endless Atlas" setShortName="FDC" collectorNumber="256" uuid="1718ebac-641f-4115-bb13-d58732cf3464"/>
+        <card number="1" name="Exemplar of Light" setShortName="FDC" collectorNumber="28" uuid="4331836b-fa3c-4505-9361-a0b82aef63f5"/>
+        <card number="1" name="Exorcise" setShortName="FDC" collectorNumber="29" uuid="be5b4b1d-fd4e-4783-9393-85e08d9ae0df"/>
+        <card number="1" name="Fateful Absence" setShortName="FDC" collectorNumber="30" uuid="168a41be-fa21-4d09-baf8-af3afd516d9b"/>
+        <card number="1" name="Firemane Commando" setShortName="FDC" collectorNumber="31" uuid="62cef25e-0a24-43f8-9d88-53f9d38c854f"/>
+        <card number="1" name="Grasp of Fate" setShortName="FDC" collectorNumber="32" uuid="808b7b00-7072-4587-8383-2bf64a9bb38b"/>
+        <card number="1" name="Herald of Eternal Dawn" setShortName="FDC" collectorNumber="33" uuid="bdcddceb-6b5e-4c19-9069-457c3736932d"/>
+        <card number="1" name="Herald of War" setShortName="FDC" collectorNumber="34" uuid="5bba2910-975b-46d4-9d50-4d9a83caaa77"/>
+        <card number="1" name="Heraldic Banner" setShortName="FDC" collectorNumber="263" uuid="eb25d007-aeff-4282-9623-621302b99bfe"/>
+        <card number="1" name="Inspiring Overseer" setShortName="FDC" collectorNumber="35" uuid="d04d0a9b-a5a7-423a-bc27-8ea9b2cbff75"/>
+        <card number="1" name="Invoke the Divine" setShortName="FDC" collectorNumber="36" uuid="2d9d2b52-8f33-4936-927a-4c71ddd8acb8"/>
+        <card number="1" name="Linvala, the Preserver" setShortName="FDC" collectorNumber="37" uuid="3c31c48d-7833-4235-bc49-7e12a4ed607a"/>
+        <card number="1" name="Lyra Dawnbringer" setShortName="FDC" collectorNumber="38" uuid="15e10422-44e9-421c-b9ec-4006245f71a2"/>
+        <card number="1" name="Marble Diamond" setShortName="FDC" collectorNumber="267" uuid="103029b9-4b0e-47c7-a714-ff93fc2ba66b"/>
+        <card number="1" name="Merchant of Truth" setShortName="FDC" collectorNumber="39" uuid="45cb7d19-0cdb-4e6a-b1ba-59c74306105b"/>
+        <card number="1" name="Metallic Mimic" setShortName="FDC" collectorNumber="269" uuid="97021da6-7008-4271-a83b-459e5c9691fa"/>
+        <card number="1" name="Metropolis Reformer" setShortName="FDC" collectorNumber="40" uuid="2ea3aa21-0999-4178-928a-5216b66b1a24"/>
+        <card number="1" name="Mind Stone" setShortName="FDC" collectorNumber="271" uuid="62901ae9-98dd-466b-8358-f5abd765b3c0"/>
+        <card number="1" name="Norn's Choirmaster" setShortName="FDC" collectorNumber="41" uuid="c7459da4-1081-4550-88c4-936f3662c5c8"/>
+        <card number="1" name="Patchwork Banner" setShortName="FDC" collectorNumber="279" uuid="205c527c-0055-4d2a-86b1-18d1c58a898d"/>
+        <card number="32" name="Plains" setShortName="FDN" collectorNumber="272" uuid="4ef17ed4-a9b5-4b8e-b4cb-2ecb7e5898c3"/>
+        <card number="1" name="Radiant Fountain" setShortName="FDC" collectorNumber="308" uuid="9ab17fb1-98ed-4c8e-985d-a453d236095d"/>
+        <card number="1" name="Reya Dawnbringer" setShortName="FDC" collectorNumber="42" uuid="8384c346-17f5-458f-bd56-6b0f04d6f375"/>
+        <card number="1" name="Righteous Valkyrie" setShortName="FDC" collectorNumber="43" uuid="c43a1592-2d28-4244-a579-4deab02e92b5"/>
+        <card number="1" name="Search the Premises" setShortName="FDC" collectorNumber="44" uuid="ec91933d-8da0-4044-87d3-52d509756e7d"/>
+        <card number="1" name="Secluded Steppe" setShortName="FDC" collectorNumber="312" uuid="095bbeb1-edf4-485e-bd2f-2b8f48b7aaa3"/>
+        <card number="1" name="Secret Rendezvous" setShortName="FDC" collectorNumber="45" uuid="c62d5dc4-f89c-43a9-924c-5d7361ddfacb"/>
+        <card number="1" name="Segovian Angel" setShortName="FDC" collectorNumber="46" uuid="675c227e-3da0-452c-aea2-5c9a7c55f5ca"/>
+        <card number="1" name="Sephara, Sky's Blade" setShortName="FDC" collectorNumber="47" uuid="dd9723a6-51e1-41c3-9fbd-3e18c3ffead3"/>
+        <card number="1" name="Seraph Sanctuary" setShortName="FDC" collectorNumber="313" uuid="cef8e044-6cc0-4988-9d5f-bf9a0ab1c66f"/>
+        <card number="1" name="Seraph of the Sword" setShortName="FDC" collectorNumber="48" uuid="3dbfbdba-52d0-4b49-8c86-8f1686e2285b"/>
+        <card number="1" name="Serra Avenger" setShortName="FDC" collectorNumber="49" uuid="fd18cc57-9c28-4cd5-9ac0-389c4992eaff"/>
+        <card number="1" name="Sol Ring" setShortName="FDC" collectorNumber="286" uuid="4f152dd9-2b35-45b2-90fe-8c71d0634226"/>
+        <card number="1" name="Speaker of the Heavens" setShortName="FDC" collectorNumber="50" uuid="2c4d0c8c-5bf7-494f-859b-334ff54b16eb"/>
+        <card number="1" name="Starnheim Aspirant" setShortName="FDC" collectorNumber="51" uuid="5a99580f-bdf5-41fd-8281-c615c6568826"/>
+        <card number="1" name="Sunblast Angel" setShortName="FDC" collectorNumber="52" uuid="2b5e1bb7-14a3-4737-bdac-8da4c3746e7d"/>
+        <card number="1" name="Swiftfoot Boots" setShortName="FDC" collectorNumber="291" uuid="c193aab3-e53a-40ff-bd30-892170a88ff9"/>
+        <card number="1" name="Swords to Plowshares" setShortName="FDC" collectorNumber="53" uuid="36959f2b-75b5-4d68-b193-ada980822fd9"/>
+        <card number="1" name="Temple of the False God" setShortName="FDC" collectorNumber="315" uuid="6c68b939-8971-43ea-8ad6-8bca631e24dc"/>
+        <card number="1" name="Thraben Watcher" setShortName="FDC" collectorNumber="54" uuid="0b85b4a9-ce44-443f-9a5d-4b75fcbad076"/>
+        <card number="1" name="Tome of Legends" setShortName="FDC" collectorNumber="293" uuid="14adbcbf-830e-4df6-b5d3-851e266e60ba"/>
+        <card number="1" name="Valorous Stance" setShortName="FDC" collectorNumber="55" uuid="16a9ebf9-694e-484b-a1b0-adf5192ca7a7"/>
+        <card number="1" name="Vanguard Seraph" setShortName="FDC" collectorNumber="56" uuid="e545bc61-02f9-4f3f-b5ba-f9d32ea515d2"/>
+        <card number="1" name="Vanquisher's Banner" setShortName="FDC" collectorNumber="294" uuid="8eae5f95-909e-4de7-b767-8a16bdba5ede"/>
+        <card number="1" name="War Room" setShortName="FDC" collectorNumber="317" uuid="b2593c45-585f-4eaf-bb08-e91a4fc2d425"/>
+        <card number="1" name="Wojek Investigator" setShortName="FDC" collectorNumber="57" uuid="59f11982-7822-4847-ab0f-de2022e750a7"/>
+        <card number="1" name="Youthful Valkyrie" setShortName="FDC" collectorNumber="58" uuid="9577d16a-e6ed-4d98-b90f-2abfc9b9586a"/>
+        <card number="1" name="Giada, Font of Hope" setShortName="FDC" collectorNumber="4" uuid="4ebc7622-08a1-4f43-92dd-8675d395e8f6"/>
+    </zone>
+</cockatrice_deck>

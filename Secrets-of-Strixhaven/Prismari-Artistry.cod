@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname></deckname>
+    <format></format>
+    <bannerCard providerId="a5b3dbb2-c090-4118-9e47-56c16202572c">Rootha, Mastering the Moment</bannerCard>
+    <comments></comments>
+    <tags/>
+    <zone name="main">
+        <card number="1" name="Abrade" setShortName="SOC" collectorNumber="234" uuid="1add1757-c1f8-448a-b279-c6940fb7ad5f"/>
+        <card number="1" name="Abstract Performance" setShortName="SOC" collectorNumber="17" uuid="2795c812-0850-4405-b968-b624deaccd55"/>
+        <card number="1" name="Aether Gale" setShortName="SOC" collectorNumber="186" uuid="4e336e87-e5af-46a0-8caf-5d9ad8d671fd"/>
+        <card number="1" name="Arcane Denial" setShortName="SOC" collectorNumber="187" uuid="4931aa7c-b77b-4002-bfb1-b75a1bac1deb"/>
+        <card number="1" name="Arcane Signet" setShortName="SOC" collectorNumber="127" uuid="7811dd72-61b9-4067-ac20-cea153e625d2"/>
+        <card number="1" name="Archmage Emeritus" setShortName="SOC" collectorNumber="188" uuid="dd547601-d650-4a02-a3a4-890bcef03a7c"/>
+        <card number="1" name="Big Score" setShortName="SOC" collectorNumber="237" uuid="8b2699d2-2057-4fbf-8e52-736fcfe2759d"/>
+        <card number="1" name="Blasphemous Act" setShortName="SOC" collectorNumber="238" uuid="175eb155-7262-4c2e-85c3-e0cc9be855e5"/>
+        <card number="1" name="Brazen Borrower // Petty Theft" setShortName="SOC" collectorNumber="190" uuid="25d309d6-9e56-441e-bd29-5c903d5221bf"/>
+        <card number="1" name="Brudiclad, Telchor Engineer" setShortName="SOC" collectorNumber="299" uuid="d24bf1df-5087-4ad6-a1aa-4eda2340cd8b"/>
+        <card number="1" name="Cascade Bluffs" setShortName="SOC" collectorNumber="364" uuid="22acccd2-4e9d-46de-a060-863b08152e50"/>
+        <card number="1" name="Chain Reaction" setShortName="SOC" collectorNumber="121" uuid="6f34d11e-8452-448f-be4f-838e0ace9904"/>
+        <card number="1" name="Chaos Warp" setShortName="SOC" collectorNumber="239" uuid="65ae241c-8955-4c97-8be6-7356fbee2195"/>
+        <card number="1" name="Coastal Peak" setShortName="SOC" collectorNumber="52" uuid="a8af6ded-de96-4095-8a5b-9f1c79adea1a"/>
+        <card number="1" name="Command Tower" setShortName="SOC" collectorNumber="129" uuid="c46a217c-0ed2-4b3c-9a01-ee38d12d76f3"/>
+        <card number="1" name="Creative Technique" setShortName="SOC" collectorNumber="241" uuid="c0b5ba5f-ac25-4134-91c1-9677ba86576c"/>
+        <card number="1" name="Curiosity Crafter" setShortName="SOC" collectorNumber="191" uuid="930d830b-5e6a-422a-806e-fd7275517deb"/>
+        <card number="1" name="Cursed Mirror" setShortName="SOC" collectorNumber="242" uuid="077392b3-6b06-46c8-8737-51e85f690448"/>
+        <card number="1" name="Dance with Calamity" setShortName="SOC" collectorNumber="243" uuid="69f34a40-30f8-4fdd-bb21-79171ba2f00d"/>
+        <card number="1" name="Deep Analysis" setShortName="SOC" collectorNumber="194" uuid="c3acd528-c46c-4fa5-9038-8f821ba49014"/>
+        <card number="1" name="Determined Iteration" setShortName="SOC" collectorNumber="122" uuid="d95490fe-44f2-4f83-b587-b0df402d38ed"/>
+        <card number="1" name="Dig Through Time" setShortName="SOC" collectorNumber="195" uuid="020939d6-72f0-4aa0-9ac2-d16cc896cd7f"/>
+        <card number="1" name="Dirgur Focusmage // Braingeyser" setShortName="SOC" collectorNumber="18" uuid="7bdabeba-0cfb-4953-b725-50a48164a044"/>
+        <card number="1" name="Exotic Orchard" setShortName="SOC" collectorNumber="369" uuid="7db2934a-43a0-46ad-8380-ff6703f8fd6d"/>
+        <card number="1" name="Expressive Iteration" setShortName="SOC" collectorNumber="309" uuid="db54cb6f-25e0-4d5f-876e-a6aa66042d63"/>
+        <card number="1" name="Fabled Passage" setShortName="SOC" collectorNumber="130" uuid="8119d329-6ee5-433c-bd81-8579bb061162"/>
+        <card number="1" name="Faerie Mastermind" setShortName="SOC" collectorNumber="114" uuid="bc9a7599-3c7d-4b83-bff3-e3d1f20f1b0f"/>
+        <card number="1" name="Fellwar Stone" setShortName="SOC" collectorNumber="347" uuid="385b9f5e-81dd-49f6-a644-59d53245e3dc"/>
+        <card number="1" name="Ferrous Lake" setShortName="SOC" collectorNumber="370" uuid="92fa559c-a99b-4bc1-86c4-0c5eeeac9f4f"/>
+        <card number="1" name="Frostboil Snarl" setShortName="SOC" collectorNumber="374" uuid="3dbddf20-1b92-482e-bbd9-1597531913a8"/>
+        <card number="1" name="Furygale Flocking" setShortName="SOC" collectorNumber="32" uuid="a967af7a-03ed-4858-9c26-66f2cb706b02"/>
+        <card number="1" name="Galazeth Prismari" setShortName="SOC" collectorNumber="311" uuid="abdd3b41-6bdd-4b35-998c-0358ba72ca12"/>
+        <card number="1" name="Goldspan Dragon" setShortName="SOC" collectorNumber="245" uuid="848c1951-90fa-4f01-9aed-76f1afcd9995"/>
+        <card number="1" name="Hall of Oracles" setShortName="SOC" collectorNumber="378" uuid="c29b896e-eee0-4f40-89b8-89262dae44e1"/>
+        <card number="1" name="Harmonic Prodigy" setShortName="SOC" collectorNumber="123" uuid="63a565e3-d7a8-469d-898f-49fef634c107"/>
+        <card number="1" name="Inspired Skypainter // Maestro's Gift" setShortName="SOC" collectorNumber="48" uuid="7fddd17b-8282-408e-a319-7f0bb437c52e"/>
+        <card number="8" name="Island" setShortName="SOS" collectorNumber="275" uuid="fd1b9e7c-09d0-4907-9f48-34289f3cd2cc"/>
+        <card number="1" name="Leitmotif Composer" setShortName="SOC" collectorNumber="20" uuid="2511b281-f822-427c-ac5f-d376b64fa6cf"/>
+        <card number="1" name="Lightning Greaves" setShortName="SOC" collectorNumber="350" uuid="08005be9-fbf4-43e6-a742-b1fb8196c4a5"/>
+        <card number="1" name="Magma Opus" setShortName="SOC" collectorNumber="318" uuid="0fd4a0f7-ba03-4158-95cd-4effe798aec0"/>
+        <card number="1" name="Mana Geyser" setShortName="SOC" collectorNumber="247" uuid="dfbda387-3c7d-4c80-97c3-60c9d4757244"/>
+        <card number="1" name="Manaform Hellkite" setShortName="SOC" collectorNumber="248" uuid="0a559655-0967-41b9-8248-170f95c05f84"/>
+        <card number="1" name="Mirrorwing Dragon" setShortName="SOC" collectorNumber="249" uuid="6ba557ab-9d80-4d0a-bddb-ec230cc4437d"/>
+        <card number="1" name="Molten Tributary" setShortName="SOC" collectorNumber="387" uuid="9c6d0f64-b8e1-41bc-ab86-bd6783daf72a"/>
+        <card number="7" name="Mountain" setShortName="SOS" collectorNumber="279" uuid="bce45bc0-accd-4853-a166-9dd5597526d5"/>
+        <card number="1" name="Muddle, the Ever-Changing" setShortName="SOC" collectorNumber="5" uuid="916d3e31-3243-47b3-b7d2-ce9a6dd47aba"/>
+        <card number="1" name="Mystic Sanctuary" setShortName="SOC" collectorNumber="388" uuid="4cd86997-d7b9-4b5b-9488-11f5c679e4d3"/>
+        <card number="1" name="Path of Ancestry" setShortName="SOC" collectorNumber="393" uuid="9335e773-4b45-4b91-8140-5159fe7e0395"/>
+        <card number="1" name="Plargg and Nassari" setShortName="SOC" collectorNumber="250" uuid="e66ee7c6-23bc-4fef-a566-35aee2064bd9"/>
+        <card number="1" name="Prismari Campus" setShortName="SOC" collectorNumber="394" uuid="7c464dee-dd89-4955-ae40-8bb74e9ff42a"/>
+        <card number="1" name="Prismari Charm" setShortName="SOS" collectorNumber="211" uuid="8f6c2a5e-fe13-407c-aadd-c9caf2884ff1"/>
+        <card number="1" name="Prismari Command" setShortName="SOC" collectorNumber="323" uuid="372d0c0b-439c-413f-aac4-5174c75aadb0"/>
+        <card number="1" name="Prismari Pianist" setShortName="SOC" collectorNumber="34" uuid="7e3e5990-ad48-4be2-af8a-4ff77177758d"/>
+        <card number="1" name="Reality Shift" setShortName="SOC" collectorNumber="199" uuid="920bb44e-aa7f-4ee9-ab19-30114f55ec9b"/>
+        <card number="1" name="Redoubled Stormsinger" setShortName="SOC" collectorNumber="251" uuid="fc5fcb5e-091e-4f47-9c74-9e187a9e0e5d"/>
+        <card number="1" name="Reliquary Tower" setShortName="SOC" collectorNumber="398" uuid="e2a27742-08c1-4153-af7f-25a7a98f585e"/>
+        <card number="1" name="Renegade Bull" setShortName="SOC" collectorNumber="36" uuid="aa23e922-f44b-4af8-8ce0-bc1bc1e65bad"/>
+        <card number="1" name="Replication Technique" setShortName="SOC" collectorNumber="200" uuid="b3149976-2811-4bbd-af1e-d59016bb0754"/>
+        <card number="1" name="Resculpt" setShortName="SOC" collectorNumber="201" uuid="5443f46d-03f9-468e-a78d-a059529b1151"/>
+        <card number="1" name="Restless Spire" setShortName="SOC" collectorNumber="399" uuid="fbf4552a-643a-4dc7-a2ae-8e3af5c1ceef"/>
+        <card number="1" name="Rionya, Fire Dancer" setShortName="SOC" collectorNumber="252" uuid="086e68b5-0f89-46d0-9a04-7f8658a9ab53"/>
+        <card number="1" name="Rite of Replication" setShortName="SOC" collectorNumber="202" uuid="5032d71d-d9f8-498c-97d1-271c2e9c1c47"/>
+        <card number="1" name="Rootha, Mercurial Artist" setShortName="SOC" collectorNumber="329" uuid="289abc0f-2ab9-48a7-a19b-a3630b014637"/>
+        <card number="1" name="Rousing Refrain" setShortName="SOC" collectorNumber="253" uuid="2b3ec666-0e57-4c42-872c-51799e0b5c68"/>
+        <card number="1" name="Scorched Geyser" setShortName="SOC" collectorNumber="54" uuid="5abdcad7-3b7a-43f6-a0ad-3aa99ee55c91"/>
+        <card number="1" name="Shivan Reef" setShortName="SOC" collectorNumber="404" uuid="e13d0982-2542-4770-8e93-637478a0f84a"/>
+        <card number="1" name="Sol Ring" setShortName="SOC" collectorNumber="128" uuid="870ec754-a76c-40ea-9b81-81b3dca1f62c"/>
+        <card number="1" name="Solemn Simulacrum" setShortName="SOC" collectorNumber="355" uuid="29fae212-b757-4e5f-ad9b-06cd09782f9f"/>
+        <card number="1" name="Spectacle Summit" setShortName="SOS" collectorNumber="262" uuid="a0a66f7b-eab4-45da-8895-c2c2c7eb05f8"/>
+        <card number="1" name="Storm-Kiln Artist" setShortName="SOC" collectorNumber="255" uuid="da7ae8e0-cb6b-4386-8a30-9527d1af9be5"/>
+        <card number="1" name="Stormcatch Mentor" setShortName="SOC" collectorNumber="331" uuid="f1bbb5ad-a293-48f3-a3d0-7ac85a7b8467"/>
+        <card number="1" name="Study Hall" setShortName="SOC" collectorNumber="407" uuid="93f812bc-7663-4504-b566-79e2c0a0f845"/>
+        <card number="1" name="Sulfur Falls" setShortName="SOC" collectorNumber="408" uuid="56a6df05-f4e4-40d9-a701-6d5adb7ce9fd"/>
+        <card number="1" name="Surge to Victory" setShortName="SOC" collectorNumber="256" uuid="b5345934-60eb-417c-9716-477882c4796d"/>
+        <card number="1" name="Talisman of Creativity" setShortName="SOC" collectorNumber="357" uuid="101e47ed-4afe-4d15-b6c3-4ab495965fde"/>
+        <card number="1" name="Temple of Epiphany" setShortName="SOC" collectorNumber="412" uuid="cc63cd97-de9e-4d31-babb-aaad1277169e"/>
+        <card number="1" name="Temple of the False God" setShortName="SOC" collectorNumber="416" uuid="1024f555-e0d7-48ac-b86e-c87290eac832"/>
+        <card number="1" name="Terramorphic Expanse" setShortName="SOS" collectorNumber="265" uuid="9a4c5629-fadd-42b9-850f-9f8586a2ca50"/>
+        <card number="1" name="Throes of Chaos" setShortName="SOC" collectorNumber="257" uuid="af0fd1ff-3398-45df-b934-07a6b6497998"/>
+        <card number="1" name="Thunderclap Drake" setShortName="SOC" collectorNumber="204" uuid="313fed71-cfbe-4c83-9437-ac14b2cb159b"/>
+        <card number="1" name="Treasure Cruise" setShortName="SOC" collectorNumber="205" uuid="42c45880-15c7-4259-8066-c04d031d8216"/>
+        <card number="1" name="Turbulent Springs" setShortName="SOC" collectorNumber="57" uuid="a25cb813-aa6d-469c-aa29-61ffa32267f2"/>
+        <card number="1" name="Twinflame" setShortName="SOC" collectorNumber="258" uuid="85c863ef-b266-410d-87b3-ced791f99966"/>
+        <card number="1" name="Veyran, Voice of Duality" setShortName="SOC" collectorNumber="337" uuid="1cb06c70-7ff2-4c88-9931-1bfe8a3226d9"/>
+        <card number="1" name="Volcanic Salvo" setShortName="SOC" collectorNumber="259" uuid="fdd9dda5-0386-45a4-aec1-853137281934"/>
+        <card number="1" name="Volcanic Torrent" setShortName="SOC" collectorNumber="260" uuid="bddd4336-ef03-4c4e-9992-02a0548d2d6f"/>
+        <card number="1" name="Rootha, Mastering the Moment" setShortName="SOC" collectorNumber="8" uuid="a5b3dbb2-c090-4118-9e47-56c16202572c"/>
+    </zone>
+</cockatrice_deck>

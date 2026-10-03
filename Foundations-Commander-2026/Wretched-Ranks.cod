@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname></deckname>
+    <format></format>
+    <bannerCard providerId="909e62fa-4585-495e-812b-5df56af24610">Ghoulcaller Gisa</bannerCard>
+    <comments></comments>
+    <tags/>
+    <zone name="main">
+        <card number="1" name="Ambition's Cost" setShortName="FDC" collectorNumber="84" uuid="2f7c9824-b7b0-47f9-ad3f-59037871b7ca"/>
+        <card number="1" name="Arcane Signet" setShortName="FDC" collectorNumber="245" uuid="ee7710cf-e73d-479f-bc8d-0e78a0e324d9"/>
+        <card number="1" name="Army of the Damned" setShortName="FDC" collectorNumber="85" uuid="33c01126-1918-4c67-8ee8-14ffc1325b97"/>
+        <card number="1" name="Ayara, First of Locthwain" setShortName="FDC" collectorNumber="86" uuid="58c50444-3660-4039-ae18-278b92d32132"/>
+        <card number="1" name="Bad Moon" setShortName="FDC" collectorNumber="87" uuid="65d2620a-92e8-4a05-be90-5bdcad70ae30"/>
+        <card number="1" name="Barren Moor" setShortName="FDC" collectorNumber="295" uuid="b4f6c5d3-9dce-48dc-aa0c-9324d6e2e77f"/>
+        <card number="1" name="Bojuka Bog" setShortName="FDC" collectorNumber="296" uuid="3999a519-bfd5-43cf-b7b1-40ed5eb0a05a"/>
+        <card number="1" name="Bontu's Monument" setShortName="FDC" collectorNumber="247" uuid="b4d4daca-34ef-4a5a-97e6-21f7f6a2f481"/>
+        <card number="1" name="Carrion Feeder" setShortName="FDC" collectorNumber="88" uuid="b6b2df2b-7436-4359-9246-2d5a471621fb"/>
+        <card number="1" name="Castle Locthwain" setShortName="FDC" collectorNumber="299" uuid="61fdb579-86f3-4f8d-a0b1-fd545917105d"/>
+        <card number="1" name="Cemetery Reaper" setShortName="FDC" collectorNumber="89" uuid="c179dd0e-4904-457f-b11e-7d267d0bb9eb"/>
+        <card number="1" name="Cemetery Recruitment" setShortName="FDC" collectorNumber="90" uuid="69c60f2e-b313-4139-9708-1a0e0f1ca63e"/>
+        <card number="1" name="Champion of the Perished" setShortName="FDC" collectorNumber="91" uuid="d3bfa5bc-bcb9-4649-96b8-3cded84a25a2"/>
+        <card number="1" name="Charcoal Diamond" setShortName="FDC" collectorNumber="248" uuid="970593fe-747f-48d3-a964-e18a1fa2cf0f"/>
+        <card number="1" name="Commander's Sphere" setShortName="FDC" collectorNumber="250" uuid="a2f126c3-ef62-421b-8d3e-2ae2f2d4f000"/>
+        <card number="1" name="Consumed by Greed" setShortName="FDC" collectorNumber="92" uuid="dc334dac-bd40-44f2-8550-c80f73056ade"/>
+        <card number="1" name="Consuming Corruption" setShortName="FDC" collectorNumber="93" uuid="1d175191-6946-434d-90c8-73412472a543"/>
+        <card number="1" name="Cryptbreaker" setShortName="FDC" collectorNumber="94" uuid="c9d70cc4-379d-41db-8eb0-10643d2aafd1"/>
+        <card number="1" name="Death Baron" setShortName="FDC" collectorNumber="95" uuid="ddfc57da-6cfd-4b81-8fc0-51270edc0200"/>
+        <card number="1" name="Diregraf Colossus" setShortName="FDC" collectorNumber="96" uuid="89a24a9c-ad0d-49df-b7d8-e898da567e51"/>
+        <card number="1" name="Endless Ranks of the Dead" setShortName="FDC" collectorNumber="97" uuid="859a3a66-dae9-4a67-936d-2681397a6bc2"/>
+        <card number="1" name="Eternal Taskmaster" setShortName="FDC" collectorNumber="98" uuid="ccb7deab-cec1-453a-8257-8204c883c9f6"/>
+        <card number="1" name="Fleshbag Marauder" setShortName="FDC" collectorNumber="99" uuid="04848d8c-2294-4ca6-850c-1eadaa3ca93f"/>
+        <card number="1" name="Geier Reach Sanitarium" setShortName="FDC" collectorNumber="303" uuid="6f5b3931-580a-4471-9b5d-25bcf5803a73"/>
+        <card number="1" name="Go for the Throat" setShortName="FDC" collectorNumber="100" uuid="239015f1-02ba-49d0-b11e-1d9729e9d57e"/>
+        <card number="1" name="God-Eternal Bontu" setShortName="FDC" collectorNumber="101" uuid="0070d335-d42d-4ccc-b828-405b7dd00868"/>
+        <card number="1" name="Grave Titan" setShortName="FDC" collectorNumber="102" uuid="5bde28a1-635f-48f8-bed8-444921d5912c"/>
+        <card number="1" name="Graveborn Muse" setShortName="FDC" collectorNumber="103" uuid="49b8e4af-5a44-4aec-a386-729443af4140"/>
+        <card number="1" name="Gravecrawler" setShortName="FDC" collectorNumber="104" uuid="7625fff5-9080-4590-be75-14df86d5ba3c"/>
+        <card number="1" name="Gray Merchant of Asphodel" setShortName="FDC" collectorNumber="105" uuid="58251ceb-aadb-4e1f-b1f1-428e5f94e7bc"/>
+        <card number="1" name="Headless Rider" setShortName="FDC" collectorNumber="106" uuid="54280b46-470f-46bd-9407-5bb5e34302b1"/>
+        <card number="1" name="Infernal Idol" setShortName="FDC" collectorNumber="266" uuid="21a72531-329c-43fd-adc1-a671b3b1edc4"/>
+        <card number="1" name="Josu Vess, Lich Knight" setShortName="FDC" collectorNumber="107" uuid="1f7bcaf9-4e36-4f23-b63f-f70fe5c9dd6f"/>
+        <card number="1" name="Kalitas, Traitor of Ghet" setShortName="FDC" collectorNumber="108" uuid="d188a93a-cd9b-4a0b-80fb-738907b228cf"/>
+        <card number="1" name="Liliana's Mastery" setShortName="FDC" collectorNumber="109" uuid="8d107d3f-1f6f-41dc-999f-b18bb55bf892"/>
+        <card number="1" name="Liliana's Reaver" setShortName="FDC" collectorNumber="110" uuid="2ee81094-87e3-45a2-8ad8-2610ca52d357"/>
+        <card number="1" name="Lord of the Accursed" setShortName="FDC" collectorNumber="111" uuid="1992d081-a3f9-4349-bc71-770372af2adf"/>
+        <card number="1" name="Lord of the Undead" setShortName="FDC" collectorNumber="112" uuid="09a16104-26d5-422e-b86d-6c008ac2c903"/>
+        <card number="1" name="Marchesa's Decree" setShortName="FDC" collectorNumber="113" uuid="e94a5f83-24fe-4182-b70c-63303b4e3890"/>
+        <card number="1" name="Memorial to Folly" setShortName="FDC" collectorNumber="306" uuid="3ce8bd32-5c35-4696-bdda-addc576925f6"/>
+        <card number="1" name="Midnight Reaper" setShortName="FDC" collectorNumber="114" uuid="95bea61d-986c-4e01-a82d-25e47986375e"/>
+        <card number="1" name="Mind Stone" setShortName="FDC" collectorNumber="271" uuid="62901ae9-98dd-466b-8358-f5abd765b3c0"/>
+        <card number="1" name="Mire Triton" setShortName="FDC" collectorNumber="115" uuid="22dc3c27-78ca-42fd-b434-15a813c07eed"/>
+        <card number="1" name="Moan of the Unhallowed" setShortName="FDC" collectorNumber="116" uuid="983efb06-c4e3-4fe4-8a67-9ea9b54344a6"/>
+        <card number="1" name="Mutilate" setShortName="FDC" collectorNumber="117" uuid="c2038b12-30b8-42ff-a15d-87cbbf72c939"/>
+        <card number="1" name="Necrotic Hex" setShortName="FDC" collectorNumber="118" uuid="815334d8-8f4b-47dd-b24a-07ac297e14c8"/>
+        <card number="1" name="Night's Whisper" setShortName="FDC" collectorNumber="119" uuid="b7d4377e-d96f-475b-9512-0a1c4fbcd4e3"/>
+        <card number="1" name="Noxious Ghoul" setShortName="FDC" collectorNumber="120" uuid="551de81f-35e9-4467-b575-ae5bf79d4e7c"/>
+        <card number="1" name="Open the Graves" setShortName="FDC" collectorNumber="121" uuid="9a6bc939-3d31-4a78-9925-27435bec2a67"/>
+        <card number="1" name="Oversold Cemetery" setShortName="FDC" collectorNumber="122" uuid="21733d61-25c1-4844-9385-a2c01f82ea9f"/>
+        <card number="1" name="Patchwork Banner" setShortName="FDC" collectorNumber="279" uuid="205c527c-0055-4d2a-86b1-18d1c58a898d"/>
+        <card number="1" name="Phyrexian Arena" setShortName="FDC" collectorNumber="123" uuid="e6db1ad2-ed85-4084-976e-da1933f4d008"/>
+        <card number="1" name="Razorlash Transmogrant" setShortName="FDC" collectorNumber="124" uuid="a789aea2-bf82-430e-ab6d-8beac52964a8"/>
+        <card number="1" name="Sign in Blood" setShortName="FDC" collectorNumber="125" uuid="0111bf5d-7132-4cf2-b27d-efba3ad9477a"/>
+        <card number="1" name="Sol Ring" setShortName="FDC" collectorNumber="286" uuid="4f152dd9-2b35-45b2-90fe-8c71d0634226"/>
+        <card number="1" name="Soulless One" setShortName="FDC" collectorNumber="126" uuid="cb759501-d634-430b-b5c9-24338e2d7367"/>
+        <card number="33" name="Swamp" setShortName="FDN" collectorNumber="276" uuid="319bc1f0-ee42-44e5-b08b-735613ded2ba"/>
+        <card number="1" name="Syphon Flesh" setShortName="FDC" collectorNumber="127" uuid="e92628a2-9a26-4a44-bb2c-98418cb950b0"/>
+        <card number="1" name="Tendrils of Corruption" setShortName="FDC" collectorNumber="128" uuid="cf71a124-6112-4094-9541-dc0d384cc4de"/>
+        <card number="1" name="Undead Augur" setShortName="FDC" collectorNumber="129" uuid="63df1c6a-98b8-41c1-ac06-c816b50cb07c"/>
+        <card number="1" name="Undead Butler" setShortName="FDC" collectorNumber="130" uuid="da046d5a-9a44-4efb-af0f-229898edc051"/>
+        <card number="1" name="Undead Warchief" setShortName="FDC" collectorNumber="131" uuid="f9139c01-ab89-445f-b564-dce1abf2c79f"/>
+        <card number="1" name="Vengeful Dead" setShortName="FDC" collectorNumber="132" uuid="81197564-19bb-423d-87d4-3d83deac85a2"/>
+        <card number="1" name="Wight of Precinct Six" setShortName="FDC" collectorNumber="133" uuid="e9d9f150-dc54-4dcd-9bd8-809a0b87b266"/>
+        <card number="1" name="Witch's Cottage" setShortName="FDC" collectorNumber="319" uuid="316398d0-cf0a-43ed-a419-aaf0ea44b9c1"/>
+        <card number="1" name="Withering Torment" setShortName="FDC" collectorNumber="134" uuid="0868f94e-235d-4f65-a7af-8aacd58dd61e"/>
+        <card number="1" name="Zul Ashur, Lich Lord" setShortName="FDC" collectorNumber="135" uuid="e92dcd69-8978-4afe-b83d-c9224dfb6a9e"/>
+        <card number="1" name="Ghoulcaller Gisa" setShortName="FDC" collectorNumber="6" uuid="909e62fa-4585-495e-812b-5df56af24610"/>
+    </zone>
+</cockatrice_deck>

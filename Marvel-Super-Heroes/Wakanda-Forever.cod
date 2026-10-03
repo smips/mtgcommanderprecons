@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname></deckname>
+    <format></format>
+    <bannerCard providerId="c1c8ad61-b7e1-446c-8b74-6e29371ea1d5">T'Challa, the Black Panther</bannerCard>
+    <comments></comments>
+    <tags/>
+    <zone name="main">
+        <card number="1" name="Ancestral Communion" setShortName="MSC" collectorNumber="64" uuid="ad4224f8-ee83-4833-99a1-71e3ecbe9718"/>
+        <card number="1" name="Arcane Signet" setShortName="MSC" collectorNumber="194" uuid="ec924d56-d1d9-4226-9e73-cfcc5ab4f708"/>
+        <card number="1" name="Bast, Panther Goddess" setShortName="MSC" collectorNumber="75" uuid="c53a05f1-8e95-4a39-b2a3-a21d3d19b5b3"/>
+        <card number="1" name="Beast Within" setShortName="MSC" collectorNumber="169" uuid="400b43aa-c1d2-4435-b863-061f43889422"/>
+        <card number="1" name="Birds of Paradise" setShortName="MSC" collectorNumber="170" uuid="492c2f9a-51e7-4e0f-9899-23bf43ea988b"/>
+        <card number="1" name="Bountiful Promenade" setShortName="MSC" collectorNumber="226" uuid="f0b11ba3-68ba-4067-af40-2a55e31b395e"/>
+        <card number="1" name="Canopy Vista" setShortName="MSC" collectorNumber="227" uuid="369e6485-fbc7-45f9-ac9d-2e26dd94f2d5"/>
+        <card number="1" name="Command Tower" setShortName="MSC" collectorNumber="236" uuid="ef8ac50e-251b-411b-aee9-e5102843d1ed"/>
+        <card number="1" name="Conduit of Worlds" setShortName="MSC" collectorNumber="171" uuid="8380eb8d-d1c3-4f96-b3b9-54845188c1d1"/>
+        <card number="1" name="Coveted Jewel" setShortName="MSC" collectorNumber="196" uuid="06a7ad3b-87d4-47f0-9450-facac00dfe97"/>
+        <card number="1" name="Dispatch" setShortName="MSC" collectorNumber="130" uuid="99d30a21-b003-4a17-a4c5-97811f230896"/>
+        <card number="1" name="Divine Visitation" setShortName="MSC" collectorNumber="131" uuid="dabd95db-b4ca-446b-bb68-6f52cec9ed2a"/>
+        <card number="1" name="Dora Milaje Elite" setShortName="MSC" collectorNumber="12" uuid="1d1e00e3-7f3c-4a49-859b-398283c38e61"/>
+        <card number="1" name="Everett K. Ross, Hapless Attaché" setShortName="MSC" collectorNumber="13" uuid="dd33edfe-578f-4b24-bd27-5a965b6c14ad"/>
+        <card number="1" name="Evolving Wilds" setShortName="MSC" collectorNumber="240" uuid="c0318a48-30e4-4ef7-be3d-5e561c5ce428"/>
+        <card number="1" name="Fight for the Throne" setShortName="MSC" collectorNumber="65" uuid="6da747ef-4d8f-49a2-8682-52ab87e6ad6e"/>
+        <card number="1" name="Fleecemane Lion" setShortName="MSC" collectorNumber="282" uuid="13a8b618-6e8f-46cf-b456-dffa35831a67"/>
+        <card number="12" name="Forest" setShortName="MSH" collectorNumber="295" uuid="22463284-2478-4b1e-9a37-6dd2383266cf"/>
+        <card number="1" name="Fortified Village" setShortName="MSC" collectorNumber="245" uuid="15f81ac6-a550-4782-a3a9-22d7fef1c206"/>
+        <card number="1" name="Generous Gift" setShortName="MSC" collectorNumber="133" uuid="c3f9b454-97e9-4c77-b37a-e974221ae385"/>
+        <card number="1" name="Gilded Lotus" setShortName="MSC" collectorNumber="199" uuid="28e619e6-ecc1-49c3-8fa9-ce42becdb9ba"/>
+        <card number="1" name="Greater Good" setShortName="MSC" collectorNumber="174" uuid="9dd8b16f-3dfd-4e04-a2e9-ec87d0e007c9"/>
+        <card number="1" name="Hammer of Nazahn" setShortName="MSC" collectorNumber="286" uuid="e1aae864-cad1-48b2-bb33-8c2dbb53f5ec"/>
+        <card number="1" name="Harmonize" setShortName="MSC" collectorNumber="175" uuid="bd7138fb-6aa7-455e-b1f7-ca08d747277d"/>
+        <card number="1" name="Hatut Zeraze Strike Force" setShortName="MSC" collectorNumber="15" uuid="d96a9ecd-86a3-49ae-851c-ce93b0dca6af"/>
+        <card number="1" name="Heart-Shaped Herb" setShortName="MSC" collectorNumber="105" uuid="1725b91a-bac4-4f91-b2b5-bb66086b54a3"/>
+        <card number="1" name="Helm of the Host" setShortName="MSC" collectorNumber="200" uuid="70ffc71f-328d-421d-926b-6f2e45ffb812"/>
+        <card number="1" name="Ingenious Smith" setShortName="MSC" collectorNumber="135" uuid="2962e4d3-3f01-47d4-abe3-75658700c132"/>
+        <card number="1" name="Kimoyo Beads" setShortName="MSC" collectorNumber="109" uuid="1138096a-0d7c-461b-af83-3c90f681722d"/>
+        <card number="1" name="King Solomon's Frogs" setShortName="MSC" collectorNumber="20" uuid="6908808f-e47e-4acb-a405-41b8018a5729"/>
+        <card number="1" name="Loyal Guardian" setShortName="MSC" collectorNumber="176" uuid="6d81eda0-2520-4531-815a-8dea27306776"/>
+        <card number="1" name="Loyal Retainers" setShortName="MSC" collectorNumber="136" uuid="3092e715-36cf-4b41-95c1-cf271646db39"/>
+        <card number="1" name="M'Baku, Jabari Chieftain" setShortName="MSC" collectorNumber="67" uuid="2e330643-5714-4724-a65c-0873ce9cc5a6"/>
+        <card number="1" name="Martial Coup" setShortName="MSC" collectorNumber="138" uuid="a0660e74-6973-41d7-a20b-8d71fed1495a"/>
+        <card number="1" name="Metalwork Colossus" setShortName="MSC" collectorNumber="204" uuid="d7e2d686-1fbc-449a-9af4-f00a71ff7911"/>
+        <card number="1" name="Meteor Golem" setShortName="MSC" collectorNumber="205" uuid="a1a1cfec-72ca-499b-b621-fa2d8502ea20"/>
+        <card number="1" name="Midnight Angel Armor" setShortName="MSC" collectorNumber="22" uuid="5b5b87ba-c6cc-4f25-a5c9-22464a41de65"/>
+        <card number="1" name="Mind's Eye" setShortName="MSC" collectorNumber="288" uuid="708ad400-fa01-4473-aa9e-ba3db965b521"/>
+        <card number="1" name="N'Yami-Class Mother Ship" setShortName="MSC" collectorNumber="110" uuid="3ae767c5-fc28-4d9f-9e5a-ee28735f4054"/>
+        <card number="1" name="Nakia, Wakandan Operative" setShortName="MSC" collectorNumber="69" uuid="6cd88c80-a445-4f88-95e3-e370620c90fc"/>
+        <card number="1" name="Nature's Lore" setShortName="MSC" collectorNumber="177" uuid="7afc4a15-5ff8-457a-aa62-803b2d78d912"/>
+        <card number="1" name="Okoye, Mighty and Adored" setShortName="MSC" collectorNumber="89" uuid="18ee486e-dc25-4de7-a71f-f11fdf100176"/>
+        <card number="1" name="Overwhelming Stampede" setShortName="MSC" collectorNumber="178" uuid="6996b9c4-e78c-4970-91c7-9025a0a4f670"/>
+        <card number="1" name="Palace Jailer" setShortName="MSC" collectorNumber="140" uuid="3a8c2a84-e0f2-4611-af3d-42f4578ad4e3"/>
+        <card number="1" name="Panther Habit" setShortName="MSC" collectorNumber="112" uuid="111f2e18-43b7-4a80-b53a-ed1cc14e500d"/>
+        <card number="1" name="Panther Robot" setShortName="MSC" collectorNumber="113" uuid="8bb7185d-fc07-4f2f-9762-aa7e7c287cba"/>
+        <card number="1" name="Path of Ancestry" setShortName="MSC" collectorNumber="254" uuid="836b8f52-10d2-4716-9f7b-38fb23bc68de"/>
+        <card number="12" name="Plains" setShortName="MSH" collectorNumber="287" uuid="5f029c91-f20b-4aa5-a7d9-dd6ddef1c877"/>
+        <card number="1" name="Queen Mother Ramonda" setShortName="MSC" collectorNumber="23" uuid="6b971f0b-42de-46bc-8e26-51eb5be447ec"/>
+        <card number="1" name="Razorverge Thicket" setShortName="MSC" collectorNumber="259" uuid="df1233de-4449-4c32-944b-e19bed666324"/>
+        <card number="1" name="Royal Talon Fighter Jet" setShortName="MSC" collectorNumber="24" uuid="e94da91d-6c76-4909-91e3-2f8d97398654"/>
+        <card number="1" name="Scattered Groves" setShortName="MSC" collectorNumber="262" uuid="6bd38442-854d-43b1-a80c-9d841c3a304d"/>
+        <card number="1" name="Scavenger Grounds" setShortName="MSC" collectorNumber="263" uuid="9fbe68ba-ffe5-4fe0-ac0a-0b3221e4f395"/>
+        <card number="1" name="Scourglass" setShortName="MSC" collectorNumber="276" uuid="bd961730-9e55-418e-904d-0443b1bf1114"/>
+        <card number="1" name="Shuri's Fabricator" setShortName="MSC" collectorNumber="114" uuid="ace834f0-7f64-4716-8599-f96f674e61a1"/>
+        <card number="1" name="Shuri, the Black Panther" setShortName="MSC" collectorNumber="95" uuid="bb9efb2e-3fe8-4f21-82c5-e089d835bdd5"/>
+        <card number="1" name="Sol Ring" setShortName="MSC" collectorNumber="214" uuid="a739dd30-1fce-49db-99fb-15e346f4f2db"/>
+        <card number="1" name="Solemn Simulacrum" setShortName="MSC" collectorNumber="215" uuid="daafd816-f7c1-4630-9e5c-a1e5db570a35"/>
+        <card number="1" name="Storm, Queen of Wakanda" setShortName="MSC" collectorNumber="97" uuid="0a61d843-2a7c-459c-9018-1ee4488c90a9"/>
+        <card number="1" name="Sungrass Prairie" setShortName="MSC" collectorNumber="270" uuid="841f369e-6532-469c-8565-78094b33a3d9"/>
+        <card number="1" name="Sunpetal Grove" setShortName="MSC" collectorNumber="272" uuid="e83092ee-4a90-4eac-915f-3fd01b7d9bd0"/>
+        <card number="1" name="Sword of the Animist" setShortName="MSC" collectorNumber="289" uuid="ff890d40-710d-4b28-b303-37f4b7adcf42"/>
+        <card number="1" name="T'Chaka, Venerable King" setShortName="MSC" collectorNumber="98" uuid="28deeaf6-c32b-41f1-b94f-0ae303377ea0"/>
+        <card number="1" name="Terramorphic Expanse" setShortName="MSC" collectorNumber="828" uuid="719704eb-04b2-4e2f-9954-50f77dd9bf08"/>
+        <card number="1" name="The Great Mound" setShortName="MSC" collectorNumber="120" uuid="11b3f96c-138e-431e-a1d6-5ebae4cb6b2f"/>
+        <card number="1" name="The Spear of Bashenga" setShortName="MSC" collectorNumber="25" uuid="b8cc0703-f626-4d42-90bb-1a26e331a9de"/>
+        <card number="1" name="Thran Dynamo" setShortName="MSC" collectorNumber="290" uuid="873d52a8-f10e-4116-8511-bf63aeb2e413"/>
+        <card number="1" name="Throne of the High City" setShortName="MSC" collectorNumber="274" uuid="6aac7a6d-90c7-4fe7-b6d3-f63a7170ee96"/>
+        <card number="1" name="Trading Post" setShortName="MSC" collectorNumber="224" uuid="03499a72-e865-46ff-bcb2-75e53e4b600e"/>
+        <card number="1" name="Valorous Stance" setShortName="MSC" collectorNumber="145" uuid="f726d332-6961-403d-83f8-25c997f4dffc"/>
+        <card number="1" name="Vanquish the Horde" setShortName="MSC" collectorNumber="146" uuid="f392782b-7464-4617-b421-6b5d0e2880fc"/>
+        <card number="1" name="Vibranium Mining Mech" setShortName="MSC" collectorNumber="117" uuid="2212e15b-5deb-4ab8-9f6f-7991e750e21a"/>
+        <card number="1" name="Vibranium Strike Gauntlets" setShortName="MSC" collectorNumber="118" uuid="2b47e8b0-471c-4429-8273-d114fdf95e13"/>
+        <card number="1" name="W'Kabi, Shield of the Nation" setShortName="MSC" collectorNumber="70" uuid="9fb292a4-cf71-4aeb-b92e-eab2e3177653"/>
+        <card number="1" name="Wakanda Forever!" setShortName="MSC" collectorNumber="71" uuid="8b893d46-25f0-4c6a-b9a3-ff25277be918"/>
+        <card number="1" name="Whispersilk Cloak" setShortName="MSC" collectorNumber="225" uuid="a3f31ac4-09ca-4712-a311-50d28824bfad"/>
+        <card number="1" name="Zuri, Warrior of Wakanda" setShortName="MSC" collectorNumber="72" uuid="b8225b51-d5a4-4b46-9a10-b581362b6a11"/>
+        <card number="1" name="T'Challa, the Black Panther" setShortName="MSC" collectorNumber="7" uuid="c1c8ad61-b7e1-446c-8b74-6e29371ea1d5"/>
+    </zone>
+</cockatrice_deck>

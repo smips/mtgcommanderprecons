@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname></deckname>
+    <format></format>
+    <bannerCard providerId="55cd03d9-2535-4cf3-a8b2-1418e1190f4a">Jace, Multiverse Architect</bannerCard>
+    <comments></comments>
+    <tags/>
+    <zone name="main">
+        <card number="1" name="Akroma, Angel of Fury" setShortName="FRC" collectorNumber="19" uuid="2b5ac7bd-3788-4c8b-b945-c1105986807a"/>
+        <card number="1" name="Arcane Signet" setShortName="FRC" collectorNumber="20" uuid="c6b6117c-faab-4bbb-b851-07bd8061ef03"/>
+        <card number="1" name="Archfiend of Despair" setShortName="FRC" collectorNumber="46" uuid="137b69ad-3296-49f1-bddf-24818a03830f"/>
+        <card number="1" name="Archon of Cruelty" setShortName="FRC" collectorNumber="47" uuid="95ff951b-a098-409c-86c8-373b6c9f8331"/>
+        <card number="1" name="Avacyn, Angel of Horror" setShortName="FRC" collectorNumber="7" uuid="ff65f46b-0f82-49b8-93b9-7ac0243ce941"/>
+        <card number="1" name="Azorius Signet" setShortName="FRC" collectorNumber="53" uuid="af690536-b0bc-4d85-8bb8-f6856b9f927b"/>
+        <card number="1" name="Battlefield Forge" setShortName="FRC" collectorNumber="65" uuid="ef7d3676-b1db-4329-9201-18f8a6c54ea6"/>
+        <card number="1" name="Brainstorm" setShortName="FRC" collectorNumber="39" uuid="ec7d6864-7b6b-4f74-8474-9b9ec96b1d33"/>
+        <card number="1" name="Brainsurge" setShortName="FRC" collectorNumber="40" uuid="2dc20172-4cf0-4ada-a4f3-4ef951cb8207"/>
+        <card number="1" name="Caves of Koilos" setShortName="FRC" collectorNumber="66" uuid="ca814c7c-9908-4727-b556-3f85bfd653ca"/>
+        <card number="1" name="Chromatic Lantern" setShortName="FRC" collectorNumber="54" uuid="424c40b0-49d8-4a6f-a0ef-545738224ec9"/>
+        <card number="1" name="Clifftop Retreat" setShortName="FRC" collectorNumber="67" uuid="cd112d5c-102f-45a6-b26c-f80cc97d4df2"/>
+        <card number="1" name="Command Tower" setShortName="FRC" collectorNumber="22" uuid="1ac6cb62-45da-4e9a-84c6-09e6eacf0664"/>
+        <card number="1" name="Contaminated Landscape" setShortName="FRC" collectorNumber="68" uuid="f9274fad-3f30-454a-8d61-d487165090d7"/>
+        <card number="1" name="Currency Converter" setShortName="FRC" collectorNumber="55" uuid="f91b18ef-ac8a-4d4c-9586-b101681d33e2"/>
+        <card number="1" name="Cursed Mirror" setShortName="FRC" collectorNumber="49" uuid="1e82aa17-1eac-49e8-8a63-50357e564997"/>
+        <card number="1" name="Dack Fayden, Helping Hand" setShortName="FRC" collectorNumber="4" uuid="b0db02cb-d029-46d5-9df2-dee980047758"/>
+        <card number="1" name="Darksteel Angel" setShortName="FRC" collectorNumber="13" uuid="0c33024e-9473-4d5b-8433-9898380282c4"/>
+        <card number="1" name="Despark" setShortName="FRC" collectorNumber="50" uuid="2c09f45f-54a5-47b5-afd7-9ac7c05438e7"/>
+        <card number="1" name="Dimir Signet" setShortName="FRC" collectorNumber="56" uuid="0862060d-3198-4eeb-af8c-efeb27f42a99"/>
+        <card number="1" name="Dreadhorde Invasion" setShortName="FRC" collectorNumber="48" uuid="9bbfad2d-a3b5-4119-aea4-0793b7a9da88"/>
+        <card number="1" name="Drowned Catacomb" setShortName="FRC" collectorNumber="69" uuid="4acb0f92-74be-40e8-b70e-61c4aaaeb47b"/>
+        <card number="1" name="Elspeth, Sun's Champion" setShortName="FRC" collectorNumber="24" uuid="a91d9163-c1f2-4eae-acab-5dabbc71d7d4"/>
+        <card number="1" name="Exotic Orchard" setShortName="FRC" collectorNumber="70" uuid="cc14b1ee-5def-42df-8ef6-0d91dba39e3a"/>
+        <card number="1" name="Fabled Passage" setShortName="FRC" collectorNumber="71" uuid="76edd22f-808e-4a7c-b941-13c0f5e30418"/>
+        <card number="1" name="Fact or Fiction" setShortName="FRC" collectorNumber="41" uuid="eb1a25c5-1918-40f3-b54f-5d31cf6b4eb2"/>
+        <card number="1" name="Fatehold Charm" setShortName="FRA" collectorNumber="132" uuid="cfc54011-647e-4428-bcdb-59400e1da49d"/>
+        <card number="1" name="Fellwar Stone" setShortName="FRC" collectorNumber="57" uuid="bc99f300-29c0-44e7-9560-7bbd1dda7556"/>
+        <card number="1" name="Fetid Heath" setShortName="FRC" collectorNumber="72" uuid="ae07ff9f-d5a8-4220-b08f-fe8fad5adcb7"/>
+        <card number="1" name="Flawless Maneuver" setShortName="FRC" collectorNumber="25" uuid="3ffe82a4-584e-4ebd-9551-a745bed01e26"/>
+        <card number="1" name="Ginger, Queen of Sweets" setShortName="FRC" collectorNumber="14" uuid="f4ff6bf9-89a9-4c2a-84a2-d4ceb7168adf"/>
+        <card number="1" name="Glacial Fortress" setShortName="FRC" collectorNumber="73" uuid="3c726a60-8de7-4d5e-8ad5-8405e6ac36b5"/>
+        <card number="1" name="Grand Crescendo" setShortName="FRC" collectorNumber="26" uuid="a60834b0-38ab-40c9-9fd9-db3a23b13076"/>
+        <card number="3" name="Island" setShortName="FRA" collectorNumber="283" uuid="d8184e92-54e6-4ddc-86e8-67f5c5eb079d"/>
+        <card number="1" name="Isolated Chapel" setShortName="FRC" collectorNumber="74" uuid="b3169b9a-f5e3-402e-883a-08274d0c7b12"/>
+        <card number="1" name="Izzet Signet" setShortName="FRC" collectorNumber="58" uuid="d5e141ad-5cb8-416b-9acf-bce1baeb6b6b"/>
+        <card number="1" name="Jhoira, Weatherlight Corsair" setShortName="FRC" collectorNumber="8" uuid="1874c58d-00ce-4973-a318-50ce21d1a675"/>
+        <card number="1" name="Kher Keep" setShortName="FRC" collectorNumber="75" uuid="15ca0b68-33a1-4d25-b622-d3f5ba05b0a5"/>
+        <card number="1" name="Lingering Souls" setShortName="FRC" collectorNumber="27" uuid="e5b16141-d185-4be2-97c1-5b0ef5483728"/>
+        <card number="1" name="Martial Coup" setShortName="FRC" collectorNumber="28" uuid="5c4d0ad9-4d57-4e5c-b478-059220f5b1dd"/>
+        <card number="1" name="Mass Polymorph" setShortName="FRC" collectorNumber="42" uuid="b29db023-28d0-411d-864a-8f1e22ae1f74"/>
+        <card number="1" name="Memnarch, the Warden" setShortName="FRC" collectorNumber="15" uuid="60d05210-c2b1-4248-a470-e0f8123d33f8"/>
+        <card number="2" name="Mountain" setShortName="FRA" collectorNumber="287" uuid="16671d98-6f00-477b-a010-d2905c94eb65"/>
+        <card number="1" name="Mystic Gate" setShortName="FRC" collectorNumber="76" uuid="fa32d90e-1153-42ab-b8ff-0eb82698692c"/>
+        <card number="1" name="Nissa, Leyline Tamer" setShortName="FRC" collectorNumber="2" uuid="e969d1f3-9595-498b-81cb-6cf4df2cad5d"/>
+        <card number="1" name="Niv-Mizzet, Ghost Counsel" setShortName="FRC" collectorNumber="10" uuid="0ad0e168-ac5c-4e1b-83f2-0488067a58d7"/>
+        <card number="1" name="Ob Nixilis, the Ascended" setShortName="FRC" collectorNumber="5" uuid="a022d35a-9d24-4818-9ff3-a522cfcb178e"/>
+        <card number="1" name="Occult Epiphany" setShortName="FRC" collectorNumber="43" uuid="e5fcfaff-2fd0-46d8-b863-ad25558c9e95"/>
+        <card number="1" name="Omnath, Locus of the Void" setShortName="FRC" collectorNumber="3" uuid="727511d8-be1a-4c2e-92f6-5cc9d67a2b0c"/>
+        <card number="1" name="Overlord of the Mistmoors" setShortName="FRC" collectorNumber="29" uuid="152d9e61-40f4-489a-b94d-af17a3674441"/>
+        <card number="1" name="Path of Ancestry" setShortName="FRC" collectorNumber="77" uuid="c047dedc-43bc-4a7c-bca4-182283c89069"/>
+        <card number="1" name="Path to Exile" setShortName="FRC" collectorNumber="30" uuid="22e08a78-55b7-46b0-bd1a-a51548fc1861"/>
+        <card number="1" name="Perilous Landscape" setShortName="FRC" collectorNumber="78" uuid="fec4ca25-ef4c-4500-9bec-60d29c060b83"/>
+        <card number="4" name="Plains" setShortName="FRA" collectorNumber="281" uuid="a4eaecb8-066a-4c72-aa5d-5ed0614ba537"/>
+        <card number="1" name="Plan for All Outcomes" setShortName="FRA" collectorNumber="35" uuid="c4effc17-0d0e-423a-b5f2-597ea6c71f67"/>
+        <card number="1" name="Prairie Stream" setShortName="FRC" collectorNumber="79" uuid="a93c2e0b-3fca-476e-ae5b-a331ccacae19"/>
+        <card number="1" name="Proteus Staff" setShortName="FRC" collectorNumber="59" uuid="e6fcedb4-4152-47c3-a97e-34f4483ff94d"/>
+        <card number="1" name="Radiant Summit" setShortName="FRC" collectorNumber="80" uuid="f8cd6aae-a1cb-43b1-aca9-09fe2778969f"/>
+        <card number="1" name="Rakdos Signet" setShortName="FRC" collectorNumber="60" uuid="a263e71d-953f-4648-b326-33133cfa7e00"/>
+        <card number="1" name="Reflecting Pool" setShortName="FRC" collectorNumber="23" uuid="cbc4281a-b70d-4f96-b309-38e986484829"/>
+        <card number="1" name="Restless Anchorage" setShortName="FRC" collectorNumber="81" uuid="109900a9-6dcb-4f89-b84c-0ce0a0175e8f"/>
+        <card number="1" name="Restless Spire" setShortName="FRC" collectorNumber="82" uuid="30ecfd44-8dd4-4ae3-9076-14799f8a9a14"/>
+        <card number="1" name="Secure the Wastes" setShortName="FRC" collectorNumber="31" uuid="83a01121-e5cd-45ba-97c2-7bd7d50158e6"/>
+        <card number="1" name="Serra's Emissary" setShortName="FRC" collectorNumber="32" uuid="0a69b668-7b7c-4da9-af49-e8cbc13797cc"/>
+        <card number="1" name="Shark Typhoon" setShortName="FRC" collectorNumber="44" uuid="605ca3c0-7c9a-4bc1-9795-82aeb6f552ee"/>
+        <card number="1" name="Shivan Reef" setShortName="FRC" collectorNumber="83" uuid="9fb3938c-9ecf-46cc-865a-0091455419f9"/>
+        <card number="1" name="Skrelv's Hive" setShortName="FRC" collectorNumber="33" uuid="e2652c4d-38a7-4014-94bb-7efd277de992"/>
+        <card number="1" name="Sol Ring" setShortName="FRC" collectorNumber="21" uuid="8ee443cc-e17a-493b-9c93-1f9e141a30e4"/>
+        <card number="1" name="Staff of the Storyteller" setShortName="FRC" collectorNumber="34" uuid="f9321060-c1bf-4190-aaf6-253d6df64237"/>
+        <card number="1" name="Stroke of Midnight" setShortName="FRC" collectorNumber="35" uuid="d42b9f9e-2df2-491e-b6ac-3b2bac8a8d8e"/>
+        <card number="1" name="Sulfur Falls" setShortName="FRC" collectorNumber="84" uuid="2b20fa73-c6de-49c1-b3d0-6ebd543a00d0"/>
+        <card number="1" name="Sulfurous Springs" setShortName="FRC" collectorNumber="85" uuid="be340a1c-f1e7-446e-ae91-86ecb884479c"/>
+        <card number="1" name="Sunfall" setShortName="FRC" collectorNumber="36" uuid="a560b9a7-4c00-4c0c-b63d-774d3f6b9aa9"/>
+        <card number="1" name="Sunken Ruins" setShortName="FRC" collectorNumber="86" uuid="b8652a52-d9f6-42ad-9746-6827845b540e"/>
+        <card number="2" name="Swamp" setShortName="FRA" collectorNumber="285" uuid="30693b85-550d-4c98-8c5b-4fd4e91c9f28"/>
+        <card number="1" name="Swords to Plowshares" setShortName="FRC" collectorNumber="37" uuid="f7e12477-d59f-442b-a678-1be746d0b7be"/>
+        <card number="1" name="Synthetic Destiny" setShortName="FRC" collectorNumber="45" uuid="78ab1d69-da01-424b-9d09-ef985aef4cbd"/>
+        <card number="1" name="Talisman of Creativity" setShortName="FRC" collectorNumber="61" uuid="d4ba86c8-8052-4c9e-a0d0-ac6ad0b2679c"/>
+        <card number="1" name="Talisman of Dominance" setShortName="FRC" collectorNumber="62" uuid="78d5366f-eb6d-4ec1-880b-111872863766"/>
+        <card number="1" name="Talisman of Indulgence" setShortName="FRC" collectorNumber="63" uuid="36bd614f-ab3b-4ad1-ab5c-a7ca0a641f32"/>
+        <card number="1" name="Talisman of Progress" setShortName="FRC" collectorNumber="64" uuid="454ed9c8-3ec1-4b65-bf3f-29a186742aed"/>
+        <card number="1" name="Tamiyo, Upriser Crowned" setShortName="FRC" collectorNumber="11" uuid="0d52b0fd-60a4-4e90-bc4a-3200493779d3"/>
+        <card number="1" name="Teferi's Reproach" setShortName="FRC" collectorNumber="6" uuid="fb4a1f07-4c1f-4d08-af5d-17f1bb77f9e5"/>
+        <card number="1" name="The Ur-Sphinx" setShortName="FRC" collectorNumber="12" uuid="d9e9d9a8-86c2-4e58-b818-466247725259"/>
+        <card number="1" name="Turbulent Crater" setShortName="FRC" collectorNumber="16" uuid="0cb04417-063e-45f7-86d3-7648111d04d7"/>
+        <card number="1" name="Turbulent Shore" setShortName="FRC" collectorNumber="17" uuid="92039341-152a-4797-a3df-e89e8d5145d3"/>
+        <card number="1" name="Turbulent Wetlands" setShortName="FRC" collectorNumber="18" uuid="8d86f7f8-492d-4e19-8b61-39084c6299ac"/>
+        <card number="1" name="Underground River" setShortName="FRC" collectorNumber="87" uuid="e8b05f37-815f-4854-bf82-ca544ca67532"/>
+        <card number="1" name="Venser, Fervent Forger" setShortName="FRC" collectorNumber="9" uuid="0de6353b-5c19-40f7-951a-2b600db21846"/>
+        <card number="1" name="Whirlwind of Thought" setShortName="FRC" collectorNumber="51" uuid="e1de5fb8-7206-44a6-b827-5c6a21c25296"/>
+        <card number="1" name="White Sun's Twilight" setShortName="FRC" collectorNumber="38" uuid="ae7a778c-f4a7-447f-90f0-146997e03398"/>
+        <card number="1" name="Windcrag Siege" setShortName="FRC" collectorNumber="52" uuid="235f5564-0928-411f-ade8-53838890f720"/>
+        <card number="1" name="Jace, Multiverse Architect" setShortName="FRC" collectorNumber="1" uuid="55cd03d9-2535-4cf3-a8b2-1418e1190f4a"/>
+    </zone>
+</cockatrice_deck>

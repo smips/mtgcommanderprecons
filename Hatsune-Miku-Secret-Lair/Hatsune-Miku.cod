@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname></deckname>
+    <format></format>
+    <bannerCard providerId="6ab6e6c9-fe20-40d3-997e-fe3480081f03">Trostani, Selesnya's Voice</bannerCard>
+    <comments></comments>
+    <tags/>
+    <zone name="main">
+        <card number="1" name="Aetherflux Reservoir" setShortName="KLD" collectorNumber="192" uuid="96b6b2e1-c3e6-464c-8a13-b15deb34e862"/>
+        <card number="1" name="Ajani's Pridemate" setShortName="FDN" collectorNumber="135" uuid="222c1a68-e34c-4103-b1be-17d4ceaef6ce"/>
+        <card number="1" name="Ancient Cornucopia" setShortName="BIG" collectorNumber="16" uuid="f977975d-0439-4731-b129-270cc4cdbb23"/>
+        <card number="1" name="Angel of Indemnity" setShortName="OTC" collectorNumber="9" uuid="8d8b415e-d077-4548-9738-15d8828e49e3"/>
+        <card number="1" name="Angelic Chorus" setShortName="BBD" collectorNumber="87" uuid="d9e966cb-bb42-49d8-b351-114619b31497"/>
+        <card number="1" name="Arasta of the Endless Web" setShortName="BLC" collectorNumber="205" uuid="6dda8d6b-fd31-4908-a953-20c180a33e56"/>
+        <card number="1" name="Archangel of Thune" setShortName="SLD" collectorNumber="2430" uuid="4ce95099-9032-4c44-af25-ab02e60af168"/>
+        <card number="1" name="Avacyn's Pilgrim" setShortName="MIC" collectorNumber="132" uuid="a390a7df-b8da-41aa-93e5-2c0db938a27e"/>
+        <card number="1" name="Blossoming Bogbeast" setShortName="C21" collectorNumber="59" uuid="332153ab-1b8e-40a8-b0b4-01f94866d368"/>
+        <card number="1" name="Blossoming Sands" setShortName="NEO" collectorNumber="265" uuid="d290ec6b-15a6-49e8-abd2-b8c4d0f556eb"/>
+        <card number="1" name="Boon Reflection" setShortName="2XM" collectorNumber="10" uuid="0d4032a7-600c-4b30-a012-fe3cde1be9c9"/>
+        <card number="1" name="Bountiful Promenade" setShortName="SLD" collectorNumber="2440" uuid="91ede26e-8784-4631-b9e7-f8f97b2904ac"/>
+        <card number="1" name="Bramble Sovereign" setShortName="BBD" collectorNumber="65" uuid="cc2d644f-6fb9-406b-ba57-a9b3d1c9646b"/>
+        <card number="1" name="Break Down" setShortName="SLD" collectorNumber="2436" uuid="acfe026f-75a7-45b9-b7e8-e1a76855ea94"/>
+        <card number="1" name="Brokers Hideout" setShortName="SNC" collectorNumber="248" uuid="989b299b-daa9-4bda-94e2-9a2f0e8f2bce"/>
+        <card number="1" name="Camaraderie" setShortName="GRN" collectorNumber="157" uuid="890a2fa9-1141-4a4c-85af-05723aba5e39"/>
+        <card number="1" name="Canopy Vista" setShortName="LCC" collectorNumber="321" uuid="2258c917-763a-43a6-9635-a5181e6bb54d"/>
+        <card number="1" name="Cleric Class" setShortName="AFR" collectorNumber="6" uuid="47ce8b7e-d8e1-489a-a69e-99089eeb8739"/>
+        <card number="1" name="Command Tower" setShortName="DSC" collectorNumber="96" uuid="129d1bbd-83ad-4953-bf6d-b55989b2529c"/>
+        <card number="1" name="Conclave Evangelist" setShortName="CLU" collectorNumber="27" uuid="0dcccbd8-2135-45e6-8802-8dcaa382a398"/>
+        <card number="1" name="Congregate" setShortName="DMR" collectorNumber="4" uuid="89396f5e-5bc3-4c8a-976b-2cb2946eb35d"/>
+        <card number="1" name="Crested Sunmare" setShortName="HOU" collectorNumber="6" uuid="732fa4c9-11da-4bdb-96af-aa37c74be25f"/>
+        <card number="1" name="Cultivate" setShortName="SLD" collectorNumber="2437" uuid="ff0d8624-1f83-4150-8ef4-ce8345f8067f"/>
+        <card number="1" name="Dazzling Theater // Prop Room" setShortName="DSK" collectorNumber="3" uuid="8e2fae80-60af-44cf-95b4-177837435d1a"/>
+        <card number="1" name="Elenda's Hierophant" setShortName="LCC" collectorNumber="71" uuid="d12f728a-1bbb-4bee-96d4-d721292997ba"/>
+        <card number="1" name="Excavation Technique" setShortName="C21" collectorNumber="16" uuid="32ffc8eb-9518-455c-ada5-8b7596896dcf"/>
+        <card number="1" name="Explore" setShortName="BLC" collectorNumber="216" uuid="18e5fdee-1ec4-44a2-b84c-35897f1d2912"/>
+        <card number="1" name="Fanatic of Rhonas" setShortName="MH3" collectorNumber="152" uuid="1f9fb33a-3b39-4aff-93b8-aedafe0ea694"/>
+        <card number="1" name="Farseek" setShortName="LCC" collectorNumber="242" uuid="0cfd3cb1-2209-453d-be45-ce1b56265496"/>
+        <card number="1" name="Finale of Devastation" setShortName="SLD" collectorNumber="2438" uuid="721ea98f-4150-4fde-a0af-4f454695e927"/>
+        <card number="7" name="Forest" setShortName="SLD" collectorNumber="2442" uuid="8dd6cfef-6eac-4fa2-b9f3-808bd5502f27"/>
+        <card number="1" name="Gavony Township" setShortName="MOC" collectorNumber="406" uuid="ce46c4e2-a515-41d7-8d70-d20cf4925996"/>
+        <card number="1" name="Ghalta and Mavren" setShortName="MOM" collectorNumber="225" uuid="a9ec900f-1e31-4440-a75a-20b256734d5b"/>
+        <card number="1" name="Grand Crescendo" setShortName="SLD" collectorNumber="2432" uuid="59e34237-1ef5-4376-b671-11692693fc61"/>
+        <card number="1" name="Graypelt Refuge" setShortName="C19" collectorNumber="249" uuid="0849b6dd-0330-4b7e-b7da-98e767adb4a0"/>
+        <card number="1" name="Grove of the Guardian" setShortName="GK1" collectorNumber="124" uuid="0079326b-ef87-49b8-9772-9134fb5deb3e"/>
+        <card number="1" name="Growing Ranks" setShortName="SLD" collectorNumber="2444" uuid="3396f676-d990-42ea-b40a-7da6548cca0a"/>
+        <card number="1" name="Gruff Triplets" setShortName="WOE" collectorNumber="172" uuid="f8760ab9-ac76-4e2e-b82f-0ee2a6dc5634"/>
+        <card number="1" name="Halo Fountain" setShortName="SLD" collectorNumber="2431" uuid="af542837-77a1-462e-8dd6-b4fa8b21bb33"/>
+        <card number="1" name="Healing Technique" setShortName="C21" collectorNumber="63" uuid="33897125-a1df-4d7a-a45a-9c049cb662f6"/>
+        <card number="1" name="Hour of Reckoning" setShortName="MOC" collectorNumber="190" uuid="c0ffb58f-459a-4965-b1d6-a25442baf9c2"/>
+        <card number="1" name="Idol of Oblivion" setShortName="M3C" collectorNumber="297" uuid="1c602e17-7eee-45f5-82d9-406cb4498b18"/>
+        <card number="1" name="Invincible Hymn" setShortName="ALA" collectorNumber="14" uuid="712c64bc-ba0c-4bab-9329-54805f4efa8a"/>
+        <card number="1" name="Krosan Verge" setShortName="MOC" collectorNumber="412" uuid="dabcee54-dda3-4208-81a8-e1ae3f79acf5"/>
+        <card number="1" name="Lathiel, the Bounteous Dawn" setShortName="CMR" collectorNumber="285" uuid="29d3484f-abd1-43fe-99f8-e0fa0a7b6692"/>
+        <card number="1" name="Lazotep Quarry" setShortName="M3C" collectorNumber="131" uuid="656ddd43-c70c-4927-9a02-fef5732708da"/>
+        <card number="1" name="Llanowar Elves" setShortName="GNT" collectorNumber="46" uuid="8bbcfb77-daa1-4ce5-b5f9-48d0a8edbba9"/>
+        <card number="1" name="Mirari's Wake" setShortName="MH2" collectorNumber="291" uuid="329f8f3d-2fe6-44fa-802f-0c56e3f9998e"/>
+        <card number="1" name="Nature's Lore" setShortName="CMM" collectorNumber="904" uuid="a78584e8-bb82-4977-a27d-68b1befe9b3b"/>
+        <card number="1" name="Nykthos Paragon" setShortName="MH2" collectorNumber="22" uuid="2963205e-b181-44d1-809f-6577e29fa812"/>
+        <card number="1" name="Overgrown Farmland" setShortName="MID" collectorNumber="265" uuid="84a76e0f-49fc-4087-8859-98f4a4deacdf"/>
+        <card number="1" name="Path to Exile" setShortName="BLC" collectorNumber="147" uuid="a5b070f2-f2f2-4ccd-9a4b-d19ea01b2298"/>
+        <card number="1" name="Pest Infestation" setShortName="C21" collectorNumber="65" uuid="4720b4f2-e6af-4223-9250-a0ed21ed5693"/>
+        <card number="1" name="Phyrexian Processor" setShortName="SLD" collectorNumber="2445" uuid="a2e35d8d-050f-4f7a-809a-c0aea30c0dbb"/>
+        <card number="7" name="Plains" setShortName="SLD" collectorNumber="2441" uuid="e2289fd7-19bb-4034-a6dd-267c4914975b"/>
+        <card number="1" name="Prosperous Innkeeper" setShortName="BLC" collectorNumber="121" uuid="eed76e15-6456-4ddc-addf-f0e6eff8bb6a"/>
+        <card number="1" name="Radiant Fountain" setShortName="M21" collectorNumber="248" uuid="0296c34b-120b-483e-8b49-6d432c04f9a4"/>
+        <card number="1" name="Resplendent Angel" setShortName="LCI" collectorNumber="32" uuid="59adbd35-9959-4a0f-babf-46ea3c15f018"/>
+        <card number="1" name="Restless Prairie" setShortName="LCI" collectorNumber="281" uuid="f94ef116-6aff-4f53-a7f9-be5e21c7afa4"/>
+        <card number="1" name="Rhys the Redeemed" setShortName="2XM" collectorNumber="213" uuid="b91dadcb-31e9-43b0-b425-c9311af3e9d7"/>
+        <card number="1" name="Rogue's Passage" setShortName="C19" collectorNumber="270" uuid="58f4384e-9aca-4533-8714-3dcaf709dee3"/>
+        <card number="1" name="Rootborn Defenses" setShortName="RVR" collectorNumber="26" uuid="2b24b560-7458-4480-aa03-80190f69df71"/>
+        <card number="1" name="Sapseep Forest" setShortName="C21" collectorNumber="313" uuid="81d3099d-4f22-425c-8955-903b6cfb88d3"/>
+        <card number="1" name="Selesnya Sanctuary" setShortName="CMM" collectorNumber="1031" uuid="8e5bb089-a231-4d8a-a02a-296152cf5b4d"/>
+        <card number="1" name="Selesnya Signet" setShortName="RVR" collectorNumber="267" uuid="cab82668-975a-47f1-943a-7c4c27feacb4"/>
+        <card number="1" name="Seraph Sanctuary" setShortName="DDQ" collectorNumber="33" uuid="e1c1fa29-362f-40b4-b67f-513f6592fb3b"/>
+        <card number="1" name="Shalai, Voice of Plenty" setShortName="SLD" collectorNumber="2433" uuid="b459b25c-647b-4353-932e-f590f26ab973"/>
+        <card number="1" name="Shamanic Revelation" setShortName="BLC" collectorNumber="237" uuid="b4e193e8-1127-475b-9af6-d0d0c44adf49"/>
+        <card number="1" name="Silverquill Lecturer" setShortName="M3C" collectorNumber="96" uuid="507e34d0-cdc5-4226-9664-b725b702044d"/>
+        <card number="1" name="Skullclamp" setShortName="MOC" collectorNumber="379" uuid="a36fd6d8-66a2-49d1-b9f3-b400ebc03674"/>
+        <card number="1" name="Sol Ring" setShortName="BLC" collectorNumber="129" uuid="fff440c0-7e6a-46c2-9989-f1b5af20fd44"/>
+        <card number="1" name="Song of Freyalise" setShortName="DOM" collectorNumber="179" uuid="a45b534b-8442-4074-a8d2-f38e83f24868"/>
+        <card number="1" name="Song of the Worldsoul" setShortName="SLD" collectorNumber="2434" uuid="ea9d7b34-7c68-470e-88e1-6d3216fea368"/>
+        <card number="1" name="Soul Warden" setShortName="SLD" collectorNumber="2435" uuid="53b54485-37e2-4ae0-be91-c77ec02c5fe0"/>
+        <card number="1" name="Soul of Eternity" setShortName="CMR" collectorNumber="50" uuid="08241f94-8b5e-4f9b-8120-8175e3256e35"/>
+        <card number="1" name="Speaker of the Heavens" setShortName="M21" collectorNumber="38" uuid="1f44b96a-8498-414a-a4ac-54c80dfa9f23"/>
+        <card number="1" name="Springleaf Drum" setShortName="LRW" collectorNumber="261" uuid="fa8b09d0-fbd2-4441-9d87-02450412e0db"/>
+        <card number="1" name="Storm Herd" setShortName="KHC" collectorNumber="33" uuid="2345331c-a14f-4b4b-a9a4-88c5beb48242"/>
+        <card number="1" name="Sundering Growth" setShortName="C19" collectorNumber="203" uuid="96feebe2-0a6b-4df8-8e7d-ee0bb82ac0c1"/>
+        <card number="1" name="Sungrass Prairie" setShortName="BLC" collectorNumber="334" uuid="dc653d50-bce2-45f9-b3ee-6170d500d572"/>
+        <card number="1" name="Sunpetal Grove" setShortName="BLC" collectorNumber="335" uuid="1eb0d965-a7a1-4dfc-9867-adbf153e72be"/>
+        <card number="1" name="Suture Priest" setShortName="MOC" collectorNumber="210" uuid="430b96aa-7bb0-4d2b-b265-9c4987db28a2"/>
+        <card number="1" name="Swords to Plowshares" setShortName="DSC" collectorNumber="106" uuid="b16321b6-3e28-424b-ac72-038cc4ed6458"/>
+        <card number="1" name="Temple of Plenty" setShortName="BLC" collectorNumber="343" uuid="ae61f7c7-870a-4bf7-af05-8fb077a10104"/>
+        <card number="1" name="Voice of Resurgence" setShortName="2XM" collectorNumber="227" uuid="99d1e843-71c9-4a65-bc36-d23858ef5ead"/>
+        <card number="1" name="Voice of the Blessed" setShortName="INR" collectorNumber="50" uuid="62534128-2a85-4a36-bc7b-e4f4c51fa1f6"/>
+        <card number="1" name="Vorinclex, Voice of Hunger" setShortName="SLD" collectorNumber="2439" uuid="6aebcc3b-504e-40fc-b232-a2aa21a0521b"/>
+        <card number="1" name="Trostani, Selesnya's Voice" setShortName="SLD" collectorNumber="2429" uuid="6ab6e6c9-fe20-40d3-997e-fe3480081f03"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Tigereye Cameo" setShortName="SLD" collectorNumber="7093" uuid="ef9da696-dd92-4fe8-937b-a660f0d91839"/>
+    </zone>
+</cockatrice_deck>

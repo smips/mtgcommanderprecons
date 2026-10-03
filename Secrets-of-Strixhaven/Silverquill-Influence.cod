@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname></deckname>
+    <format></format>
+    <bannerCard providerId="76b6c35a-bb92-4ad3-8f85-88b9bafc6266">Killian, Decisive Mentor</bannerCard>
+    <comments></comments>
+    <tags/>
+    <zone name="main">
+        <card number="1" name="Ajani's Chosen" setShortName="SOC" collectorNumber="132" uuid="bc20cca0-303f-4463-85ae-26b80ff26211"/>
+        <card number="1" name="Angelic Destiny" setShortName="SOC" collectorNumber="134" uuid="a588b610-86bb-4a18-b54e-a12f7d7d15c8"/>
+        <card number="1" name="Anguished Unmaking" setShortName="SOC" collectorNumber="293" uuid="407183c6-c962-4f8c-867e-abc309b6c573"/>
+        <card number="1" name="Animate Dead" setShortName="SOC" collectorNumber="207" uuid="cc0c2bab-4392-4e7b-9d14-2901f4ffbae8"/>
+        <card number="1" name="Arcane Lighthouse" setShortName="SOC" collectorNumber="361" uuid="e2384e42-2442-4b40-9bae-8db470d2fb8c"/>
+        <card number="1" name="Arcane Signet" setShortName="SOC" collectorNumber="127" uuid="7811dd72-61b9-4067-ac20-cea153e625d2"/>
+        <card number="1" name="Archon of Sun's Grace" setShortName="SOC" collectorNumber="137" uuid="0d3af89d-d22c-45e8-9fec-170ac9bb0a34"/>
+        <card number="1" name="Armored Skyhunter" setShortName="SOC" collectorNumber="138" uuid="707e9d2e-3934-4b90-878d-4699ac1cbe89"/>
+        <card number="1" name="Bojuka Bog" setShortName="SOC" collectorNumber="363" uuid="55b5b094-9d2d-4d96-b90c-78fecdae725a"/>
+        <card number="1" name="Breena, the Demagogue" setShortName="SOC" collectorNumber="298" uuid="599f87c8-643e-4224-93a5-853c0bd4e497"/>
+        <card number="1" name="Caves of Koilos" setShortName="SOC" collectorNumber="365" uuid="a8a57915-5226-4d3c-ae8e-a55c50f3c131"/>
+        <card number="1" name="Chains of Custody" setShortName="SOC" collectorNumber="139" uuid="3484b0bb-f305-404b-b4a9-430296061365"/>
+        <card number="1" name="Changing Loyalty" setShortName="SOC" collectorNumber="23" uuid="5c2e30d4-98ab-46a7-87ab-1c36c43ab34a"/>
+        <card number="1" name="Coercive Impetus" setShortName="SOC" collectorNumber="24" uuid="f98ca390-d2ea-41c8-93ed-57fcd22737d8"/>
+        <card number="1" name="Combat Calligrapher" setShortName="SOC" collectorNumber="141" uuid="3c154814-72e4-4cca-a927-66c58602ae80"/>
+        <card number="1" name="Command Tower" setShortName="SOC" collectorNumber="129" uuid="c46a217c-0ed2-4b3c-9a01-ee38d12d76f3"/>
+        <card number="1" name="Darksteel Mutation" setShortName="SOC" collectorNumber="142" uuid="6e776a1e-266d-4b30-83da-be4721a55ed2"/>
+        <card number="1" name="Defacing Duskmage // Vandal's Edit" setShortName="SOC" collectorNumber="45" uuid="c35a1c6f-1656-4619-9ab8-40044c857a7f"/>
+        <card number="1" name="Desolate Mire" setShortName="SOC" collectorNumber="367" uuid="6a261c7d-38a4-4000-97b2-76e7ab9989c5"/>
+        <card number="1" name="Doomwake Giant" setShortName="SOC" collectorNumber="212" uuid="0be3f848-ba01-4890-a3a1-ed0dfb564632"/>
+        <card number="1" name="Eclipsed Steppe" setShortName="SOC" collectorNumber="53" uuid="d890999a-dcc7-479e-b0f0-60388c737043"/>
+        <card number="1" name="Eidolon of Countless Battles" setShortName="SOC" collectorNumber="144" uuid="4ad6fcb1-7c35-4111-8f1e-d18a2fae5638"/>
+        <card number="1" name="Eiganjo Dynastorian // Replenish" setShortName="SOC" collectorNumber="13" uuid="09d1f048-f411-4677-a0dc-dbddd06fe694"/>
+        <card number="1" name="Eldrazi Conscription" setShortName="SOC" collectorNumber="131" uuid="33965c48-a7ce-4a04-8251-8eeb2d908c0b"/>
+        <card number="1" name="Eriette of the Charmed Apple" setShortName="SOC" collectorNumber="307" uuid="baf256c5-1b4c-4fbe-94e4-1538d2577f8f"/>
+        <card number="1" name="Exotic Orchard" setShortName="SOC" collectorNumber="369" uuid="7db2934a-43a0-46ad-8380-ff6703f8fd6d"/>
+        <card number="1" name="Fabled Passage" setShortName="SOC" collectorNumber="130" uuid="8119d329-6ee5-433c-bd81-8579bb061162"/>
+        <card number="1" name="Fallen Ideal" setShortName="SOC" collectorNumber="117" uuid="f54acc9f-d128-49d4-b1a9-47a7ece13833"/>
+        <card number="1" name="Fellwar Stone" setShortName="SOC" collectorNumber="347" uuid="385b9f5e-81dd-49f6-a644-59d53245e3dc"/>
+        <card number="1" name="Fetid Heath" setShortName="SOC" collectorNumber="372" uuid="f465ded8-0d38-42ac-bafc-a12185013c5d"/>
+        <card number="1" name="Firemane Commando" setShortName="SOC" collectorNumber="145" uuid="c86269cc-bf4d-44b4-ad4b-8356857c532f"/>
+        <card number="1" name="Flickering Ward" setShortName="SOC" collectorNumber="109" uuid="23fcd6a8-be83-4304-ae32-d3dfc855f596"/>
+        <card number="1" name="Forum Filibuster" setShortName="SOC" collectorNumber="14" uuid="1c2fcf3e-63ce-45bd-afc4-2c11f54c70c4"/>
+        <card number="1" name="Forum of Amity" setShortName="SOS" collectorNumber="256" uuid="1de6c6cc-0c55-4997-8623-d7f796bd9ab8"/>
+        <card number="1" name="Fracture" setShortName="SOC" collectorNumber="310" uuid="cba33bf7-0919-408c-8eb0-0bb9fe920c81"/>
+        <card number="1" name="Ghostly Prison" setShortName="SOC" collectorNumber="146" uuid="e1f723a8-0be9-4270-b451-a52d6b2fda4e"/>
+        <card number="1" name="Ghoulish Impetus" setShortName="SOC" collectorNumber="214" uuid="f6fab24d-0174-4248-8481-52194e05d6f9"/>
+        <card number="1" name="Gift of Immortality" setShortName="SOC" collectorNumber="147" uuid="673ec38c-0849-48ce-9f6f-cb195299c785"/>
+        <card number="1" name="Hateful Eidolon" setShortName="SOC" collectorNumber="215" uuid="ff028d0b-066a-4769-89bc-f267d15eb707"/>
+        <card number="1" name="Herald of Amity" setShortName="SOC" collectorNumber="15" uuid="0a36fe06-225f-44c6-b608-452344e3585a"/>
+        <card number="1" name="Inkshield" setShortName="SOC" collectorNumber="316" uuid="3362ade8-d585-40be-8486-382cad6efaf8"/>
+        <card number="1" name="Intermediate Chirography" setShortName="SOC" collectorNumber="26" uuid="d60c64aa-57a9-4082-82f4-af0d89c1a52d"/>
+        <card number="1" name="Isolated Chapel" setShortName="SOC" collectorNumber="382" uuid="78814c92-b52c-462a-866f-3e7da9db9f70"/>
+        <card number="1" name="Keen Duelist" setShortName="SOC" collectorNumber="218" uuid="0446a3df-6f77-4b86-b694-ce99feb3d9ab"/>
+        <card number="1" name="Killian, Ink Duelist" setShortName="SOC" collectorNumber="317" uuid="9f51c115-dc9b-40a4-849d-3fc0c26e5a39"/>
+        <card number="1" name="Kor Spiritdancer" setShortName="SOC" collectorNumber="152" uuid="48da45bd-ed72-4239-af02-e848703a1d02"/>
+        <card number="1" name="Land Tax" setShortName="SOC" collectorNumber="153" uuid="c70d3706-9d28-49ac-8718-4a516413e727"/>
+        <card number="1" name="Mangara, the Diplomat" setShortName="SOC" collectorNumber="155" uuid="49d0d7ec-4bee-47d3-91a6-43510be65402"/>
+        <card number="1" name="Martial Impetus" setShortName="SOC" collectorNumber="156" uuid="41ccc31c-9377-4e8a-aede-248d16cd5264"/>
+        <card number="1" name="Nils, Discipline Enforcer" setShortName="SOC" collectorNumber="158" uuid="c34cff04-01b0-4849-85bf-9e0b034be0e6"/>
+        <card number="1" name="Parasitic Impetus" setShortName="SOC" collectorNumber="222" uuid="1d312b2e-c529-42ac-ad9e-73573e5f1c34"/>
+        <card number="1" name="Path of Ancestry" setShortName="SOC" collectorNumber="393" uuid="9335e773-4b45-4b91-8140-5159fe7e0395"/>
+        <card number="1" name="Pearl-Ear, Imperial Advisor" setShortName="SOC" collectorNumber="160" uuid="7e8d6bc1-4609-4802-a4b6-7e75fdae186c"/>
+        <card number="8" name="Plains" setShortName="SOS" collectorNumber="273" uuid="bac08825-ca54-4a9f-bf4f-f75708a1550b"/>
+        <card number="1" name="Promise of Loyalty" setShortName="SOC" collectorNumber="161" uuid="5877c99c-35b0-40c4-b766-e96335ea2c27"/>
+        <card number="1" name="Raffine's Guidance" setShortName="SOC" collectorNumber="162" uuid="8eb97e21-442b-4f23-a846-f0a0135a5c31"/>
+        <card number="1" name="Redemption Arc" setShortName="SOC" collectorNumber="163" uuid="49326de1-d3b0-4f2b-95bc-5f2878e14a89"/>
+        <card number="1" name="Sage's Reverie" setShortName="SOC" collectorNumber="165" uuid="5515393a-7d4d-454f-a550-156862ab02f1"/>
+        <card number="1" name="Screams from Within" setShortName="SOC" collectorNumber="119" uuid="27e2a759-971d-455b-845c-2e9b471950bb"/>
+        <card number="1" name="Scriv, the Obligator" setShortName="SOC" collectorNumber="9" uuid="c133a860-7b8d-485d-b9a2-bf8ae3a68f47"/>
+        <card number="1" name="Secret Rendezvous" setShortName="SOC" collectorNumber="166" uuid="9be712b3-14ed-4a73-b3d3-5b76b2c5db64"/>
+        <card number="1" name="Sentinel's Eyes" setShortName="SOC" collectorNumber="168" uuid="9f50278a-06fc-4b11-a1d2-d28cd213ff8f"/>
+        <card number="1" name="Shadrix Silverquill" setShortName="SOC" collectorNumber="330" uuid="214a695b-208e-4fd5-9ceb-23c882eadcf7"/>
+        <card number="1" name="Sheltered by Ghosts" setShortName="SOC" collectorNumber="171" uuid="8e8a5cfe-1b3f-4414-b9a4-078bdb4072a7"/>
+        <card number="1" name="Shielded by Faith" setShortName="SOC" collectorNumber="172" uuid="681149f2-0802-4ab7-9521-3b3c7281f55d"/>
+        <card number="1" name="Shineshadow Snarl" setShortName="SOC" collectorNumber="403" uuid="7a198106-4d31-4e10-884a-bdf2316f8088"/>
+        <card number="1" name="Silverquill Campus" setShortName="SOC" collectorNumber="405" uuid="354efff0-aea5-4274-94d6-9fce02430255"/>
+        <card number="1" name="Sol Ring" setShortName="SOC" collectorNumber="128" uuid="870ec754-a76c-40ea-9b81-81b3dca1f62c"/>
+        <card number="1" name="Songbirds' Blessing" setShortName="SOC" collectorNumber="174" uuid="4d1e229a-ed04-4d8d-90a9-5a451ca81470"/>
+        <card number="1" name="Spirit Mantle" setShortName="SOC" collectorNumber="175" uuid="8ac5a048-e8aa-48e8-b51b-b4e9a5b63ea6"/>
+        <card number="1" name="Sram, Senior Edificer" setShortName="SOC" collectorNumber="176" uuid="8fbd18ce-0ac3-4b52-9cd0-0af7e0244207"/>
+        <card number="1" name="Starfield Mystic" setShortName="SOC" collectorNumber="177" uuid="e8f2fcb4-8d06-49ac-9c70-9c54d77c6d86"/>
+        <card number="1" name="Study Hall" setShortName="SOC" collectorNumber="407" uuid="93f812bc-7663-4504-b566-79e2c0a0f845"/>
+        <card number="1" name="Sunlit Marsh" setShortName="SOC" collectorNumber="409" uuid="fa447616-db24-4729-bf66-7f72aba0272d"/>
+        <card number="8" name="Swamp" setShortName="SOS" collectorNumber="277" uuid="36af939c-11d9-43a5-bd69-c915a62e972b"/>
+        <card number="1" name="Talisman of Hierarchy" setShortName="SOC" collectorNumber="358" uuid="0c959368-2f58-48de-b7a5-2bab408652b5"/>
+        <card number="1" name="Temple of Silence" setShortName="SOC" collectorNumber="415" uuid="f7d3770f-cde6-4e29-8cbf-fe841634a5d7"/>
+        <card number="1" name="Terramorphic Expanse" setShortName="SOS" collectorNumber="265" uuid="9a4c5629-fadd-42b9-850f-9f8586a2ca50"/>
+        <card number="1" name="Tomik, Wielder of Law" setShortName="SOC" collectorNumber="333" uuid="8a7fc460-fc49-480f-8ee2-28a173509f0b"/>
+        <card number="1" name="Transcendent Envoy" setShortName="SOC" collectorNumber="183" uuid="363a88de-c9ae-41b8-a8d8-321a1b95a427"/>
+        <card number="1" name="Turbulent Moor" setShortName="SOC" collectorNumber="56" uuid="da54562d-8c09-4728-bb2b-ae8d464106b8"/>
+        <card number="1" name="Umbral Expanse" setShortName="SOC" collectorNumber="60" uuid="15848965-01a8-48bf-aa61-8a753339c761"/>
+        <card number="1" name="Vanishing Verse" setShortName="SOC" collectorNumber="335" uuid="8a475868-a335-45e7-9d59-9dc4c2cea1ae"/>
+        <card number="1" name="War Room" setShortName="SOC" collectorNumber="422" uuid="0775b4be-881c-4832-8954-d961064315b6"/>
+        <card number="1" name="Winds of Rath" setShortName="SOC" collectorNumber="185" uuid="8dee155b-1f06-4d74-afa8-a1244c254978"/>
+        <card number="1" name="Killian, Decisive Mentor" setShortName="SOC" collectorNumber="4" uuid="76b6c35a-bb92-4ad3-8f85-88b9bafc6266"/>
+    </zone>
+</cockatrice_deck>

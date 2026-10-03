@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname></deckname>
+    <format></format>
+    <bannerCard providerId="0ba9362f-eb35-4e72-8c51-7047c0a3f648">Yennett, Cryptic Sovereign</bannerCard>
+    <comments></comments>
+    <tags/>
+    <zone name="main">
+        <card number="1" name="Aboleth Spawn" setShortName="CLB" collectorNumber="662" uuid="51889b3f-082a-40e9-8be7-11f8c1a7a9a8"/>
+        <card number="1" name="Adarkar Wastes" setShortName="DSC" collectorNumber="258" uuid="395ed6cd-8027-4b11-a1ce-5f0bbbd2a50b"/>
+        <card number="1" name="Aeon Engine" setShortName="C19" collectorNumber="52" uuid="ea4dfdd7-f35a-45d6-9fc7-2c096f92dd5f"/>
+        <card number="1" name="Aerial Extortionist" setShortName="MKC" collectorNumber="54" uuid="5353bcb9-800d-4d74-95fa-42350a0f25de"/>
+        <card number="1" name="Aminatou, the Fateshifter" setShortName="2X2" collectorNumber="169" uuid="bc010302-e715-4946-89eb-a214e0b836ba"/>
+        <card number="1" name="Approach of the Second Sun" setShortName="AKH" collectorNumber="4" uuid="fdf59a6e-7708-45a1-884d-d12e9f7b9ed9"/>
+        <card number="1" name="Arcane Sanctum" setShortName="C18" collectorNumber="232" uuid="cd6e86fc-1f51-4837-9b92-bd76700e62f2"/>
+        <card number="1" name="Arcane Signet" setShortName="CMR" collectorNumber="297" uuid="ee40458c-7f3a-4fa6-976f-be1f7a336fdc"/>
+        <card number="1" name="Brainstorm" setShortName="EMA" collectorNumber="40" uuid="3e4e6787-af32-44f2-ac56-6f348254aa6d"/>
+        <card number="1" name="Breach the Multiverse" setShortName="SLD" collectorNumber="2128" uuid="835c60fd-7a25-4d51-b230-069ea68bb8a2"/>
+        <card number="1" name="Breena, the Demagogue" setShortName="SOC" collectorNumber="298" uuid="599f87c8-643e-4224-93a5-853c0bd4e497"/>
+        <card number="1" name="Caves of Koilos" setShortName="FRC" collectorNumber="66" uuid="ca814c7c-9908-4727-b556-3f85bfd653ca"/>
+        <card number="1" name="Chaos Wand" setShortName="M19" collectorNumber="228" uuid="62ff0730-6dd9-42d2-be0d-655d04adf229"/>
+        <card number="1" name="Claim Jumper" setShortName="SOC" collectorNumber="140" uuid="11bda4c5-099f-489e-b64b-f4719241cf9d"/>
+        <card number="1" name="Coalition Relic" setShortName="TSR" collectorNumber="266" uuid="a9fae620-8fa5-44db-8326-11cb323c626e"/>
+        <card number="1" name="Command Beacon" setShortName="CMR" collectorNumber="349" uuid="0bec6181-e214-4833-8c2f-8a10d59b2879"/>
+        <card number="1" name="Command Tower" setShortName="ELD" collectorNumber="333" uuid="ec1f1041-f667-4b73-b1f2-e5bcae84095e"/>
+        <card number="1" name="Commander's Sphere" setShortName="C19" collectorNumber="212" uuid="6a628aff-7db5-4df9-9c3d-c58b0d7232a6"/>
+        <card number="1" name="Contaminated Landscape" setShortName="MH3" collectorNumber="218" uuid="e2312c49-1627-47ad-8113-78a999a97d8d"/>
+        <card number="1" name="Dazzling Sphinx" setShortName="OTC" collectorNumber="93" uuid="2ddac591-825b-4304-858c-9dc9b311805b"/>
+        <card number="1" name="Doom Whisperer" setShortName="GRN" collectorNumber="69" uuid="0a11ee0d-ff8d-4648-8b4e-29440c135c30"/>
+        <card number="1" name="Drowned Catacomb" setShortName="FRC" collectorNumber="69" uuid="4acb0f92-74be-40e8-b70e-61c4aaaeb47b"/>
+        <card number="1" name="Enigma Sphinx" setShortName="PCA" collectorNumber="89" uuid="ae197165-53ad-4e85-92e0-e3531c2db412"/>
+        <card number="1" name="Esper Sentinel" setShortName="SLD" collectorNumber="2123" uuid="f8b6c532-b837-42b6-9ed2-0231d0779626"/>
+        <card number="1" name="Ethersworn Sphinx" setShortName="MH2" collectorNumber="195" uuid="315ae21a-4d95-488e-812b-0d018219af6c"/>
+        <card number="1" name="Evolving Wilds" setShortName="C18" collectorNumber="245" uuid="b34c171f-8d86-429d-ad5d-f3cd64cce2b3"/>
+        <card number="1" name="Exchange of Words" setShortName="UNF" collectorNumber="45" uuid="8c28cebf-f849-4353-9dd1-c62f05c15d0f"/>
+        <card number="1" name="Exotic Orchard" setShortName="C19" collectorNumber="242" uuid="23de2dc2-348f-4eeb-ae0c-dda422d654b0"/>
+        <card number="1" name="Extinction Event" setShortName="PIKO" collectorNumber="88"/>
+        <card number="1" name="Fabled Passage" setShortName="FRC" collectorNumber="71" uuid="76edd22f-808e-4a7c-b941-13c0f5e30418"/>
+        <card number="1" name="Fatespinner" setShortName="MRD" collectorNumber="36" uuid="5780f4e0-dcfb-4d1f-8ae1-762b98970abb"/>
+        <card number="1" name="Fractured Identity" setShortName="WHO" collectorNumber="236" uuid="ac1e9cd6-7be2-4c9a-a94f-3ea7e69e49db"/>
+        <card number="1" name="Glacial Fortress" setShortName="FRC" collectorNumber="73" uuid="3c726a60-8de7-4d5e-8ad5-8405e6ac36b5"/>
+        <card number="1" name="Imprisoned in the Moon" setShortName="INR" collectorNumber="69" uuid="0d150547-09f5-45ce-a825-89944b066bd4"/>
+        <card number="1" name="Inniaz, the Gale Force" setShortName="JMP" collectorNumber="12" uuid="b238485f-ef67-4295-892b-a10235368f74"/>
+        <card number="4" name="Island" setShortName="SLD" collectorNumber="2117" uuid="7a191d35-1d61-404c-b518-6c4188e8afce"/>
+        <card number="1" name="Isolated Chapel" setShortName="LCC" collectorNumber="337" uuid="c688891e-0a25-4630-acfc-c3a0bed2b2f2"/>
+        <card number="1" name="Jeskai Infiltrator" setShortName="FRF" collectorNumber="36" uuid="ea15d083-551b-4c13-92ad-3fc2d5414ab3"/>
+        <card number="1" name="Leadership Vacuum" setShortName="C19" collectorNumber="9" uuid="4fa953a9-171c-4532-a352-40ce27eed3c4"/>
+        <card number="1" name="Loran of the Third Path" setShortName="MKC" collectorNumber="71" uuid="9e83a0ef-4fea-45ba-86c0-130d6687f7fe"/>
+        <card number="1" name="Marvo, Deep Operative" setShortName="MKC" collectorNumber="315" uuid="d2f0500e-4e3d-448c-9bd2-fa4d48f27043"/>
+        <card number="1" name="Master of Predicaments" setShortName="M15" collectorNumber="67" uuid="f0b1720b-ab7a-4b52-a6d0-11c4fc573d17"/>
+        <card number="1" name="Mirage Mirror" setShortName="MSC" collectorNumber="206" uuid="e516bc14-749c-4da6-b5d3-cb5c16316e0c"/>
+        <card number="1" name="Misleading Signpost" setShortName="SLD" collectorNumber="2127" uuid="fccfb909-63bf-44eb-a1cb-21d0edb17074"/>
+        <card number="1" name="Myriad Landscape" setShortName="ZNC" collectorNumber="135" uuid="99d861db-bb12-4fa8-9122-167e7e7898ec"/>
+        <card number="1" name="Mystic Gate" setShortName="FRC" collectorNumber="76" uuid="fa32d90e-1153-42ab-b8ff-0eb82698692c"/>
+        <card number="1" name="Nadir Kraken" setShortName="MOC" collectorNumber="228" uuid="7b527219-1ed6-4977-a48f-56fec984ec43"/>
+        <card number="1" name="Oubliette" setShortName="2XM" collectorNumber="100" uuid="d4800a7d-c229-4ced-97ff-0e58645d58d6"/>
+        <card number="1" name="Path of Ancestry" setShortName="CMR" collectorNumber="353" uuid="1852c1e1-fbea-4b14-9927-4b1849f9b8a3"/>
+        <card number="4" name="Plains" setShortName="SLD" collectorNumber="2116" uuid="20d35e6b-ee5a-47cd-8e65-175a9df607a7"/>
+        <card number="1" name="Planeswalker's Mischief" setShortName="PLS" collectorNumber="29" uuid="79aa232c-3f16-4c68-99dc-09a7aeef477b"/>
+        <card number="1" name="Ponder" setShortName="C21" collectorNumber="125" uuid="9cee2eb1-f60e-4626-ba4a-b543142ca950"/>
+        <card number="1" name="Prairie Stream" setShortName="C19" collectorNumber="265" uuid="beaf2d9d-f25c-46d9-940d-b4c3287a5a74"/>
+        <card number="1" name="Profane Transfusion" setShortName="CMR" collectorNumber="145" uuid="c04d8edb-7350-4ab5-b721-390784c66329"/>
+        <card number="1" name="Promise of Loyalty" setShortName="C21" collectorNumber="21" uuid="fc21e7d5-3641-47fe-add0-8becf5173e28"/>
+        <card number="1" name="Psychic Battle" setShortName="INV" collectorNumber="68" uuid="8758ca24-e613-43bf-be58-4cf557f82d0c"/>
+        <card number="1" name="Rapid Hybridization" setShortName="TDC" collectorNumber="162" uuid="b6912638-b087-4754-9e7e-8bd76fbf095c"/>
+        <card number="1" name="Reconnaissance" setShortName="SLD" collectorNumber="2124" uuid="68dad9ea-2333-427d-9bec-3d840e24bc3a"/>
+        <card number="1" name="Reliquary Tower" setShortName="M19" collectorNumber="254" uuid="81766fd6-c7e0-4527-a63e-512d126c0421"/>
+        <card number="1" name="Sensei's Divining Top" setShortName="SLD" collectorNumber="2131" uuid="2c71926c-678a-491a-9929-c5b77f2a3de9"/>
+        <card number="1" name="Shadrix Silverquill" setShortName="SLD" collectorNumber="2130" uuid="cf3e5f36-b024-4342-846d-2cf1d4965ca1"/>
+        <card number="1" name="Shared Fate" setShortName="MRD" collectorNumber="49" uuid="ad0d5b02-ef38-4dab-8ac6-78814ef27b55"/>
+        <card number="1" name="Silent Clearing" setShortName="MH1" collectorNumber="246" uuid="ac07e230-0297-4e1d-bdfe-119010e0ad8e"/>
+        <card number="1" name="Skyclave Apparition" setShortName="BLC" collectorNumber="154" uuid="a76c56a3-db5c-4884-8c6a-bf8105b62421"/>
+        <card number="1" name="Skyclave Relic" setShortName="ZNR" collectorNumber="252" uuid="20259dff-4984-4d0b-aa49-34f3aaf31e3a"/>
+        <card number="1" name="Smuggler's Share" setShortName="NCC" collectorNumber="21" uuid="87e58a16-f344-4a7c-9eca-a71f7c27ad97"/>
+        <card number="1" name="Sol Ring" setShortName="SLD" collectorNumber="2132" uuid="bf6b187e-5ad0-4731-9c39-638451ac1e30"/>
+        <card number="1" name="Soothsaying" setShortName="MMQ" collectorNumber="104" uuid="def384ff-1b6f-4c4f-8151-3c72c29b63ce"/>
+        <card number="1" name="Space Beleren" setShortName="UNF" collectorNumber="178" uuid="14ddb2e7-6bc6-43ce-aeec-175a0ce17ed5"/>
+        <card number="1" name="Sunken Hollow" setShortName="MIC" collectorNumber="182" uuid="0cda97ff-ddf3-4fe4-af23-6b0eb20a153a"/>
+        <card number="4" name="Swamp" setShortName="SLD" collectorNumber="2118" uuid="fdfb7347-04cd-437f-955f-aab99e32b679"/>
+        <card number="1" name="Swift Reconfiguration" setShortName="NEC" collectorNumber="10" uuid="975dcfab-0281-4fee-92aa-021ea6c524c7"/>
+        <card number="1" name="Swords to Plowshares" setShortName="SLD" collectorNumber="2125" uuid="84a4a532-538e-428c-bd62-d0b997895c31"/>
+        <card number="1" name="Talisman of Progress" setShortName="WHO" collectorNumber="253" uuid="c1f67117-3d40-466d-9ea8-f75e1ad10b45"/>
+        <card number="1" name="Temple of Deceit" setShortName="SCD" collectorNumber="324" uuid="5f94415c-369f-4ebd-8e6a-f027ede114e8"/>
+        <card number="1" name="Temple of Enlightenment" setShortName="PTHB" collectorNumber="246"/>
+        <card number="1" name="Temple of Silence" setShortName="M21" collectorNumber="255" uuid="0f5b0f0a-dc16-45e2-91ab-28e0b9f66d00"/>
+        <card number="1" name="Terramorphic Expanse" setShortName="CM2" collectorNumber="273" uuid="9e612d81-f388-42c3-b5d5-7bcaf46ace47"/>
+        <card number="1" name="Thief of Sanity" setShortName="CLU" collectorNumber="212" uuid="3a4b220b-7b65-4c60-87eb-b2da282579ab"/>
+        <card number="1" name="Time Stop" setShortName="FDN" collectorNumber="166" uuid="d938603b-0f1e-44c4-b86e-38e15f4a0d27"/>
+        <card number="1" name="Toxrill, the Corrosive" setShortName="VOW" collectorNumber="321" uuid="78808d46-a3a7-4598-bddf-a302977808fb"/>
+        <card number="1" name="Underground River" setShortName="DRC" collectorNumber="181" uuid="ac17bee2-5b9f-4b8f-8647-e44d9175e055"/>
+        <card number="1" name="Vega, the Watcher" setShortName="KHM" collectorNumber="233" uuid="28fced7f-3078-4a54-8f76-0ef14c732e97"/>
+        <card number="1" name="Venser's Journal" setShortName="C21" collectorNumber="273" uuid="d2877f52-b46f-4039-a72b-f1fcd024f032"/>
+        <card number="1" name="Vesuvan Drifter" setShortName="MAT" collectorNumber="10" uuid="f2785902-2757-406b-bc75-6f05e0edc98d"/>
+        <card number="1" name="Virtue of Persistence // Locthwain Scorn" setShortName="SLD" collectorNumber="2129" uuid="0e48e154-a1e0-49c8-888a-a1f6b568aa39"/>
+        <card number="1" name="Void Winnower" setShortName="SLD" collectorNumber="2122" uuid="b88492e7-ce33-4a7f-9706-61b186e8d04e"/>
+        <card number="1" name="Wayfarer's Bauble" setShortName="NCC" collectorNumber="384" uuid="a7fe884a-1ffd-4d12-9513-a4500af255ac"/>
+        <card number="1" name="Weathered Wayfarer" setShortName="SLD" collectorNumber="2126" uuid="e4f780bb-8f0c-46af-a53d-abae2e1f4f26"/>
+        <card number="1" name="Yavimaya, Cradle of Growth" setShortName="M3C" collectorNumber="409" uuid="8a12b4f7-8f6b-4a3c-9114-825e1b2099a0"/>
+        <card number="1" name="Yennett, Cryptic Sovereign" setShortName="SLD" collectorNumber="2121" uuid="0ba9362f-eb35-4e72-8c51-7047c0a3f648"/>
+    </zone>
+</cockatrice_deck>

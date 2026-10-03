@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname></deckname>
+    <format></format>
+    <bannerCard providerId="5650587a-27a5-4d68-97e2-5745627bd094">Sai, Master Thopterist</bannerCard>
+    <comments></comments>
+    <tags/>
+    <zone name="main">
+        <card number="1" name="Adaptive Omnitool" setShortName="FDC" collectorNumber="243" uuid="9e84f840-d7c6-4a82-8891-3d12281020ee"/>
+        <card number="1" name="Aether Spellbomb" setShortName="FDC" collectorNumber="244" uuid="05647867-77a0-4f1c-afb9-6054f1f65f5f"/>
+        <card number="1" name="Aetherize" setShortName="FDC" collectorNumber="59" uuid="55c94e96-6563-43d5-8787-17868846e010"/>
+        <card number="1" name="All Is Dust" setShortName="FDC" collectorNumber="9" uuid="8764ca43-bbbb-43b5-895b-c7049cc76580"/>
+        <card number="1" name="Arcane Signet" setShortName="FDC" collectorNumber="245" uuid="ee7710cf-e73d-479f-bc8d-0e78a0e324d9"/>
+        <card number="1" name="Broodstar" setShortName="FDC" collectorNumber="60" uuid="77c699c3-c534-4ffa-bcaf-63c221e49243"/>
+        <card number="1" name="Buried Ruin" setShortName="FDC" collectorNumber="298" uuid="1e57d7ee-78d8-4e02-b3a8-a4b16ec0cdaf"/>
+        <card number="1" name="Chief of the Foundry" setShortName="FDC" collectorNumber="249" uuid="19bdccb3-d85a-4b9a-9d5e-6f8add7a3c77"/>
+        <card number="1" name="Counterspell" setShortName="FDC" collectorNumber="61" uuid="83390164-f00b-4be1-9cec-5de088c9debc"/>
+        <card number="1" name="Cultivator's Caravan" setShortName="FDC" collectorNumber="251" uuid="f5ec4e50-b667-4376-913c-715959840850"/>
+        <card number="1" name="Darksteel Citadel" setShortName="FDC" collectorNumber="300" uuid="b379ba64-adf5-4a64-9f28-ace36f1b887b"/>
+        <card number="1" name="Darksteel Juggernaut" setShortName="FDC" collectorNumber="252" uuid="79202c72-ffb3-4b00-811f-01814e117689"/>
+        <card number="1" name="Duplicant" setShortName="FDC" collectorNumber="255" uuid="74e04402-dbc3-4646-9857-fc42ecd8cc43"/>
+        <card number="1" name="Etherium Sculptor" setShortName="FDC" collectorNumber="62" uuid="438aca09-34c2-4dac-8008-1862109443b5"/>
+        <card number="1" name="Fall from Favor" setShortName="FDC" collectorNumber="63" uuid="cd200502-84ad-40af-829d-ccb15859c226"/>
+        <card number="1" name="Forsaken Monument" setShortName="FDC" collectorNumber="258" uuid="5f9e232e-39d0-4890-b935-98a1c14ef344"/>
+        <card number="1" name="Foundry Inspector" setShortName="FDC" collectorNumber="259" uuid="9ff34a25-85f9-40a4-a3fd-c27148bf7429"/>
+        <card number="1" name="Foundry of the Consuls" setShortName="FDC" collectorNumber="302" uuid="0087b1ea-beba-49e6-924c-b792c473a8ce"/>
+        <card number="1" name="Graaz, Unstoppable Juggernaut" setShortName="FDC" collectorNumber="260" uuid="08947a4e-03cd-4e02-8eba-8f4087fad414"/>
+        <card number="1" name="Hedron Archive" setShortName="FDC" collectorNumber="262" uuid="068a365c-157c-4af4-9b17-4854d696c19d"/>
+        <card number="1" name="Ichor Wellspring" setShortName="FDC" collectorNumber="265" uuid="c904cd73-b3bf-4fbd-a0a0-1b2aaaf880b0"/>
+        <card number="34" name="Island" setShortName="FDN" collectorNumber="274" uuid="17e2b637-72b1-4457-aaba-66d51107be4c"/>
+        <card number="1" name="Kappa Cannoneer" setShortName="FDC" collectorNumber="64" uuid="d644be98-83df-4546-a448-247f40299993"/>
+        <card number="1" name="Launch Mishap" setShortName="FDC" collectorNumber="65" uuid="803c058c-4ccc-40cd-a74d-1bda5a4c453b"/>
+        <card number="1" name="Lonely Sandbar" setShortName="FDC" collectorNumber="305" uuid="6c8281c0-161b-45c9-abe0-5527b644b7d0"/>
+        <card number="1" name="Master Transmuter" setShortName="FDC" collectorNumber="67" uuid="300fe2eb-fcaf-4888-9e44-a1718ac16f6c"/>
+        <card number="1" name="Master of Etherium" setShortName="FDC" collectorNumber="66" uuid="b5b7a5df-c926-45ea-af5a-008abc1f0f28"/>
+        <card number="1" name="Mazemind Tome" setShortName="FDC" collectorNumber="268" uuid="fbae0603-fdc3-488a-8917-08edf0884e1d"/>
+        <card number="1" name="Memory Guardian" setShortName="FDC" collectorNumber="68" uuid="ce1aa5e5-a3b7-4a9d-9afd-b7c52aa2364c"/>
+        <card number="1" name="Meteor Golem" setShortName="FDC" collectorNumber="270" uuid="9e72f3f6-7420-4d5c-bddb-7ea972adce81"/>
+        <card number="1" name="Mind Stone" setShortName="FDC" collectorNumber="271" uuid="62901ae9-98dd-466b-8358-f5abd765b3c0"/>
+        <card number="1" name="Mind's Eye" setShortName="FDC" collectorNumber="272" uuid="b3390599-8fa6-4962-b762-f558a75945cc"/>
+        <card number="1" name="Misleading Signpost" setShortName="FDC" collectorNumber="69" uuid="74774cba-89b9-43c3-9648-df5a5e28a71b"/>
+        <card number="1" name="Myr Battlesphere" setShortName="FDC" collectorNumber="273" uuid="7d2ca7dc-a999-4708-aeec-9f8e0f0db1e5"/>
+        <card number="1" name="Myr Retriever" setShortName="FDC" collectorNumber="274" uuid="9bc01feb-9e14-40f1-ba4b-87e109c672e7"/>
+        <card number="1" name="Negate" setShortName="FDC" collectorNumber="70" uuid="40b33b38-8591-4e0c-8f3a-0249da977821"/>
+        <card number="1" name="Nettlecyst" setShortName="FDC" collectorNumber="275" uuid="91ef92af-de6b-4dc4-81ab-8e527cb96fdd"/>
+        <card number="1" name="Nevinyrral's Disk" setShortName="FDC" collectorNumber="276" uuid="a8d65c8e-984b-4cc2-8dc4-c8a7dd65be71"/>
+        <card number="1" name="Ornithopter of Paradise" setShortName="FDC" collectorNumber="277" uuid="9e5c677e-397d-4a0c-994e-2f35eadb8a33"/>
+        <card number="1" name="Padeem, Consul of Innovation" setShortName="FDC" collectorNumber="71" uuid="6303997b-784d-4710-9c56-a92b7d5a8786"/>
+        <card number="1" name="Palladium Myr" setShortName="FDC" collectorNumber="278" uuid="3679933e-6880-41e3-b9e0-43d002722d4e"/>
+        <card number="1" name="Propaganda" setShortName="FDC" collectorNumber="72" uuid="efc52d02-7d22-4ff6-b104-a6fe704e8ef2"/>
+        <card number="1" name="Psychosis Crawler" setShortName="FDC" collectorNumber="280" uuid="450a680b-a2fb-495b-b22e-8c799a495fdf"/>
+        <card number="1" name="Pull from Tomorrow" setShortName="FDC" collectorNumber="73" uuid="99d9d3a9-442b-485c-88e7-91de7278bde9"/>
+        <card number="1" name="Remote Isle" setShortName="FDC" collectorNumber="309" uuid="444425b6-8529-430d-b74c-407ce462ad92"/>
+        <card number="1" name="Research Thief" setShortName="FDC" collectorNumber="74" uuid="f6287354-4503-43c6-bfc0-39efb6179428"/>
+        <card number="1" name="Scrawling Crawler" setShortName="FDC" collectorNumber="282" uuid="09565ec6-dbb0-4ec8-bd75-781400f0dbe0"/>
+        <card number="1" name="Shimmer Dragon" setShortName="FDC" collectorNumber="75" uuid="826201fc-f7cb-43b5-988a-6b668d19fc2f"/>
+        <card number="1" name="Shimmer Myr" setShortName="FDC" collectorNumber="283" uuid="8eb0c2fc-c7e0-41f2-b532-e4cac30d2ac7"/>
+        <card number="1" name="Silver Myr" setShortName="FDC" collectorNumber="284" uuid="13d8a661-8e06-4625-8543-2c6ce7aaf03a"/>
+        <card number="1" name="Skysovereign, Consul Flagship" setShortName="FDC" collectorNumber="285" uuid="0c254f4d-31ed-436a-92cb-85bb3709743e"/>
+        <card number="1" name="Sol Ring" setShortName="FDC" collectorNumber="286" uuid="4f152dd9-2b35-45b2-90fe-8c71d0634226"/>
+        <card number="1" name="Soul-Guide Lantern" setShortName="FDC" collectorNumber="287" uuid="b005223d-aa57-4238-8c25-290141851177"/>
+        <card number="1" name="Spire Golem" setShortName="FDC" collectorNumber="288" uuid="50ef252f-02c3-4b79-8e1b-d42db37e9fc4"/>
+        <card number="1" name="Steel Hellkite" setShortName="FDC" collectorNumber="289" uuid="7ce14b48-34db-4308-8f5a-7b62d0e97d0e"/>
+        <card number="1" name="Steel Overseer" setShortName="FDC" collectorNumber="290" uuid="d306b8c9-7a7f-4238-8496-6df10782afaa"/>
+        <card number="1" name="Tamiyo's Logbook" setShortName="FDC" collectorNumber="76" uuid="e5cef092-de95-4cc6-9426-908ca0b44c95"/>
+        <card number="1" name="Thirst for Knowledge" setShortName="FDC" collectorNumber="77" uuid="f784f025-2798-4112-9768-39c8e3572b25"/>
+        <card number="1" name="Thopter Fabricator" setShortName="FDC" collectorNumber="78" uuid="36123651-430b-4ae3-a055-713f81bb0f53"/>
+        <card number="1" name="Thopter Spy Network" setShortName="FDC" collectorNumber="79" uuid="8628d622-d682-4264-87d7-ad8434bb4328"/>
+        <card number="1" name="Thought Monitor" setShortName="FDC" collectorNumber="80" uuid="03fd75f3-e545-4a07-ab1d-9b51612a1463"/>
+        <card number="1" name="Thought Vessel" setShortName="FDC" collectorNumber="292" uuid="ddd26152-5e1f-4c48-99e0-a4fdc5155d98"/>
+        <card number="1" name="Thoughtcast" setShortName="FDC" collectorNumber="81" uuid="0baa33b1-c37c-4d62-a7c9-c08e5ac9724a"/>
+        <card number="1" name="Vedalken Archmage" setShortName="FDC" collectorNumber="82" uuid="cb57430d-a799-4036-aee2-6b5162035a7f"/>
+        <card number="1" name="War Room" setShortName="FDC" collectorNumber="317" uuid="b2593c45-585f-4eaf-bb08-e91a4fc2d425"/>
+        <card number="1" name="Whirler Rogue" setShortName="FDC" collectorNumber="83" uuid="51505039-b6f6-4dd6-9a09-5494e030deff"/>
+        <card number="1" name="Sai, Master Thopterist" setShortName="FDC" collectorNumber="5" uuid="5650587a-27a5-4d68-97e2-5745627bd094"/>
+    </zone>
+</cockatrice_deck>

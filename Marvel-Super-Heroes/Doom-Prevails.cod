@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname></deckname>
+    <format></format>
+    <bannerCard providerId="ac011c2d-d4d9-4f17-a1fb-7e30d25ca249">Doctor Doom, King of Latveria</bannerCard>
+    <comments></comments>
+    <tags/>
+    <zone name="main">
+        <card number="1" name="Abomination, World Ravager" setShortName="MSC" collectorNumber="47" uuid="fddd2e68-8e1e-4162-a2c7-49da2c86d471"/>
+        <card number="1" name="Age of Ultron" setShortName="MSC" collectorNumber="41" uuid="54050442-c9b1-481a-a1cd-77c147e9013e"/>
+        <card number="1" name="Arcane Signet" setShortName="MSC" collectorNumber="193" uuid="09cb4254-b88c-4231-b604-a144a20187a2"/>
+        <card number="1" name="Archnemesis" setShortName="MSC" collectorNumber="74" uuid="b440109f-af52-415e-94d3-d4997f5bee3e"/>
+        <card number="1" name="Baron Strucker, HYDRA Overlord" setShortName="MSH" collectorNumber="446" uuid="0eb58292-72f2-4344-b5ec-db6c8999cb01"/>
+        <card number="1" name="Batroc the Leaper" setShortName="MSC" collectorNumber="49" uuid="e34e33ea-042e-409c-b304-52644ec5b1f5"/>
+        <card number="1" name="Bedevil" setShortName="MSC" collectorNumber="182" uuid="985b9779-b8f6-4d7e-9490-5d2b91ee8db2"/>
+        <card number="1" name="Black Market Connections" setShortName="MSC" collectorNumber="155" uuid="9d9ca869-e68a-4f53-9f52-85c714dac6f3"/>
+        <card number="1" name="Blasphemous Act" setShortName="MSC" collectorNumber="163" uuid="7d4b1d44-126e-4987-9a9f-f0f9627a09cb"/>
+        <card number="1" name="Canyon Slough" setShortName="MSC" collectorNumber="228" uuid="587cc3ba-75c2-46a0-bd44-6f953fe1eb01"/>
+        <card number="1" name="Chameleon, Master of Disguise" setShortName="MSC" collectorNumber="148" uuid="dcc50ba7-c4be-4c20-a1fc-466194aab7c2"/>
+        <card number="1" name="Chaos Warp" setShortName="MSC" collectorNumber="164" uuid="57f61970-382e-415c-868b-6bbb6c78825d"/>
+        <card number="1" name="Choked Estuary" setShortName="MSC" collectorNumber="229" uuid="0c37e84e-e7e0-4dfe-bf17-daeb2e434861"/>
+        <card number="1" name="Coastal Peak" setShortName="MSC" collectorNumber="232" uuid="d2a70a9d-2d9f-4afd-9393-8d6518936ee2"/>
+        <card number="1" name="Command Tower" setShortName="MSC" collectorNumber="235" uuid="a508330c-f223-4ee3-8610-e2c394519ae6"/>
+        <card number="1" name="Containment Construct" setShortName="MSC" collectorNumber="284" uuid="050c52b1-5dea-4aae-aa32-e501d61b56e7"/>
+        <card number="1" name="Crumbling Necropolis" setShortName="MSC" collectorNumber="237" uuid="d28542af-936f-44e5-a4e3-119f23c9f0d6"/>
+        <card number="1" name="Currency Converter" setShortName="MSC" collectorNumber="197" uuid="4eab054c-93f8-4da4-afb9-8f4c73c19213"/>
+        <card number="1" name="Damocles Base, Sword of Kang" setShortName="MSC" collectorNumber="42" uuid="89936964-7131-4ebf-b956-9692659866c1"/>
+        <card number="1" name="Doom's Time Platform" setShortName="MSC" collectorNumber="103" uuid="6f7935d1-d588-40ca-804f-bac56d986d74"/>
+        <card number="1" name="Dragonskull Summit" setShortName="MSC" collectorNumber="238" uuid="d20e433a-eb62-4301-bc20-bfe27468b033"/>
+        <card number="1" name="Drowned Catacomb" setShortName="MSC" collectorNumber="239" uuid="ebea49ab-e5cf-46d9-ae35-226a7321ede0"/>
+        <card number="1" name="Endless Ranks of HYDRA" setShortName="MSC" collectorNumber="43" uuid="27da10b3-a131-4afc-ab84-5df93160d81f"/>
+        <card number="1" name="Exotic Orchard" setShortName="MSC" collectorNumber="241" uuid="8853ff94-bf44-4cfd-9d3a-0743c361fb0d"/>
+        <card number="1" name="Extract Power" setShortName="MSC" collectorNumber="29" uuid="11aaa7c6-c79d-48f9-af66-3b360d3b15b5"/>
+        <card number="1" name="Fetid Pools" setShortName="MSC" collectorNumber="243" uuid="5fa4556f-2fdc-42e6-98cb-291cee2ca3ac"/>
+        <card number="1" name="Foreboding Ruins" setShortName="MSC" collectorNumber="244" uuid="76fdf6be-e13b-49ee-9d50-8625edb49951"/>
+        <card number="1" name="Frostboil Snarl" setShortName="MSC" collectorNumber="246" uuid="ae705a26-5371-4236-904c-fe3e58b4721d"/>
+        <card number="1" name="Glorious Purpose" setShortName="MSC" collectorNumber="31" uuid="d78f2105-030f-4951-aa02-0d4db3d34f59"/>
+        <card number="1" name="Helmut Zemo, Mastermind" setShortName="MSC" collectorNumber="32" uuid="545f7f8d-f6a3-4e85-a53c-3eb9b28ebd14"/>
+        <card number="1" name="Iron Monger, Sadistic Tycoon" setShortName="MSC" collectorNumber="45" uuid="799554d1-d1fb-4206-af9a-80d3582bedc0"/>
+        <card number="4" name="Island" setShortName="MSH" collectorNumber="279" uuid="8c1467b1-ff2c-4f73-91ba-bc2b07afc2c3"/>
+        <card number="1" name="Kang Dynasty" setShortName="MSC" collectorNumber="35" uuid="5e4223df-c9fc-410a-913a-17bbfd054b57"/>
+        <card number="1" name="Kang Prime" setShortName="MSC" collectorNumber="85" uuid="88cf0311-d7e3-40bb-85fa-3cca973c5e44"/>
+        <card number="1" name="Kang, Temporal Tyrant" setShortName="MSH" collectorNumber="450" uuid="e5dc6bca-f005-43e9-b6c7-739e49064c2f"/>
+        <card number="1" name="Killmonger, Ruthless Usurper" setShortName="MSC" collectorNumber="53" uuid="0ec1ec8b-24d7-40e4-9e9d-4d9ec4f0a4f8"/>
+        <card number="1" name="Kindred Dominance" setShortName="MSC" collectorNumber="156" uuid="f6cd7c08-f5d4-4bdc-a254-809d900b0fc3"/>
+        <card number="1" name="Klaw, Master of Sound" setShortName="MSC" collectorNumber="46" uuid="5c589d94-7cea-4d4c-91a8-4d939634a5e5"/>
+        <card number="1" name="Lady Loki, Agent of Chaos" setShortName="MSC" collectorNumber="54" uuid="44ac85d4-0429-4813-b7fe-eed1f6575b7d"/>
+        <card number="1" name="Lethal Scheme" setShortName="MSC" collectorNumber="157" uuid="b2d9c467-6e56-401c-ade1-95dad7e4e766"/>
+        <card number="1" name="Living Laser" setShortName="MSC" collectorNumber="55" uuid="595ee0b4-393f-4bda-bcb4-f0fa43cf7ed2"/>
+        <card number="1" name="Loki's Scepter" setShortName="MSC" collectorNumber="56" uuid="57e90938-9225-4c15-b4fb-aad2cced2e6a"/>
+        <card number="1" name="Loki, the Deceiver" setShortName="MSC" collectorNumber="86" uuid="c0cd3d41-909b-4f20-a44b-db82807d10ae"/>
+        <card number="1" name="Luxury Suite" setShortName="MSC" collectorNumber="252" uuid="3c409d1e-f634-44a2-8fcf-dcdcb0babc3f"/>
+        <card number="1" name="Madame Hydra" setShortName="MSH" collectorNumber="451" uuid="4dedca48-b7a2-45b9-af1e-b3754879d1d6"/>
+        <card number="1" name="Molecule Man" setShortName="MSC" collectorNumber="9" uuid="ee64d0dd-e3d8-4abc-b9d6-b19c505fbfa1"/>
+        <card number="1" name="Moonstone, Harsh Mistress" setShortName="MSH" collectorNumber="447" uuid="792e4119-0518-4c97-822d-d146a5368a15"/>
+        <card number="5" name="Mountain" setShortName="MSH" collectorNumber="283" uuid="9c29ba11-7438-4fd7-98b9-961be882122d"/>
+        <card number="1" name="Night's Whisper" setShortName="MSC" collectorNumber="158" uuid="1ed2b60b-5f20-4ae6-93fb-51540ad9c9e7"/>
+        <card number="1" name="Patchwork Banner" setShortName="MSC" collectorNumber="207" uuid="537ea7e7-e8e8-4736-bdd9-1085f1a7c259"/>
+        <card number="1" name="Path of Ancestry" setShortName="MSC" collectorNumber="254" uuid="836b8f52-10d2-4716-9f7b-38fb23bc68de"/>
+        <card number="1" name="Progenitor's Icon" setShortName="MSC" collectorNumber="208" uuid="55a7f877-dc7c-4c1b-b233-900958c9e8f5"/>
+        <card number="1" name="Propaganda" setShortName="MSC" collectorNumber="151" uuid="ac943e31-26bc-4b54-b73f-460e6e402d86"/>
+        <card number="1" name="Prowler, Clawed Thief" setShortName="MSC" collectorNumber="186" uuid="08d18fce-e250-4bcb-9acf-08a8a6e4f1e2"/>
+        <card number="1" name="Puppet Master, String Puller" setShortName="MSC" collectorNumber="59" uuid="ab888daa-1161-4917-bca0-efd5c430b2d9"/>
+        <card number="1" name="Red Ghost, Intangible Genius" setShortName="MSC" collectorNumber="92" uuid="35bae013-51e9-4047-91e3-3b366ad0764e"/>
+        <card number="1" name="Scavenger Grounds" setShortName="MSC" collectorNumber="263" uuid="9fbe68ba-ffe5-4fe0-ac0a-0b3221e4f395"/>
+        <card number="1" name="Scorched Geyser" setShortName="MSC" collectorNumber="264" uuid="43abdfba-0a55-4b8a-858e-3372ee40a579"/>
+        <card number="1" name="Secluded Courtyard" setShortName="MSC" collectorNumber="265" uuid="c0d17d04-cf0b-4918-bfec-b34b0d98a602"/>
+        <card number="1" name="Skullclamp" setShortName="MSC" collectorNumber="210" uuid="1d8b007b-3169-4ee3-80c7-781fc096fc7a"/>
+        <card number="1" name="Smoldering Marsh" setShortName="MSC" collectorNumber="266" uuid="d707c477-440f-417c-970a-0e7426a58045"/>
+        <card number="1" name="Sol Ring" setShortName="MSC" collectorNumber="213" uuid="a7fc546e-7e3c-436d-a0b9-9ac3548ec344"/>
+        <card number="1" name="Spark Double" setShortName="MSC" collectorNumber="279" uuid="c0bd188b-7fb9-4070-a92b-80b81ba71c61"/>
+        <card number="1" name="Stilt-Man, Towering Terror" setShortName="MSC" collectorNumber="61" uuid="7ffa820c-ac05-4b3d-a0ec-5cbd3c42ac9c"/>
+        <card number="1" name="Sulfur Falls" setShortName="MSC" collectorNumber="269" uuid="c762f475-7e58-4477-839b-b3c55434b88f"/>
+        <card number="1" name="Sunken Hollow" setShortName="MSC" collectorNumber="271" uuid="3a8eef9b-9b03-42cd-a27a-07021bf0b33f"/>
+        <card number="1" name="Superior Foes of Spider-Man" setShortName="MSC" collectorNumber="167" uuid="bb759a0b-df7b-43c8-8e8e-bd52535cdbc0"/>
+        <card number="6" name="Swamp" setShortName="MSH" collectorNumber="281" uuid="dda87be6-317e-4227-a96d-7742ac054d2e"/>
+        <card number="1" name="Swiftfoot Boots" setShortName="MSC" collectorNumber="216" uuid="6675632d-d74a-4b1e-8539-ac678d5545a5"/>
+        <card number="1" name="Syphon Mind" setShortName="MSC" collectorNumber="159" uuid="be3f418b-25c3-4370-a1de-50e8e88c2ef6"/>
+        <card number="1" name="Talisman of Dominance" setShortName="MSC" collectorNumber="219" uuid="00d4a1d4-b86a-4c05-9ecc-130e011e0486"/>
+        <card number="1" name="Talisman of Indulgence" setShortName="MSC" collectorNumber="220" uuid="ccacf88d-407d-465d-958a-1389b7d700e6"/>
+        <card number="1" name="Terminate" setShortName="MSC" collectorNumber="189" uuid="379ffc67-4142-4ead-a871-0f851523745e"/>
+        <card number="1" name="Terramorphic Expanse" setShortName="MSC" collectorNumber="273" uuid="a81f924b-0527-4311-8120-9bfff71524f6"/>
+        <card number="1" name="The Frightful Four" setShortName="MSC" collectorNumber="44" uuid="3e792132-de96-47aa-bcd5-58f1e9be5932"/>
+        <card number="1" name="The Squadron Sinister" setShortName="MSC" collectorNumber="96" uuid="96714d95-baef-45e3-a2b0-00a8bdb3a76d"/>
+        <card number="1" name="Titan of Littjara" setShortName="MSC" collectorNumber="280" uuid="6ac8eb8a-01b8-41b2-b725-01a1fc17fcb7"/>
+        <card number="1" name="Titania, Proud Pummeler" setShortName="MSC" collectorNumber="62" uuid="31255422-9afa-416c-90b2-62baf1d02cca"/>
+        <card number="1" name="Tombstone, Career Criminal" setShortName="MSC" collectorNumber="160" uuid="d3cd086b-8ffe-452f-9bb1-cc235058a3af"/>
+        <card number="1" name="Toxic Deluge" setShortName="MSC" collectorNumber="161" uuid="de5afccc-8d42-4bd6-b068-b9ea2361655e"/>
+        <card number="1" name="Tri-Sentinel, Act of Vengeance" setShortName="MSC" collectorNumber="115" uuid="a4960ab8-fac3-4a11-a3f6-46527cf228ea"/>
+        <card number="1" name="Typhoid Mary, Fractured" setShortName="MSC" collectorNumber="99" uuid="6880df6d-2ec3-459d-aa4f-92f595fab9b8"/>
+        <card number="1" name="Ultron, Unlimited" setShortName="MSC" collectorNumber="100" uuid="bf5b410f-d6cb-4a74-a975-372975cf21f6"/>
+        <card number="1" name="Unclaimed Territory" setShortName="MSC" collectorNumber="275" uuid="d3782952-3839-4a94-95bc-716611d3ece6"/>
+        <card number="1" name="Vandalblast" setShortName="MSC" collectorNumber="168" uuid="71067239-d46f-4201-a91c-6aa4c41fa8b1"/>
+        <card number="1" name="Villainous Hideout" setShortName="MSH" collectorNumber="454" uuid="cb4727f5-4a7e-487e-bd72-5f58eb8bf88e"/>
+        <card number="1" name="Withering Torment" setShortName="MSC" collectorNumber="162" uuid="06d44ada-f98e-405f-89d3-ac1002bfb854"/>
+        <card number="1" name="Doctor Doom, King of Latveria" setShortName="MSC" collectorNumber="880" uuid="ac011c2d-d4d9-4f17-a1fb-7e30d25ca249"/>
+    </zone>
+</cockatrice_deck>

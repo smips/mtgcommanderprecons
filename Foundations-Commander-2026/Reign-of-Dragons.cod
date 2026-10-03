@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname></deckname>
+    <format></format>
+    <bannerCard providerId="8a17ec4e-b508-41af-803b-32acd863e598">Lathliss, Dragon Queen</bannerCard>
+    <comments></comments>
+    <tags/>
+    <zone name="main">
+        <card number="1" name="Abrade" setShortName="FDC" collectorNumber="136" uuid="6d7c1ad4-5bbf-4d84-8494-953e95ed2717"/>
+        <card number="1" name="Anger" setShortName="FDC" collectorNumber="137" uuid="ed8d665e-9df6-4ae9-a567-977c687fa8e2"/>
+        <card number="1" name="Arcane Signet" setShortName="FDC" collectorNumber="245" uuid="ee7710cf-e73d-479f-bc8d-0e78a0e324d9"/>
+        <card number="1" name="Atsushi, the Blazing Sky" setShortName="FDC" collectorNumber="138" uuid="bedb57f3-bda8-4eba-ba4d-895e38f882f2"/>
+        <card number="1" name="Basilisk Collar" setShortName="FDC" collectorNumber="246" uuid="cd35c8ca-a456-45b5-b018-98027a56c719"/>
+        <card number="1" name="Bitter Reunion" setShortName="FDC" collectorNumber="139" uuid="5e5441ce-abc3-43f2-85ca-62bdf1076647"/>
+        <card number="1" name="Blasphemous Act" setShortName="FDC" collectorNumber="140" uuid="40ca082c-22e2-4edd-b4c2-a07032d4e360"/>
+        <card number="1" name="Bonders' Enclave" setShortName="FDC" collectorNumber="297" uuid="7cfeb33d-65c7-4aa2-a1d8-964e6cd73b82"/>
+        <card number="1" name="Breaching Dragonstorm" setShortName="FDC" collectorNumber="141" uuid="14f530e9-0eef-44df-9ef7-d9cf3536afd7"/>
+        <card number="1" name="Breath Weapon" setShortName="FDC" collectorNumber="142" uuid="41946916-52d3-4fdd-aebb-11fa013af58c"/>
+        <card number="1" name="Carnelian Orb of Dragonkind" setShortName="FDC" collectorNumber="143" uuid="46027bce-64d4-4fbc-bdf7-643d2a65d9dc"/>
+        <card number="1" name="Chain Reaction" setShortName="FDC" collectorNumber="144" uuid="8c3aa5ea-722e-4ccc-b6cd-3eae9d05bc69"/>
+        <card number="1" name="Chandra's Ignition" setShortName="FDC" collectorNumber="145" uuid="d9f011c7-6d90-4db8-a4b7-65010130762c"/>
+        <card number="1" name="Chaos Warp" setShortName="FDC" collectorNumber="146" uuid="7bd1cdd2-9f55-49ee-9787-131f353e3ad0"/>
+        <card number="1" name="Commander's Sphere" setShortName="FDC" collectorNumber="250" uuid="a2f126c3-ef62-421b-8d3e-2ae2f2d4f000"/>
+        <card number="1" name="Count on Luck" setShortName="FDC" collectorNumber="147" uuid="6d277868-251b-413f-b731-12419ed7ce87"/>
+        <card number="1" name="Crucible of Fire" setShortName="FDC" collectorNumber="148" uuid="2951ec1e-0e42-4442-9cdd-1d52ddf75f80"/>
+        <card number="1" name="Cursed Mirror" setShortName="FDC" collectorNumber="149" uuid="e69eef8f-f3fe-49fd-a567-6425c8f30d4c"/>
+        <card number="1" name="Dragon Tempest" setShortName="FDC" collectorNumber="150" uuid="421badab-0f02-4dfa-a01d-409b5a7b05ce"/>
+        <card number="1" name="Dragon's Hoard" setShortName="FDC" collectorNumber="253" uuid="851de21b-7eec-4e6c-91c0-0b81533533a9"/>
+        <card number="1" name="Dragonhawk, Fate's Tempest" setShortName="FDC" collectorNumber="151" uuid="6bd51655-2e3a-4b92-92af-bc4781ba680f"/>
+        <card number="1" name="Dragonlord's Servant" setShortName="FDC" collectorNumber="152" uuid="a59f9425-6426-4a35-9eed-eaa59c0622a0"/>
+        <card number="1" name="Dragonmaster Outcast" setShortName="FDC" collectorNumber="153" uuid="ee9e2f35-6e1d-4ccc-9cb9-20955d5178c5"/>
+        <card number="1" name="Dragonspeaker Shaman" setShortName="FDC" collectorNumber="154" uuid="a44dbac8-756e-40a2-baed-2c7f4e20a962"/>
+        <card number="1" name="Dragonstorm Globe" setShortName="FDC" collectorNumber="254" uuid="7f991430-73e2-4da9-b878-10d684dfeafd"/>
+        <card number="1" name="Drakuseth, Maw of Flames" setShortName="FDC" collectorNumber="155" uuid="7ab6f53d-a4de-4afa-8cc6-ca8b5438cff8"/>
+        <card number="1" name="Fire Diamond" setShortName="FDC" collectorNumber="257" uuid="340770d5-20de-4bd4-85f1-ab7341f3f5a0"/>
+        <card number="1" name="Firespitter Whelp" setShortName="FDC" collectorNumber="157" uuid="09844edf-50b1-4244-886a-2be4b0520c23"/>
+        <card number="1" name="Forgotten Cave" setShortName="FDC" collectorNumber="301" uuid="3c5b7833-1b94-4cc9-8695-f87de3d31393"/>
+        <card number="1" name="Goddric, Cloaked Reveler" setShortName="FDC" collectorNumber="158" uuid="89950a60-8e6c-494e-93be-e0a44d81d598"/>
+        <card number="1" name="Goldlust Triad" setShortName="FDC" collectorNumber="159" uuid="6b6e8aec-de61-4404-b4c8-d8eecc7d92b2"/>
+        <card number="1" name="Haven of the Spirit Dragon" setShortName="FDC" collectorNumber="304" uuid="3ef1e028-2c7a-4bd3-8859-1aa5fd26abbc"/>
+        <card number="1" name="Hazoret's Monument" setShortName="FDC" collectorNumber="261" uuid="72fdb06f-f18d-47ee-b431-c23c0d042459"/>
+        <card number="1" name="Hellkite Charger" setShortName="FDC" collectorNumber="160" uuid="bb1ff4b2-c1ec-4df6-ab3c-998ece572e5b"/>
+        <card number="1" name="Herald's Horn" setShortName="FDC" collectorNumber="264" uuid="d5ba6786-c812-4744-bb2e-f180010b18b7"/>
+        <card number="1" name="Hit the Mother Lode" setShortName="FDC" collectorNumber="161" uuid="a636f0ea-d605-453c-8b10-c0ecfeffd573"/>
+        <card number="1" name="Leyline Tyrant" setShortName="FDC" collectorNumber="162" uuid="79fb848f-e21a-45f7-93d0-f9abdecf2498"/>
+        <card number="1" name="Lightning Bolt" setShortName="FDC" collectorNumber="163" uuid="0852f9f3-d7ef-4d31-93e3-93bc7c5a4ec9"/>
+        <card number="1" name="Magmaquake" setShortName="FDC" collectorNumber="164" uuid="4fff9f3f-9290-481b-96b3-cfd9abd2bbdd"/>
+        <card number="1" name="Mana Geyser" setShortName="FDC" collectorNumber="165" uuid="40ce8b51-49a0-49b0-a07b-6530e252ad35"/>
+        <card number="1" name="Minion of the Mighty" setShortName="FDC" collectorNumber="166" uuid="acf3b01f-6c67-4396-82ff-f3f416aea7c7"/>
+        <card number="32" name="Mountain" setShortName="FDN" collectorNumber="278" uuid="279df7e2-2a3b-464a-a7df-e91da28e3a8c"/>
+        <card number="1" name="Nogi, Draco-Zealot" setShortName="FDC" collectorNumber="167" uuid="f09f83af-c6fc-4512-a256-fd1993d4c055"/>
+        <card number="1" name="Orb of Dragonkind" setShortName="FDC" collectorNumber="168" uuid="77cc81e4-c773-4809-87e4-239d18c220a7"/>
+        <card number="1" name="Outpost Siege" setShortName="FDC" collectorNumber="169" uuid="fc21a97a-5ad6-42b5-8c98-f6e50dc9914c"/>
+        <card number="1" name="Parapet Thrasher" setShortName="FDC" collectorNumber="170" uuid="93d8b962-2fe8-4323-a760-144979818f2c"/>
+        <card number="1" name="Rapacious Dragon" setShortName="FDC" collectorNumber="171" uuid="271b249a-2cca-4a52-bbff-0f44f0ab51f9"/>
+        <card number="1" name="Sarkhan, Dragon Ascendant" setShortName="FDC" collectorNumber="172" uuid="af6826db-29c2-446d-8a76-1faf87535c25"/>
+        <card number="1" name="Scourge of Valkas" setShortName="FDC" collectorNumber="174" uuid="1f8686d0-2a67-4db0-bf69-c706301fc2bc"/>
+        <card number="1" name="Scourge of the Throne" setShortName="FDC" collectorNumber="173" uuid="b54f99f7-f579-466d-93b5-a856268b3851"/>
+        <card number="1" name="Shivan Devastator" setShortName="FDC" collectorNumber="175" uuid="ad5b6445-98a5-4126-bc58-6ac8c2de1950"/>
+        <card number="1" name="Skyline Despot" setShortName="FDC" collectorNumber="176" uuid="5dde8c11-96fe-4cd0-b28f-f11ee16a9e5c"/>
+        <card number="1" name="Sol Ring" setShortName="FDC" collectorNumber="286" uuid="4f152dd9-2b35-45b2-90fe-8c71d0634226"/>
+        <card number="1" name="Spinerock Knoll" setShortName="FDC" collectorNumber="314" uuid="d3534bc9-6208-4d29-923a-b18237f7c68c"/>
+        <card number="1" name="Spit Flame" setShortName="FDC" collectorNumber="177" uuid="73be85aa-caa9-4082-b919-6123cd8d1927"/>
+        <card number="1" name="Swiftfoot Boots" setShortName="FDC" collectorNumber="291" uuid="c193aab3-e53a-40ff-bd30-892170a88ff9"/>
+        <card number="1" name="Taurean Mauler" setShortName="FDC" collectorNumber="178" uuid="fc5776ff-d602-450c-aa92-c880867c6aa9"/>
+        <card number="1" name="Temple of the False God" setShortName="FDC" collectorNumber="315" uuid="6c68b939-8971-43ea-8ad6-8bca631e24dc"/>
+        <card number="1" name="Terror of Mount Velus" setShortName="FDC" collectorNumber="179" uuid="be3bcdcc-61b6-4f46-8154-f047e281e217"/>
+        <card number="1" name="The Elder Dragon War" setShortName="FDC" collectorNumber="156" uuid="670bfb28-1ac7-468d-ba38-728e3f688085"/>
+        <card number="1" name="Thrill of Possibility" setShortName="FDC" collectorNumber="180" uuid="780cc325-cd53-49a6-bfb5-edaf1a01ea7d"/>
+        <card number="1" name="Thunderbreak Regent" setShortName="FDC" collectorNumber="181" uuid="2e650882-8ce9-4836-9b4a-f9e526cb9931"/>
+        <card number="1" name="Thundermane Dragon" setShortName="FDC" collectorNumber="182" uuid="63752806-2186-46c5-9faa-f0835ab3b5d1"/>
+        <card number="1" name="Tyrant's Familiar" setShortName="FDC" collectorNumber="183" uuid="6cb14a03-4e8f-4b7e-90d6-eb1a29eb7b46"/>
+        <card number="1" name="Unexpected Windfall" setShortName="FDC" collectorNumber="184" uuid="374e1c0d-1dcc-4214-828a-624ef1af826a"/>
+        <card number="1" name="Utvara Hellkite" setShortName="FDC" collectorNumber="185" uuid="a299293c-cdf9-42fa-af9c-ac2e9966234a"/>
+        <card number="1" name="War Room" setShortName="FDC" collectorNumber="317" uuid="b2593c45-585f-4eaf-bb08-e91a4fc2d425"/>
+        <card number="1" name="Warstorm Surge" setShortName="FDC" collectorNumber="186" uuid="646219c6-b59b-4a91-a08e-09a4337e9981"/>
+        <card number="1" name="Lathliss, Dragon Queen" setShortName="FDC" collectorNumber="7" uuid="8a17ec4e-b508-41af-803b-32acd863e598"/>
+    </zone>
+</cockatrice_deck>

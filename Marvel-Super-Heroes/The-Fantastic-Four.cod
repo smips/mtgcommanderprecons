@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname></deckname>
+    <format></format>
+    <bannerCard providerId="640ebf2f-5687-42d4-97e5-85e2fefa89a9">Invisible Woman</bannerCard>
+    <comments></comments>
+    <tags/>
+    <zone name="main">
+        <card number="1" name="Alicia Masters, Skilled Sculptor" setShortName="MSC" collectorNumber="48" uuid="3db94749-340c-4454-a15d-ba6353e0c4a4"/>
+        <card number="1" name="Annie Joins Up" setShortName="MSC" collectorNumber="281" uuid="e86ccaf7-9686-415f-b1e1-3d574fbdf34b"/>
+        <card number="1" name="Arcane Signet" setShortName="MSC" collectorNumber="192" uuid="1bbc3ce9-f3df-41b4-b238-37319546c595"/>
+        <card number="1" name="Baxter Building" setShortName="MSH" collectorNumber="453" uuid="3edd8a6e-1be9-48d1-9dd1-cab72416115d"/>
+        <card number="1" name="Black Bolt, Inhuman King" setShortName="MSC" collectorNumber="76" uuid="0d484566-6816-4535-a754-dbda8073ae73"/>
+        <card number="1" name="Bovine Intervention" setShortName="MSC" collectorNumber="123" uuid="9fe4ad5a-3337-467a-b857-7297085da11f"/>
+        <card number="1" name="Canopy Vista" setShortName="MSC" collectorNumber="227" uuid="369e6485-fbc7-45f9-ac9d-2e26dd94f2d5"/>
+        <card number="1" name="Chromatic Lantern" setShortName="MSC" collectorNumber="195" uuid="693da13a-49af-4f7e-b247-36b454fb31a0"/>
+        <card number="1" name="Cinder Glade" setShortName="MSC" collectorNumber="230" uuid="ec93087a-5728-40e8-8625-a1d175d5252c"/>
+        <card number="1" name="Cleansing Nova" setShortName="MSC" collectorNumber="124" uuid="670e4457-927e-42ed-a36f-28b60c2f7566"/>
+        <card number="1" name="Clever Concealment" setShortName="MSC" collectorNumber="125" uuid="41d45a8a-ea1d-4fbc-86d2-5d6340f3b639"/>
+        <card number="1" name="Clifftop Retreat" setShortName="MSC" collectorNumber="231" uuid="4a7f7767-1959-4812-8654-0a22634096b1"/>
+        <card number="1" name="Collective Effort" setShortName="MSC" collectorNumber="126" uuid="d9138f86-34dc-46d2-99f4-18eb3b26c253"/>
+        <card number="1" name="Command Tower" setShortName="MSC" collectorNumber="234" uuid="d24f611b-87b1-4406-9829-1b663f52fcb6"/>
+        <card number="1" name="Cosmic Crucible" setShortName="MSC" collectorNumber="79" uuid="7436364b-5604-44c8-b539-9b7c3221ccdf"/>
+        <card number="1" name="Council of Reeds" setShortName="MSC" collectorNumber="28" uuid="a0d824ea-75d2-4de5-923b-813bba44e80b"/>
+        <card number="1" name="Crystal, Inhuman Princess" setShortName="MSC" collectorNumber="80" uuid="1e9aec49-08d7-4fc8-87dd-69ab8910688a"/>
+        <card number="1" name="Cultivate" setShortName="MSC" collectorNumber="172" uuid="e60deb92-f7dd-4f4e-9036-e47dd586f985"/>
+        <card number="1" name="Cut a Deal" setShortName="MSC" collectorNumber="127" uuid="088388a6-1cc3-4782-91af-504e70f40a97"/>
+        <card number="1" name="Deep Analysis" setShortName="MSC" collectorNumber="149" uuid="1a297bae-f259-4fc7-b76a-285f972d69e3"/>
+        <card number="1" name="Dragon Man, Reformed Robot" setShortName="MSC" collectorNumber="82" uuid="527e930b-b233-432c-a0dc-73c68ea3f686"/>
+        <card number="1" name="Evolving Wilds" setShortName="MSC" collectorNumber="240" uuid="c0318a48-30e4-4ef7-be3d-5e561c5ce428"/>
+        <card number="1" name="Exotic Orchard" setShortName="MSC" collectorNumber="241" uuid="8853ff94-bf44-4cfd-9d3a-0743c361fb0d"/>
+        <card number="1" name="Expressive Iteration" setShortName="MSC" collectorNumber="183" uuid="96f866ec-a163-4095-b088-d93fa0b6f6f7"/>
+        <card number="1" name="Fabled Passage" setShortName="MSC" collectorNumber="242" uuid="62ef854d-ec9e-443d-a4ba-4b2875ed3fe7"/>
+        <card number="1" name="Fantastic Elasticity" setShortName="MSC" collectorNumber="30" uuid="35521ad2-f701-48d6-8686-537ef1f079da"/>
+        <card number="1" name="Farseek" setShortName="MSC" collectorNumber="815" uuid="598f6334-4baf-4f9a-a70c-0cc1e8af68c9"/>
+        <card number="1" name="First Family" setShortName="MSC" collectorNumber="83" uuid="96679821-f850-4de1-b5f9-21e0681647ee"/>
+        <card number="1" name="Flame On!" setShortName="MSC" collectorNumber="51" uuid="7030f86d-d7e7-444d-9ed0-1758260926ed"/>
+        <card number="5" name="Forest" setShortName="MSH" collectorNumber="285" uuid="e5da22bf-bc8a-4810-b273-1e33a6b37323"/>
+        <card number="1" name="Franklin Richards, Ascendant" setShortName="MSC" collectorNumber="52" uuid="0957b296-c34d-4193-9fe7-a339533ac121"/>
+        <card number="1" name="Galactus, Devourer of Worlds" setShortName="MSC" collectorNumber="8" uuid="3a9df9dd-a480-406c-ba28-94895fbfb574"/>
+        <card number="1" name="Galvanic Iteration" setShortName="MSC" collectorNumber="184" uuid="4e148c83-09d1-4055-b1a6-5c624c67810d"/>
+        <card number="1" name="Genesis Ultimatum" setShortName="MSC" collectorNumber="283" uuid="ef2a26fe-ce75-45e2-b0c8-bb6ddb80abd9"/>
+        <card number="1" name="Glacial Fortress" setShortName="MSC" collectorNumber="248" uuid="d673a2d5-0c61-48dc-8c8d-06f0c7b6b8bf"/>
+        <card number="1" name="H.E.R.B.I.E., Lovable Robot" setShortName="MSC" collectorNumber="106" uuid="5e2f9f4c-dbdd-4da6-b08f-1f4d3fcb1328"/>
+        <card number="1" name="Hinterland Harbor" setShortName="MSC" collectorNumber="250" uuid="892451a1-5527-4857-84f8-62028d147489"/>
+        <card number="1" name="Hull Breach" setShortName="MSC" collectorNumber="185" uuid="3ff49b0b-322b-4b98-8604-d6716f3bec39"/>
+        <card number="1" name="Human Torch" setShortName="MSC" collectorNumber="877" uuid="2b6f41b1-8180-4b7f-8366-c874a95e731e"/>
+        <card number="1" name="Into the Time Vortex" setShortName="MSC" collectorNumber="165" uuid="9c1763b6-c83b-4a76-af58-64c0a6418326"/>
+        <card number="1" name="Invisible Force Field" setShortName="MSC" collectorNumber="19" uuid="7b05925b-ac8f-4ca5-9c9d-5e4e408c9f1d"/>
+        <card number="4" name="Island" setShortName="MSH" collectorNumber="279" uuid="8c1467b1-ff2c-4f73-91ba-bc2b07afc2c3"/>
+        <card number="1" name="It's Clobberin' Time!" setShortName="MSC" collectorNumber="66" uuid="7665948b-23d0-4b06-a32a-bfab8009b04f"/>
+        <card number="1" name="Lightning Greaves" setShortName="MSC" collectorNumber="202" uuid="b61634ae-05be-4b56-8ebb-9d4ade902e42"/>
+        <card number="1" name="Lockjaw, Slobbering Teleporter" setShortName="MSC" collectorNumber="36" uuid="e273f4e6-4691-4cb3-89e2-9b1ab45a2bc0"/>
+        <card number="1" name="Medusa, Inhuman Queen" setShortName="MSC" collectorNumber="68" uuid="3187ebab-8008-455c-a3c9-794a5b225b88"/>
+        <card number="1" name="Mind's Dilation" setShortName="MSC" collectorNumber="277" uuid="b9de3ca6-d62f-422b-a67f-199f535cb56f"/>
+        <card number="1" name="Mirage Mirror" setShortName="MSC" collectorNumber="206" uuid="e516bc14-749c-4da6-b5d3-cb5c16316e0c"/>
+        <card number="1" name="Mister Fantastic" setShortName="MSC" collectorNumber="876" uuid="64307a48-6e47-49b3-bfe0-c9d8d7226650"/>
+        <card number="1" name="Mister Fantastic, Reed Richards" setShortName="MSH" collectorNumber="66" uuid="17ef068b-61fc-443d-97b0-1e41f2622425"/>
+        <card number="1" name="Monologue Tax" setShortName="MSC" collectorNumber="139" uuid="ee68d390-11cb-4617-a9ee-6e8cf7ff0e55"/>
+        <card number="3" name="Mountain" setShortName="MSH" collectorNumber="283" uuid="9c29ba11-7438-4fd7-98b9-961be882122d"/>
+        <card number="1" name="Namor, Atlantean King" setShortName="MSC" collectorNumber="88" uuid="6b06f1aa-53f1-49e1-b9f7-e4b489ef7d55"/>
+        <card number="1" name="Negative Zone Portal" setShortName="MSC" collectorNumber="111" uuid="16fa4f17-972b-4a35-8dd6-88ee9b2ea2ce"/>
+        <card number="1" name="Nova Flame" setShortName="MSC" collectorNumber="57" uuid="1b5f713f-6ad9-445e-ae4c-56250bb3aecb"/>
+        <card number="1" name="Path of Ancestry" setShortName="MSC" collectorNumber="254" uuid="836b8f52-10d2-4716-9f7b-38fb23bc68de"/>
+        <card number="1" name="Path of Discovery" setShortName="MSC" collectorNumber="179" uuid="8063528c-7347-4757-8254-5aa3e4b61c6f"/>
+        <card number="1" name="Path to Exile" setShortName="MSC" collectorNumber="141" uuid="95ca89ea-1200-4bb4-ae4b-af35d3ccd35b"/>
+        <card number="5" name="Plains" setShortName="MSH" collectorNumber="277" uuid="be30f027-ffdd-4d81-bed2-4adb6b4b803f"/>
+        <card number="1" name="Power Pack" setShortName="MSC" collectorNumber="90" uuid="04f8aa71-f27b-48b3-9146-b9e785555428"/>
+        <card number="1" name="Prairie Stream" setShortName="MSC" collectorNumber="257" uuid="b2e133b4-2263-4ac2-8d16-7bf307d5e104"/>
+        <card number="1" name="Promise of Loyalty" setShortName="MSC" collectorNumber="142" uuid="dcca54de-3b2e-4801-bb66-3809382d6f01"/>
+        <card number="1" name="Quantum Misalignment" setShortName="MSC" collectorNumber="152" uuid="561caecd-e065-48f6-8fde-85b938794ed3"/>
+        <card number="1" name="Radiant Summit" setShortName="MSC" collectorNumber="258" uuid="81b619cc-900c-4d65-83da-8b9dcb370984"/>
+        <card number="1" name="Recurring Insight" setShortName="MSC" collectorNumber="154" uuid="a3b0c460-1a5f-4e22-a594-34905117169c"/>
+        <card number="1" name="Rejuvenating Springs" setShortName="MSC" collectorNumber="260" uuid="c4565a7b-a0ed-4a7f-ad48-7745c56d141b"/>
+        <card number="1" name="Rootbound Crag" setShortName="MSC" collectorNumber="261" uuid="42d174e5-b8c2-45eb-8e08-1b94fc27cbee"/>
+        <card number="1" name="Scorched Geyser" setShortName="MSC" collectorNumber="264" uuid="43abdfba-0a55-4b8a-858e-3372ee40a579"/>
+        <card number="1" name="Seize the Day" setShortName="MSC" collectorNumber="166" uuid="9cb5d064-f474-4db9-b349-b9f71c587742"/>
+        <card number="1" name="Silver Surfer, Galactus's Herald" setShortName="MSC" collectorNumber="10" uuid="b463462f-8044-4e57-b96e-408a9f4e0974"/>
+        <card number="1" name="Sodden Verdure" setShortName="MSC" collectorNumber="267" uuid="0a451ab5-6244-48a0-a638-07da72b156b5"/>
+        <card number="1" name="Sol Ring" setShortName="MSC" collectorNumber="212" uuid="5bef0790-aa1b-4144-8391-338e59e86115"/>
+        <card number="1" name="Sulfur Falls" setShortName="MSC" collectorNumber="269" uuid="c762f475-7e58-4477-839b-b3c55434b88f"/>
+        <card number="1" name="Sunpetal Grove" setShortName="MSC" collectorNumber="272" uuid="e83092ee-4a90-4eac-915f-3fd01b7d9bd0"/>
+        <card number="1" name="Taunt from the Rampart" setShortName="MSC" collectorNumber="188" uuid="ad79ee29-dd86-484f-bd70-8ecd9d90ef75"/>
+        <card number="1" name="Terramorph" setShortName="MSC" collectorNumber="180" uuid="1389d46e-956d-4be6-a519-9c8338007715"/>
+        <card number="1" name="Terramorphic Expanse" setShortName="MSC" collectorNumber="828" uuid="719704eb-04b2-4e2f-9954-50f77dd9bf08"/>
+        <card number="1" name="The Fantasticar" setShortName="MSC" collectorNumber="104" uuid="ed0beb69-8441-4104-9990-81bd82f81f9a"/>
+        <card number="1" name="The Thing" setShortName="MSC" collectorNumber="878" uuid="4449f970-75ae-418f-aabd-72f1e21d0331"/>
+        <card number="1" name="Three Visits" setShortName="MSC" collectorNumber="181" uuid="99bf792f-963e-4509-8d3c-7db129c6a77f"/>
+        <card number="1" name="Tragic Arrogance" setShortName="MSC" collectorNumber="144" uuid="956d4728-e7a3-43f4-a350-86eca1b95d06"/>
+        <card number="1" name="Ultimate Nullification" setShortName="MSC" collectorNumber="26" uuid="3c27ca1c-8f2d-4ac8-aef1-bb6201763392"/>
+        <card number="1" name="Unstable Molecule Suit" setShortName="MSC" collectorNumber="116" uuid="5e24bfd5-1bc1-4c4b-9268-8e3b9829784d"/>
+        <card number="1" name="Valeria Richards, Precocious" setShortName="MSC" collectorNumber="38" uuid="5e0c357b-c5e8-4082-b1ec-85d40d10524c"/>
+        <card number="1" name="Whirlwind of Thought" setShortName="MSC" collectorNumber="190" uuid="a3069683-0ff5-49e5-b7ae-f5bd40a4a32f"/>
+        <card number="1" name="Willie Lumpkin, Postman" setShortName="MSC" collectorNumber="101" uuid="2021033b-ccad-4cb0-9528-357a3c726008"/>
+        <card number="1" name="Invisible Woman" setShortName="MSC" collectorNumber="875" uuid="640ebf2f-5687-42d4-97e5-85e2fefa89a9"/>
+    </zone>
+</cockatrice_deck>

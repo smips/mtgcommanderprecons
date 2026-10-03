@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname></deckname>
+    <format></format>
+    <bannerCard providerId="0742f19d-179c-43c4-ab95-4160c56b4384">Quintorius, History Chaser</bannerCard>
+    <comments></comments>
+    <tags/>
+    <zone name="main">
+        <card number="1" name="Advanced Reconstruction" setShortName="SOC" collectorNumber="30" uuid="cc912fec-827d-4deb-8430-79f5ea31ca9b"/>
+        <card number="1" name="Angel of Indemnity" setShortName="SOC" collectorNumber="133" uuid="41163f43-7357-4bbc-a1e7-9c8070135c93"/>
+        <card number="1" name="Anger" setShortName="SOC" collectorNumber="235" uuid="e886a604-e3ce-4c6a-b63e-2c7f910a177a"/>
+        <card number="1" name="Ao, the Dawn Sky" setShortName="SOC" collectorNumber="135" uuid="e002d351-3795-4cd9-b389-9ed81077845e"/>
+        <card number="1" name="Arcane Signet" setShortName="SOC" collectorNumber="127" uuid="7811dd72-61b9-4067-ac20-cea153e625d2"/>
+        <card number="1" name="Archaeomancer's Map" setShortName="SOC" collectorNumber="136" uuid="3679b9c8-ebae-474a-b862-6397edbcc4ea"/>
+        <card number="1" name="Atsushi, the Blazing Sky" setShortName="SOC" collectorNumber="236" uuid="06658540-0104-428f-91b1-40552826e781"/>
+        <card number="1" name="Augusta, Order Returned" setShortName="SOC" collectorNumber="11" uuid="a0d1df84-0cb6-44fb-9916-d766d93f1519"/>
+        <card number="1" name="Balefire Liege" setShortName="SOC" collectorNumber="295" uuid="6f236f33-f6d2-4b07-a69d-42165670bd45"/>
+        <card number="1" name="Battlefield Forge" setShortName="SOC" collectorNumber="362" uuid="c47c1bf5-f11e-4f86-b20b-5d899a11dc56"/>
+        <card number="1" name="Bitterthorn, Nissa's Animus" setShortName="SOC" collectorNumber="343" uuid="926cbd68-3b66-4ccc-a7c9-fb20e38a3126"/>
+        <card number="1" name="Ceaseless Conflict" setShortName="SOC" collectorNumber="12" uuid="a0e18f74-7fa6-4e3a-bc80-390a25055205"/>
+        <card number="1" name="Claim Jumper" setShortName="SOC" collectorNumber="140" uuid="11bda4c5-099f-489e-b64b-f4719241cf9d"/>
+        <card number="1" name="Clifftop Retreat" setShortName="SOC" collectorNumber="366" uuid="09d0e0dd-28e6-4d78-b768-b08188681d92"/>
+        <card number="1" name="Command Tower" setShortName="SOC" collectorNumber="129" uuid="c46a217c-0ed2-4b3c-9a01-ee38d12d76f3"/>
+        <card number="1" name="Conspiracy Theorist" setShortName="SOC" collectorNumber="240" uuid="dd6797f7-ecc4-4c45-b1e4-26963a1614dc"/>
+        <card number="1" name="Containment Construct" setShortName="SOC" collectorNumber="344" uuid="feb09084-0fdb-4226-b536-56d856354b5a"/>
+        <card number="1" name="Currency Converter" setShortName="SOC" collectorNumber="345" uuid="2413e7e1-f9a5-4657-9375-2c30d32d7853"/>
+        <card number="1" name="Drumbellower" setShortName="SOC" collectorNumber="143" uuid="c19e0ebf-ca94-4684-8b2c-68e592b65a24"/>
+        <card number="1" name="Emeria, the Sky Ruin" setShortName="SOC" collectorNumber="368" uuid="90f148e6-1a5e-46fc-9557-40c5c0038069"/>
+        <card number="1" name="Excava, the Risen Past" setShortName="SOC" collectorNumber="2" uuid="d47ebf19-b3fa-48a2-851a-254d32b0305a"/>
+        <card number="1" name="Exotic Orchard" setShortName="SOC" collectorNumber="369" uuid="7db2934a-43a0-46ad-8380-ff6703f8fd6d"/>
+        <card number="1" name="Fabled Passage" setShortName="SOC" collectorNumber="130" uuid="8119d329-6ee5-433c-bd81-8579bb061162"/>
+        <card number="1" name="Faithless Looting" setShortName="SOC" collectorNumber="244" uuid="fc019ffa-4461-4f3d-ab8d-e4d20e77ca0c"/>
+        <card number="1" name="Fateful Tempest" setShortName="SOC" collectorNumber="31" uuid="96ab4d23-14d7-429f-b62e-868c13997fb8"/>
+        <card number="1" name="Fellwar Stone" setShortName="SOC" collectorNumber="347" uuid="385b9f5e-81dd-49f6-a644-59d53245e3dc"/>
+        <card number="1" name="Fields of Strife" setShortName="SOS" collectorNumber="255" uuid="3dc7a4c3-c356-4fba-bea0-e8788da3eb57"/>
+        <card number="1" name="Furycalm Snarl" setShortName="SOC" collectorNumber="375" uuid="25a1cd4f-be6c-4e05-93ba-9e393cec76df"/>
+        <card number="1" name="Glittering Massif" setShortName="SOC" collectorNumber="376" uuid="0f741296-c523-49bd-9ff4-ce2a1a70883e"/>
+        <card number="1" name="Guardian Scalelord" setShortName="SOC" collectorNumber="149" uuid="8415c0b3-9bf7-4c45-a215-4a73f1a42cbd"/>
+        <card number="1" name="Guardian of Faith" setShortName="SOC" collectorNumber="148" uuid="037739cd-e05c-4aae-9123-f924e420010c"/>
+        <card number="1" name="Hofri Ghostforge" setShortName="SOC" collectorNumber="314" uuid="bc03cdb6-5ad0-452d-a698-bd19f5ebac83"/>
+        <card number="1" name="Kami of Ancient Law" setShortName="SOC" collectorNumber="150" uuid="4edbce98-bfc1-4c66-bd04-16100d9e22d3"/>
+        <card number="1" name="Karmic Guide" setShortName="SOC" collectorNumber="151" uuid="b26d50dd-54a1-43ce-9884-3999f698d97b"/>
+        <card number="1" name="Kirol, History Buff // Pack a Punch" setShortName="SOS" collectorNumber="198" uuid="676ba521-66e4-42cf-a315-70d03cb7334e"/>
+        <card number="1" name="Laelia, the Blade Reforged" setShortName="SOC" collectorNumber="246" uuid="2cb16354-1211-4230-90e2-4858ba68f348"/>
+        <card number="1" name="Lorehold Archivist // Restore Relic" setShortName="SOC" collectorNumber="49" uuid="cb535433-f062-4c35-977e-2f896251b1d8"/>
+        <card number="1" name="Lorehold Campus" setShortName="SOC" collectorNumber="384" uuid="b6ad08da-c9e8-4061-a4a6-032d6957a403"/>
+        <card number="1" name="Lorehold Charm" setShortName="SOS" collectorNumber="200" uuid="5fe70295-e550-4577-a341-dab6c25aabfd"/>
+        <card number="1" name="Lotus Field" setShortName="SOC" collectorNumber="385" uuid="ee5ac47c-e8b6-400e-b91e-a7cd0f952cf1"/>
+        <card number="1" name="Millikin" setShortName="SOC" collectorNumber="351" uuid="c2073453-4108-4039-a8c2-0f94dd7bf237"/>
+        <card number="1" name="Mind Stone" setShortName="SOC" collectorNumber="352" uuid="ad881aa0-decc-447b-8c8a-983546a9a55a"/>
+        <card number="1" name="Mistveil Plains" setShortName="SOC" collectorNumber="386" uuid="c53028dd-efb5-486c-a7d3-45f2f6050c1d"/>
+        <card number="1" name="Monologue Tax" setShortName="SOC" collectorNumber="157" uuid="7b88cb4c-8044-4e88-80f1-1688273ad0ec"/>
+        <card number="1" name="Moonshaker Cavalry" setShortName="SOC" collectorNumber="110" uuid="ca90d382-7e13-4637-a624-2a1b82abe56c"/>
+        <card number="6" name="Mountain" setShortName="SOS" collectorNumber="279" uuid="bce45bc0-accd-4853-a166-9dd5597526d5"/>
+        <card number="1" name="Naktamun Lorespinner // Wheel of Fortune" setShortName="SOC" collectorNumber="33" uuid="acca1fd4-6384-460e-905f-118f01aa76ed"/>
+        <card number="1" name="Patchwork Banner" setShortName="SOC" collectorNumber="353" uuid="81669ca8-3f20-45e6-b088-65969dcd93d1"/>
+        <card number="1" name="Path to Exile" setShortName="SOC" collectorNumber="159" uuid="90b690f4-9647-4e67-b7cb-b2692ea149b1"/>
+        <card number="1" name="Perpetual Timepiece" setShortName="SOC" collectorNumber="354" uuid="6edbedf9-273f-4d7f-80a2-705858bd4d6d"/>
+        <card number="11" name="Plains" setShortName="SOS" collectorNumber="273" uuid="bac08825-ca54-4a9f-bf4f-f75708a1550b"/>
+        <card number="1" name="Primary Research" setShortName="SOS" collectorNumber="26" uuid="f6fdb814-45c6-4d14-afff-7f5bd1bd10a1"/>
+        <card number="1" name="Quintorius, Field Historian" setShortName="SOC" collectorNumber="326" uuid="8e3c7f00-e997-4b07-98af-45b9ea35d2d7"/>
+        <card number="1" name="Quintorius, Loremaster" setShortName="SOC" collectorNumber="327" uuid="7a609e56-667d-48b5-a6e6-629f1d7a2f72"/>
+        <card number="1" name="Radiant Summit" setShortName="SOC" collectorNumber="396" uuid="5ca0311f-6218-4c1c-ac5f-23b9708446f1"/>
+        <card number="1" name="Relic Retriever" setShortName="SOC" collectorNumber="35" uuid="a016463d-a0aa-44a5-97ca-17ff70c4eb95"/>
+        <card number="1" name="Remorseful Cleric" setShortName="SOC" collectorNumber="164" uuid="665a1bd1-db82-4db9-af7d-af161d31a696"/>
+        <card number="1" name="Rip Apart" setShortName="SOC" collectorNumber="328" uuid="ab3443be-ab7f-4ab1-bc31-0ace68773f2d"/>
+        <card number="1" name="Rugged Prairie" setShortName="SOC" collectorNumber="401" uuid="6bd21c9e-de16-4ee9-ae16-6e82b490109d"/>
+        <card number="1" name="Sacred Peaks" setShortName="SOC" collectorNumber="402" uuid="ee2d6798-b19d-4628-bb57-05663ab4af68"/>
+        <card number="1" name="Secret Rendezvous" setShortName="SOC" collectorNumber="166" uuid="9be712b3-14ed-4a73-b3d3-5b76b2c5db64"/>
+        <card number="1" name="Seize the Spoils" setShortName="SOS" collectorNumber="129" uuid="4ddf4e34-a1f9-4636-942d-0a08e9f94320"/>
+        <card number="1" name="Selfless Spirit" setShortName="SOC" collectorNumber="167" uuid="9cd16dac-3bf9-4a71-a906-0cfbf98cdca5"/>
+        <card number="1" name="Serra Paragon" setShortName="SOC" collectorNumber="169" uuid="8e77a410-a053-4349-950c-d59e76b17923"/>
+        <card number="1" name="Sevinne's Reclamation" setShortName="SOC" collectorNumber="170" uuid="8deab1ef-4219-4767-a3c4-b61250d0ebe0"/>
+        <card number="1" name="Skyclave Apparition" setShortName="SOC" collectorNumber="173" uuid="e671de25-c47c-48a1-919b-6aa30dab142f"/>
+        <card number="1" name="Sol Ring" setShortName="SOC" collectorNumber="128" uuid="870ec754-a76c-40ea-9b81-81b3dca1f62c"/>
+        <card number="1" name="Spirit of Resilience" setShortName="SOC" collectorNumber="37" uuid="60584e5b-4138-405b-bd02-612cf175184e"/>
+        <card number="1" name="Squee, Goblin Nabob" setShortName="SOC" collectorNumber="254" uuid="8aabc541-ff2a-416f-a973-44eda8ec4706"/>
+        <card number="1" name="Staff of the Storyteller" setShortName="SOC" collectorNumber="111" uuid="67083aca-b077-4b12-8218-876e22476f85"/>
+        <card number="1" name="Study Hall" setShortName="SOC" collectorNumber="407" uuid="93f812bc-7663-4504-b566-79e2c0a0f845"/>
+        <card number="1" name="Sun Titan" setShortName="SOC" collectorNumber="178" uuid="3d6eacf2-f6c7-4ede-b5a5-7463602699ae"/>
+        <card number="1" name="Sunscorched Divide" setShortName="SOC" collectorNumber="410" uuid="eae999f9-9c58-4609-8ade-aca0acf07519"/>
+        <card number="1" name="Swords to Plowshares" setShortName="SOC" collectorNumber="179" uuid="68ec2aed-7662-48ae-ab25-04f74ece1e41"/>
+        <card number="1" name="Temple of Triumph" setShortName="SOC" collectorNumber="417" uuid="d0e763f7-25b8-444f-8722-614297d0663f"/>
+        <card number="1" name="Terramorphic Expanse" setShortName="SOS" collectorNumber="265" uuid="9a4c5629-fadd-42b9-850f-9f8586a2ca50"/>
+        <card number="1" name="Teshar, Ancestor's Apostle" setShortName="SOC" collectorNumber="180" uuid="6e80198c-cfae-46f9-84cb-584d091014c5"/>
+        <card number="1" name="Tocasia's Welcome" setShortName="SOC" collectorNumber="181" uuid="90e38661-292a-45e7-bda9-51af53cf0f68"/>
+        <card number="1" name="Tragic Arrogance" setShortName="SOC" collectorNumber="182" uuid="ac5a8ba5-90ab-4e5d-8aff-c72f88851990"/>
+        <card number="1" name="Turbulent Steppe" setShortName="SOC" collectorNumber="58" uuid="c0c73dd5-0a88-4a94-9c01-c1473433e46f"/>
+        <card number="1" name="Vanguard of the Restless" setShortName="SOC" collectorNumber="16" uuid="91211c56-b562-4889-8c5c-110c42be62c8"/>
+        <card number="1" name="Venerable Warsinger" setShortName="SOC" collectorNumber="336" uuid="cdd0062f-6b2a-49c4-bf47-9b05f16ca6eb"/>
+        <card number="1" name="Wave of Reckoning" setShortName="SOC" collectorNumber="112" uuid="7be0c25a-5e65-48e1-9560-9391111bb912"/>
+        <card number="1" name="White Orchid Phantom" setShortName="SOC" collectorNumber="184" uuid="e6cebc57-d7b0-4e86-bc9e-ebb1de58f932"/>
+        <card number="1" name="Quintorius, History Chaser" setShortName="SOC" collectorNumber="7" uuid="0742f19d-179c-43c4-ab95-4160c56b4384"/>
+    </zone>
+</cockatrice_deck>
